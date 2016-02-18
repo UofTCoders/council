@@ -11,7 +11,7 @@ Accounting overview
 ===================
 
 ``` r
-# Setup the packages and data.
+# Load the packages and data.
 library(dplyr)
 library(tidyr)
 finances <- read.csv('accounting.csv')
@@ -25,7 +25,7 @@ finances %>%
     group_by(Type) %>% 
     summarise(Amount = sum(Transaction)) %>% 
     arrange(desc(Type)) %>% 
-    knitr::kable(caption = 'Amount of income and expenses')
+    knitr::kable()
 ```
 
 | Type    |  Amount|

@@ -20,12 +20,11 @@ with R Markdown. Code is included in the output.
 # Accounting overview
 
 ```{r setup, warning=FALSE, message=FALSE}
-# Setup the packages and data.
+# Load the packages and data.
 library(dplyr)
 library(tidyr)
 finances <- read.csv('accounting.csv')
 ```
-
 
 **Total funds remaining**: $`r sum(finances$Transaction)`
 
@@ -35,6 +34,6 @@ finances %>%
     group_by(Type) %>% 
     summarise(Amount = sum(Transaction)) %>% 
     arrange(desc(Type)) %>% 
-    knitr::kable(caption = 'Amount of income and expenses')
+    knitr::kable()
 ```
 
