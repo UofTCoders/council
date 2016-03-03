@@ -1,0 +1,41 @@
+UofT Coders Executive Meeting
+Jan 13, 2016
+Attending: Madeleine, Luke, Lina
+Regrets: Elliot
+
+Treasurer:
+- GSU Cheque for $150
+- open bank account 
+- fees for bank account
+	- but good to have two co-signers
+- Luke will look into PC finance
+- Joint accounts
+- Madeleine will hold on to cheque for now
+- Roles: applying for funding (with help of Lina)
+- Fundraising?
+- People sign up to bring snacks
+- documentation for next year's:
+	- github folder for council roles, constitution all online (Luke)
+
+Admin:
+- add Lina as admin on the Github group
+- notetaker for official meetings
+- UofT Coders email, (Madeleine send Lina email with account info as well as mailing list)
+- Issues for the week -> by the instructor
+	- Lina will meet with Madeleine to do this, write instructions
+	- to make issues, post lesson material online etc.
+- calendar script to update, and adding the post
+- put meeting minutes on git, after cleaning up notes, email everyone with summary
+
+
+El Presidente:
+- planning schedule, surveys, maintaining contact with Mozilla, elections
+
+Meetings - Every Other Month
+March 10th, After Coding 
+
+
+
+
+
+
