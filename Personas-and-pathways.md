@@ -1,4 +1,4 @@
-# Personas and pathways excercise
+# Personas and pathways exercise
 
 ### Persona 1
 
