@@ -23,7 +23,8 @@ with R Markdown. Code is included in the output.
 # Load the packages and data.
 library(dplyr)
 library(tidyr)
-finances <- read.csv('accounting.csv')
+finances <- read.csv('accounting.csv') %>% 
+    mutate(Date = lubridate::ymd(Date))
 ```
 
 **Total funds remaining**: $`r sum(finances$Transaction)`
@@ -37,3 +38,13 @@ finances %>%
     knitr::kable()
 ```
 
+```{r expensePerWeek}
+PerWeekExpense <- finances %>% 
+    filter(Transaction < 0) %>% {
+        NumberWeeks <- as.numeric(difftime(max(.$Date), min(.$Date), units = 'weeks'))
+        PerWeekExpense <- sum(.$Transaction) / NumberWeeks
+        paste0('$', abs(round(PerWeekExpense, 2)))
+    }
+```
+
+**Estimated per session (every week) expense**: `r PerWeekExpense`

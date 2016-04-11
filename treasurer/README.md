@@ -14,10 +14,11 @@ Accounting overview
 # Load the packages and data.
 library(dplyr)
 library(tidyr)
-finances <- read.csv('accounting.csv')
+finances <- read.csv('accounting.csv') %>% 
+    mutate(Date = lubridate::ymd(Date))
 ```
 
-**Total funds remaining**: $117.48
+**Total funds remaining**: $85.4
 
 ``` r
 finances %>% 
@@ -30,5 +31,16 @@ finances %>%
 
 | Type    |  Amount|
 |:--------|-------:|
-| Income  |  150.00|
-| Expense |  -32.52|
+| Income  |   150.0|
+| Expense |   -64.6|
+
+``` r
+PerWeekExpense <- finances %>% 
+    filter(Transaction < 0) %>% {
+        NumberWeeks <- as.numeric(difftime(max(.$Date), min(.$Date), units = 'weeks'))
+        PerWeekExpense <- sum(.$Transaction) / NumberWeeks
+        paste0('$', abs(round(PerWeekExpense, 2)))
+    }
+```
+
+**Estimated per session (every week) expense**: $9.23
