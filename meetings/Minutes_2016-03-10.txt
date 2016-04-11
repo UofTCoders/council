@@ -1,0 +1,26 @@
+UofT Coders Executive Meeting
+March 10, 2016
+Attending: Madeleine, Luke, Lina, Elliott
+
+Bank Account
+- BMO Community Account ($2.50/mo) -> waived if balance >$5000
+- Executives set up as signing officers
+
+Elections - April 21st
+- Put constitution into council (Lina)
+- Write up roles for each position
+- Marketing position potentially for next year; two roles:
+  1. notifying members of events through various avenues
+  2. Branding/demographics
+- Announcement to submit notifications at the beginning of April on the studyGroup repo as an issue
+  - also send out an email linking to issue (Lina)
+
+Summer Plans
+- Redo intro sessions/semester (add intro shell?)
+- Survey for summer events and current members (Madeleine et al.)
+- Change meeting time? (perhaps decided each Sept.)
+- Change meeting space?
+  - UC Commuter Lounge, Booking meeting rooms in a library (Gerstein?)
+  
+Personal Activity 
+- See Personas-and-pathways.md file
