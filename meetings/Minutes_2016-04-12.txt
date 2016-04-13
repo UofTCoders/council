@@ -1,0 +1,45 @@
+UofT Coders Exec Meeting
+2016-04-12
+Attending: Madeleine, Lina, Elliott, Luke
+
+Recording Sessions
+- Branches in Git recorded and on site
+- will continue with next lessons (next: Github Pages/Jekyll)
+
+Member Survey
+- Continue to encourage people to fill out survey
+- Close survey mid-May and decide on which lessons we can do for the summer (other than the intro sessions)
+
+Google Group (utorontostudygroup)
+- Make sure people are not forgetting to subscribe to the emails (Lina)
+- Add a link to the website to subscribe to group (Luke
+
+Mini-Sprint
+- Purpose is to meet and 'hack' the study group
+- later summer, following the next advertising push
+- make it the AGM?
+
+SWC T-shirts/stickers/swag
+- Too expensive for now
+
+Future Initiatives
+- Possibly networking/panel session with speakers
+- Small hackathon
+- get sponsorship for these events?
+
+Elections April 21st
+- Also make it a coworking session, pair programming? (Lina)
+- Encourage people to suggest other roles that they might see fit
+
+Schedule for Summer
+April 20: Advertising blitz
+- mailing lists: departments, GSU, Gradlife, SGS
+- focus on graduate students for now
+May - June 9: Intro Sessions
+- create a template issue for /Events/ (Elliott)
+- post all the events at the start of the term (Lina)
+- weekly reminder comment on the issue of the week
+
+
+
+
