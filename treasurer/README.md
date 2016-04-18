@@ -14,9 +14,13 @@ Accounting overview
 # Load the packages and data.
 library(dplyr)
 library(tidyr)
+library(pander)
 finances <- read.csv('accounting.csv') %>% 
     mutate(Date = lubridate::ymd(Date))
 ```
+
+Actual income and expenses
+--------------------------
 
 **Total funds remaining**: $85.4
 
@@ -35,12 +39,37 @@ finances %>%
 | Expense |   -64.6|
 
 ``` r
-PerWeekExpense <- finances %>% 
+perWeekExpense <- finances %>% 
     filter(Transaction < 0) %>% {
-        NumberWeeks <- as.numeric(difftime(max(.$Date), min(.$Date), units = 'weeks'))
+        NumberWeeks <- as.numeric(difftime(Sys.Date(), min(.$Date), units = 'weeks'))
         PerWeekExpense <- sum(.$Transaction) / NumberWeeks
-        paste0('$', abs(round(PerWeekExpense, 2)))
+        abs(round(PerWeekExpense, 2))
     }
 ```
 
-**Estimated per session (every week) expense**: $9.23
+**Per session (weekly) expense**: $6.11
+
+Projected income and expenses
+-----------------------------
+
+``` r
+estimatedBudget <- 
+    data.frame(
+        IncomeSWC = sum(c(364, 690.40, 655.20)),
+        FoodSWC = -sum(c(40 * 10, 20 * 10, 40 * 10)),
+        ## Not all weeks will there be a meet up (e.g. Christmas, random weeks).
+        CodersSnacks = -perWeekExpense * (52 - 3 - 2) # num of total weeks
+    ) %>%
+    mutate(Total = rowSums(.)) %>%
+    gather(Item, Amount)
+
+pander(estimatedBudget, emphasize.strong.rows = nrow(estimatedBudget), 
+       style = 'rmarkdown', justify = c('left', 'right'))
+```
+
+| Item         |     Amount|
+|:-------------|----------:|
+| IncomeSWC    |       1710|
+| FoodSWC      |      -1000|
+| CodersSnacks |     -287.2|
+| **Total**    |  **422.4**|
