@@ -1,0 +1,33 @@
+UofT Coders Exec Meeting
+2016-05-10
+Present: Lina, Madeleine, Luke, Elliott
+
+Summer Plan:
+Popular Lessons:
+- Lightning demo: Data Viz
+- Large Datasets in Python 
+- ggplot2 data viz
+- Intro to SQL Databases
+- Class structure in Python
+- Debugging in Python
+- Lightning Demos: Academic Workflows**all agreed**
+(Make all the issues earlier and leave others blank)
+- Do not plan on June 30
+- Contact kky.chung@utoronto.ca Kathy Chung (Humanities/Social Sciences group)
+
+SWC:
+- Certification for non-
+- Luke check if we can donate money to SWC
+
+CUPE3902 Unit 5:
+What we could offer to postdocs?
+Wait for response and clarification
+
+
+
+
+
+
+
+
+
