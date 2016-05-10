@@ -43,7 +43,7 @@ finances %>%
 
 ```{r expensePerWeek}
 perWeekExpense <- finances %>% 
-    filter(Transaction < 0) %>% {
+    filter(Transaction < 0, grepl('Snacks', Reason)) %>% {
         NumberWeeks <- as.numeric(difftime(Sys.Date(), min(.$Date), units = 'weeks'))
         PerWeekExpense <- sum(.$Transaction) / NumberWeeks
         abs(round(PerWeekExpense, 2))
@@ -55,12 +55,13 @@ perWeekExpense <- finances %>%
 ## Projected income and expenses
 
 ```{r}
+numWeeksLeftFiscalYear <- as.numeric(difftime('2017-03-31', Sys.Date(), units = 'weeks'))
 estimatedBudget <- 
     data.frame(
-        IncomeSWC = sum(c(364, 690.40, 655.20)),
-        FoodSWC = -sum(c(40 * 10, 20 * 10, 40 * 10)),
+        IncomeSWC = sum(c(873.60, 600.60)),
+        FoodSWC = -sum(c(112*2+75, 112*2+75)),
         ## Not all weeks will there be a meet up (e.g. Christmas, random weeks).
-        CodersSnacks = -perWeekExpense * (52 - 3 - 2) # num of total weeks
+        CodersSnacks = -perWeekExpense * (numWeeksLeftFiscalYear - 3 - 2)
     ) %>%
     mutate(Total = rowSums(.)) %>%
     gather(Item, Amount)
@@ -68,7 +69,4 @@ estimatedBudget <-
 pander(estimatedBudget, emphasize.strong.rows = nrow(estimatedBudget), 
        style = 'rmarkdown', justify = c('left', 'right'))
 ```
-
-
-
 

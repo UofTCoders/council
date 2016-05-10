@@ -1,6 +1,12 @@
-Date,Transaction
-2016-02-04,150
-2016-02-04,-32.52
-2016-03-17,-16.94
-2016-03-24,-3.99
-2016-03-24,-11.15
+Date,Transaction,Reason,Notes,ChequeNumber
+2016-02-04,150,Ulife fund,Put in Luke's account (before we had BMO),
+2016-02-04,-32.52,Snacks,,
+2016-03-17,-16.94,Snacks,,
+2016-03-24,-3.99,Snacks,,
+2016-03-24,-11.15,Snacks,,
+2016-04-20,-26.39,Snacks,,
+2016-04-24,-14.59,SWC supplies,"Lost receipt, used credit statement",
+2016-05-03,636.4,SWC workshop,"From registration fees, official start to BMO use",
+2016-05-10,-381.38,SWC coffee and tea,Paid with cheque,ch001
+2016-05-09,-71.07,SWC breakfast and snacks,,
+2016-05-09,40,SWC walk-in registration fees,,
