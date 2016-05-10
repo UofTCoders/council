@@ -53,12 +53,13 @@ Projected income and expenses
 -----------------------------
 
 ``` r
+numWeeksLeftFiscalYear <- as.numeric(difftime('2017-03-31', Sys.Date(), units = 'weeks'))
 estimatedBudget <- 
     data.frame(
         IncomeSWC = sum(c(873.60, 600.60)),
         FoodSWC = -sum(c(112*2+75, 112*2+75)),
         ## Not all weeks will there be a meet up (e.g. Christmas, random weeks).
-        CodersSnacks = -perWeekExpense * (52 - 3 - 2) # num of total weeks
+        CodersSnacks = -perWeekExpense * (numWeeksLeftFiscalYear - 3 - 2)
     ) %>%
     mutate(Total = rowSums(.)) %>%
     gather(Item, Amount)
@@ -71,5 +72,5 @@ pander(estimatedBudget, emphasize.strong.rows = nrow(estimatedBudget),
 |:-------------|----------:|
 | IncomeSWC    |       1474|
 | FoodSWC      |       -598|
-| CodersSnacks |     -311.6|
-| **Total**    |  **564.6**|
+| CodersSnacks |     -274.8|
+| **Total**    |  **601.4**|
