@@ -22,7 +22,7 @@ finances <- read.csv('accounting.csv') %>%
 Actual income and expenses
 --------------------------
 
-**Total funds remaining**: $85.4
+**Total funds remaining**: $268.37
 
 ``` r
 finances %>% 
@@ -33,21 +33,21 @@ finances %>%
     knitr::kable()
 ```
 
-| Type    |  Amount|
-|:--------|-------:|
-| Income  |   150.0|
-| Expense |   -64.6|
+| Type    |   Amount|
+|:--------|--------:|
+| Income  |   826.40|
+| Expense |  -558.03|
 
 ``` r
 perWeekExpense <- finances %>% 
-    filter(Transaction < 0) %>% {
+    filter(Transaction < 0, grepl('Snacks', Reason)) %>% {
         NumberWeeks <- as.numeric(difftime(Sys.Date(), min(.$Date), units = 'weeks'))
         PerWeekExpense <- sum(.$Transaction) / NumberWeeks
         abs(round(PerWeekExpense, 2))
     }
 ```
 
-**Per session (weekly) expense**: $6.11
+**Per session (weekly) expense**: $6.63
 
 Projected income and expenses
 -----------------------------
@@ -55,8 +55,8 @@ Projected income and expenses
 ``` r
 estimatedBudget <- 
     data.frame(
-        IncomeSWC = sum(c(364, 690.40, 655.20)),
-        FoodSWC = -sum(c(40 * 10, 20 * 10, 40 * 10)),
+        IncomeSWC = sum(c(873.60, 600.60)),
+        FoodSWC = -sum(c(112*2+75, 112*2+75)),
         ## Not all weeks will there be a meet up (e.g. Christmas, random weeks).
         CodersSnacks = -perWeekExpense * (52 - 3 - 2) # num of total weeks
     ) %>%
@@ -69,7 +69,7 @@ pander(estimatedBudget, emphasize.strong.rows = nrow(estimatedBudget),
 
 | Item         |     Amount|
 |:-------------|----------:|
-| IncomeSWC    |       1710|
-| FoodSWC      |      -1000|
-| CodersSnacks |     -287.2|
-| **Total**    |  **422.4**|
+| IncomeSWC    |       1474|
+| FoodSWC      |       -598|
+| CodersSnacks |     -311.6|
+| **Total**    |  **564.6**|
