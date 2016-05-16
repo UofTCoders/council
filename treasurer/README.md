@@ -22,7 +22,7 @@ finances <- read.csv('accounting.csv') %>%
 Actual income and expenses
 --------------------------
 
-**Total funds remaining**: $268.37
+**Total funds remaining**: $118.16
 
 ``` r
 finances %>% 
@@ -36,7 +36,7 @@ finances %>%
 | Type    |   Amount|
 |:--------|--------:|
 | Income  |   826.40|
-| Expense |  -558.03|
+| Expense |  -708.24|
 
 ``` r
 perWeekExpense <- finances %>% 
@@ -47,7 +47,8 @@ perWeekExpense <- finances %>%
     }
 ```
 
-**Per session (weekly) expense**: $6.63
+<!-- there are still 13.35 left in Luke's account -->
+**Per session (weekly) expense**: $6.24
 
 Projected income and expenses
 -----------------------------
@@ -72,5 +73,5 @@ pander(estimatedBudget, emphasize.strong.rows = nrow(estimatedBudget),
 |:-------------|----------:|
 | IncomeSWC    |       1474|
 | FoodSWC      |       -598|
-| CodersSnacks |     -274.8|
-| **Total**    |  **601.4**|
+| CodersSnacks |     -253.3|
+| **Total**    |  **622.9**|
