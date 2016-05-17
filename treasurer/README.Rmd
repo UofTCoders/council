@@ -50,6 +50,8 @@ perWeekExpense <- finances %>%
     }
 ```
 
+<!-- there are still 13.35 left in Luke's account -->
+
 **Per session (weekly) expense**: $`r perWeekExpense`
 
 ## Projected income and expenses
