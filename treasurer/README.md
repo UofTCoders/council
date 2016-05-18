@@ -22,7 +22,7 @@ finances <- read.csv('accounting.csv') %>%
 Actual income and expenses
 --------------------------
 
-**Total funds remaining**: $118.16
+**Total funds remaining**: $709.26
 
 ``` r
 finances %>% 
@@ -35,8 +35,8 @@ finances %>%
 
 | Type    |   Amount|
 |:--------|--------:|
-| Income  |   826.40|
-| Expense |  -708.24|
+| Income  |  1700.00|
+| Expense |  -990.74|
 
 ``` r
 perWeekExpense <- finances %>% 
@@ -48,7 +48,7 @@ perWeekExpense <- finances %>%
 ```
 
 <!-- there are still 13.35 left in Luke's account -->
-**Per session (weekly) expense**: $6.24
+**Per session (weekly) expense**: $6.12
 
 Projected income and expenses
 -----------------------------
@@ -57,8 +57,8 @@ Projected income and expenses
 numWeeksLeftFiscalYear <- as.numeric(difftime('2017-03-31', Sys.Date(), units = 'weeks'))
 estimatedBudget <- 
     data.frame(
-        IncomeSWC = sum(c(873.60, 600.60)),
-        FoodSWC = -sum(c(112*2+75, 112*2+75)),
+        IncomeSWC = sum(c(600.60)),
+        FoodSWC = -sum(c(112*2+75)),
         ## Not all weeks will there be a meet up (e.g. Christmas, random weeks).
         CodersSnacks = -perWeekExpense * (numWeeksLeftFiscalYear - 3 - 2)
     ) %>%
@@ -71,7 +71,7 @@ pander(estimatedBudget, emphasize.strong.rows = nrow(estimatedBudget),
 
 | Item         |     Amount|
 |:-------------|----------:|
-| IncomeSWC    |       1474|
-| FoodSWC      |       -598|
-| CodersSnacks |     -253.3|
-| **Total**    |  **622.9**|
+| IncomeSWC    |      600.6|
+| FoodSWC      |       -299|
+| CodersSnacks |     -246.7|
+| **Total**    |  **54.91**|
