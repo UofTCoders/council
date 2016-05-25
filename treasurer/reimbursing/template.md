@@ -11,7 +11,7 @@
 <!-- Example -->
 - Item 1:
     - Date of purchase: 2016-04-01
-    - Description: Bulk barn foon
+    - Description: Bulk barn food
     - Purpose: Snacks
     - Cost ($): 23
 - Item 2:
