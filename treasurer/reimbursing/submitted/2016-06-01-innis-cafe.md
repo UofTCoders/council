@@ -12,4 +12,4 @@
     - Purpose: Snacks
     - Cost ($): 197.75
     
-**Link to Reimbursement Pull Request: #18**
+**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/18)**
