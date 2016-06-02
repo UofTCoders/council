@@ -13,6 +13,7 @@ instructions:
     5. Copy the pull request link to the file in the appropriate location.
     6. Commit and push the added change.
     - Or in the shell:
+
         ```
         cd treasurer/reimbursing
         mkdir submitted # if submitted doesn't exist
@@ -27,6 +28,7 @@ instructions:
         git commit -S -m "Added Github PR link to reimbursing details" # -S is for GPG signing
         git push origin master
         ```
+
 3. (Optional) Scan your receipts, add them to the `receipts/` directory, and
 submit them with your pull request.
 4. Get your Pull Request approved by at least two other council excutives.
