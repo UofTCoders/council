@@ -22,3 +22,8 @@
 **Total:** $122.71
     
 **[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/19)**
+
+## Approval (seen in PR as well)
+
+- @lwjohnst86
+- @mbonsma
