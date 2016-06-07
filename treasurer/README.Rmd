@@ -11,8 +11,9 @@ the date in the ISO 8601 standard format (*YYYY-MM-DD*, all numbers). Income
 should be positive, expenses should be negative (with a minus `-` sign in front).
 
 Receipts should be scanned and placed in the `receipts/` folder, with the
-filename as the general item first followed by the ISO 8601 date format. For
-instance, food purchased on June 5, 2000 would be `food-2000-06-05.pdf`.
+filename as the ISO 8601 date format (`YYYY-MM-DD`), followed by the item and
+then the location of purchase. For instance, food purchased on June 5, 2000
+would be `2000-06-05-food-place.pdf`.
 
 Given that this is a *coders* group, all summaries of the finances are done in R
 with R Markdown. Code is included in the output.
@@ -24,8 +25,9 @@ with R Markdown. Code is included in the output.
 library(dplyr)
 library(tidyr)
 library(pander)
+library(lubridate)
 finances <- read.csv('accounting.csv') %>% 
-    mutate(Date = lubridate::ymd(Date))
+    mutate(Date = ymd(Date))
 ```
 
 ## Actual income and expenses
@@ -60,8 +62,6 @@ perWeekExpense <- finances %>%
 numWeeksLeftFiscalYear <- as.numeric(difftime('2017-03-31', Sys.Date(), units = 'weeks'))
 estimatedBudget <- 
     data.frame(
-        IncomeSWC = sum(c(600.60)),
-        FoodSWC = -sum(c(112*2+75)),
         ## Not all weeks will there be a meet up (e.g. Christmas, random weeks).
         CodersSnacks = -perWeekExpense * (numWeeksLeftFiscalYear - 3 - 2)
     ) %>%
@@ -71,4 +71,3 @@ estimatedBudget <-
 pander(estimatedBudget, emphasize.strong.rows = nrow(estimatedBudget), 
        style = 'rmarkdown', justify = c('left', 'right'))
 ```
-
