@@ -16,6 +16,8 @@ library(dplyr)
 library(tidyr)
 library(pander)
 library(lubridate)
+library(scales)
+cad <- dollar_format(negative_parens = TRUE)
 finances <- read.csv('accounting.csv') %>% 
     mutate(Date = ymd(Date))
 ```
@@ -23,28 +25,30 @@ finances <- read.csv('accounting.csv') %>%
 Actual income and expenses
 --------------------------
 
-**Total funds remaining**: $1228.37
-
 ``` r
-finances %>% 
-    mutate(Type = ifelse(Transaction < 0, 'Expense', 'Income')) %>% 
-    group_by(Type) %>% 
-    summarise(Amount = sum(Transaction)) %>% 
-    arrange(desc(Type)) %>% 
+finances %>%
+    mutate(Type = ifelse(Transaction < 0, 'Expense', 'Income')) %>%
+    group_by(Type) %>%
+    summarise(Amount = cad(sum(Transaction))) %>%
+    ungroup() %>%
+    arrange(desc(Type)) %>%
+    bind_rows(summarize(finances,
+                        Type = '**Total remaining**',
+                        Amount = cad(sum(Transaction)))) %>%
     knitr::kable()
 ```
 
-| Type    |    Amount|
-|:--------|---------:|
-| Income  |   2464.40|
-| Expense |  -1236.03|
+| Type                | Amount      |
+|:--------------------|:------------|
+| Income              | $2,464.40   |
+| Expense             | ($1,236.03) |
+| **Total remaining** | $1,228.37   |
 
 ``` r
 perWeekExpense <- finances %>% 
     filter(Transaction < 0, grepl('Snacks', Reason)) %>% {
         NumberWeeks <- as.numeric(difftime(Sys.Date(), min(.$Date), units = 'weeks'))
-        PerWeekExpense <- sum(.$Transaction) / NumberWeeks
-        abs(round(PerWeekExpense, 2))
+        abs(sum(.$Transaction) / NumberWeeks)
     }
 ```
 
@@ -62,13 +66,14 @@ estimatedBudget <-
         CodersSnacks = -perWeekExpense * (numWeeksLeftFiscalYear - 3 - 2)
     ) %>%
     mutate(Total = rowSums(.)) %>%
+    mutate_each(funs(cad)) %>% 
     gather(Item, Amount)
 
 pander(estimatedBudget, emphasize.strong.rows = nrow(estimatedBudget), 
        style = 'rmarkdown', justify = c('left', 'right'))
 ```
 
-| Item         |      Amount|
-|:-------------|-----------:|
-| CodersSnacks |      -287.6|
-| **Total**    |  **-287.6**|
+| Item         |         Amount|
+|:-------------|--------------:|
+| CodersSnacks |      ($287.60)|
+| **Total**    |  **($287.60)**|

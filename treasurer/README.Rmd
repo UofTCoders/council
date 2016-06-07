@@ -26,20 +26,24 @@ library(dplyr)
 library(tidyr)
 library(pander)
 library(lubridate)
+library(scales)
+cad <- dollar_format(negative_parens = TRUE)
 finances <- read.csv('accounting.csv') %>% 
     mutate(Date = ymd(Date))
 ```
 
 ## Actual income and expenses
 
-**Total funds remaining**: $`r sum(finances$Transaction)`
-
 ```{r cashFlow}
-finances %>% 
-    mutate(Type = ifelse(Transaction < 0, 'Expense', 'Income')) %>% 
-    group_by(Type) %>% 
-    summarise(Amount = sum(Transaction)) %>% 
-    arrange(desc(Type)) %>% 
+finances %>%
+    mutate(Type = ifelse(Transaction < 0, 'Expense', 'Income')) %>%
+    group_by(Type) %>%
+    summarise(Amount = cad(sum(Transaction))) %>%
+    ungroup() %>%
+    arrange(desc(Type)) %>%
+    bind_rows(summarize(finances,
+                        Type = '**Total remaining**',
+                        Amount = cad(sum(Transaction)))) %>%
     knitr::kable()
 ```
 
@@ -47,14 +51,13 @@ finances %>%
 perWeekExpense <- finances %>% 
     filter(Transaction < 0, grepl('Snacks', Reason)) %>% {
         NumberWeeks <- as.numeric(difftime(Sys.Date(), min(.$Date), units = 'weeks'))
-        PerWeekExpense <- sum(.$Transaction) / NumberWeeks
-        abs(round(PerWeekExpense, 2))
+        abs(sum(.$Transaction) / NumberWeeks)
     }
 ```
 
 <!-- there are still 13.35 left in Luke's account -->
 
-**Per session (weekly) expense**: $`r perWeekExpense`
+**Per session (weekly) expense**: `r cad(perWeekExpense)`
 
 ## Projected income and expenses
 
@@ -66,6 +69,7 @@ estimatedBudget <-
         CodersSnacks = -perWeekExpense * (numWeeksLeftFiscalYear - 3 - 2)
     ) %>%
     mutate(Total = rowSums(.)) %>%
+    mutate_each(funs(cad)) %>% 
     gather(Item, Amount)
 
 pander(estimatedBudget, emphasize.strong.rows = nrow(estimatedBudget), 
