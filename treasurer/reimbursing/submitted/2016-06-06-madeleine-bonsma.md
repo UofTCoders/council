@@ -14,3 +14,8 @@
     - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-05-12-drinks-GSUPub.pdf)
 
 **[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/20)**
+
+## Approval (seen in PR as well)
+
+- @lwjohnst86
+- @linamnt

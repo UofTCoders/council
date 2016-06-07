@@ -11,5 +11,11 @@
     - Description: Coffee and tea catering
     - Purpose: Snacks
     - Cost ($): 197.75
+    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-05-26-invoice-InnisCafe-SWC.pdf)
     
 **[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/18)**
+
+## Approval (seen in PR as well)
+
+- @lwjohnst86
+- @linamnt
