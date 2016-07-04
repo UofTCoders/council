@@ -16,4 +16,4 @@
     - Cost ($): 51.63
     - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-05-26-food-Metro.pdf)
     
-**[Link to Reimbursement Pull Request](https link to your PR)**
+**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/22)**
