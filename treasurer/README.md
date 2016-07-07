@@ -41,8 +41,8 @@ finances %>%
 | Type                | Amount      |
 |:--------------------|:------------|
 | Income              | $2,464.40   |
-| Expense             | ($1,236.03) |
-| **Total remaining** | $1,228.37   |
+| Expense             | ($1,290.16) |
+| **Total remaining** | $1,174.24   |
 
 ``` r
 perWeekExpense <- finances %>% 
@@ -53,7 +53,7 @@ perWeekExpense <- finances %>%
 ```
 
 <!-- there are still 13.35 left in Luke's account -->
-**Per session (weekly) expense**: $7.68
+**Per session (weekly) expense**: $8.53
 
 Projected income and expenses
 -----------------------------
@@ -75,5 +75,5 @@ pander(estimatedBudget, emphasize.strong.rows = nrow(estimatedBudget),
 
 | Item         |         Amount|
 |:-------------|--------------:|
-| CodersSnacks |      ($287.60)|
-| **Total**    |  **($287.60)**|
+| CodersSnacks |      ($282.91)|
+| **Total**    |  **($282.91)**|
