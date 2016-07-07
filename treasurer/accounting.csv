@@ -7,15 +7,17 @@ Date,Transaction,Reason,Notes,ChequeNumber
 2016-04-20,-26.39,Snacks,,
 2016-04-24,-14.59,SWC supplies,"Lost receipt, used credit statement",
 2016-05-03,636.4,SWC workshop,"From registration fees, official start to BMO use",
-2016-05-10,-381.38,SWC coffee and tea,Paid with cheque,ch001
 2016-05-09,-71.07,SWC breakfast and snacks,From Luke's account,
 2016-05-09,40,Two SWC walk-in registration fees,This is in Luke's account,
-2016-05-12,-47.38,Drinks,Hacky social night (Dawn receipts),ch004
-2016-05-12,-75.33,Drinks,Hacky social night (Dawn receipts),ch004
-2016-05-12,-27.5,Drinks,Hacky social night (Maddy cash),ch005
+2016-05-11,-381.38,SWC coffee and tea,Paid with cheque,ch001
 2016-05-17,873.6,SWC workshop,Registration fees,
-2016-05-19,-282.5,SWC coffee and tea,,ch002
-2016-06-01,-197.75,SWC coffee and tea,,ch003
-2016-06-03,764.4,SWC workshop,Registration fees,
+2016-05-24,-282.5,SWC coffee and tea,,ch002
 2016-05-31,-2.5,BMO Maintanence fee,,
-2016-06-06,-45.04,Snacks,,ch006
+2016-06-03,764.4,SWC workshop,Registration fees,
+2016-06-08,-197.75,SWC coffee and tea,,ch003
+2016-06-09,-47.38,Drinks,Hacky social night (Dawn receipts),ch004
+2016-06-09,-75.33,Drinks,Hacky social night (Dawn receipts),ch004
+2016-06-10,-45.04,Snacks,,ch006
+2016-06-22,-27.5,Drinks,Hacky social night (Maddy cash),ch005
+2016-06-30,-2.5,BMO Maintanence fee,,
+2016-07-07,-51.63,Snacks for SWC (May 26),,ch007
