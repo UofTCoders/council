@@ -38,7 +38,7 @@ Plan for Fall:
 	- Making Packages in R (Luke)
 	- Cartography and Mapping in Python
 	- Web Design with Jekyll/Github Pages
-	- LateX
+	- LaTeX
 	- Databases SQL
 	- Pandoc and Markdown
 	- Coworking Session
