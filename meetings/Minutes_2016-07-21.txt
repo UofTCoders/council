@@ -1,0 +1,52 @@
+UofT Coders Meeting 
+2016-07-21
+Present: Madeleine, Lindsay, Elliott, Luke, Lina
+
+Group Update:
+- One new face each week
+- Try to make the monthly calls with Aurelia
+- New doodle for group meeting night; for the September start (1-2 weeks to respond)
+	(Lina)
+
+CUPE Workshop:
+- Three weekly lessons for post-docs
+- CUPE taking care of refreshments
+- Get mailing list of attendees to get out our own post-workshop survey
+	- Make a post-workshop survey (Lindsay)
+- CUPE paying $450:
+	- $50/hr/instructor
+	- $75 for UofT Coders
+
+Beer Policy:
+- We are fine with purchasing beer at social events
+
+SWC Fall:
+- Workshops in October, or mid December when classes end
+- Friday Saturday better than two Fridays in a row
+- Madeleine met with AIS:
+	- will help book rooms and organize dates
+	- AIS gets special preference for advertising and tickets
+- One Python, one R workshop
+
+Plan for Fall:
+- intersperse with more intermediate/advanced lessons
+- Tentative Schedule:
+	- First week Hacky Hour - September 8
+	- Intro Python - September 15
+	- Intro R
+	- Intro Bash
+	- Making Packages in R (Luke)
+	- Cartography and Mapping in Python
+	- Web Design with Jekyll/Github Pages
+	- LaTeX
+	- Databases SQL
+	- Pandoc and Markdown
+	- Coworking Session
+		- Git themed coworking session
+		- Careers outside academia discussion
+
+Summer Social:
+- After Lightning Demos Aug 4 at GSU PUB (Lina book second floor)
+
+Next Meeting - Aug 18th
+
