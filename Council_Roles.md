@@ -45,3 +45,10 @@ meetings;
 4. Inform and remind council members of items
 discussed in the meetings via email;
 5. Maintain the master email list for utorontostudygroup@gmail.com.
+
+### Special events coordinator
+
+1. Responsible for coordinating and organizing:
+    - Software Carpentry workshops throughout the year (at least one per term)
+    - Workshops with various organizations (e.g. CUPE)
+    - Any other coding type events that come up (e.g. hackathons, code sprints)
