@@ -69,6 +69,13 @@ meetings;
 discussed in the meetings via email;
 * Maintain the master email list for utorontostudygroup@gmail.com.
 
+### Special Events Coordinator
+
+* Responsible for coordinating and organizing:
+    - Software Carpentry workshops throughout the year (at least one per term)
+    - Workshops with various organizations (e.g. CUPE)
+    - Any other coding type events that come up (e.g. hackathons, code sprints)
+
 ### Termination of Executives or General Members:
 
 Any member of the club who commits an act negatively affecting the interests of the club and its members, including non-disclosure of a significant or continuing conflict of interest, may be given notice of removal. 
