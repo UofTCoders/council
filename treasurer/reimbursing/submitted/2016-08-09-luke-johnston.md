@@ -24,6 +24,6 @@
     
 **Total**: 73.45 - 13.35 (remaining from my personal account) = $60.10
 
-**[Link to Reimbursement Pull Request](https link to your PR)**
+**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/28)**
 
 ## Approval (seen in PR as well)
