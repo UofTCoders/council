@@ -16,4 +16,4 @@
     - Cost ($): 54.95
     - [Link to receipt](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-08-09-drinks-GSUpub.pdf)
     
-**[Link to Reimbursement Pull Request](https link to your PR)**
+**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/30)**
