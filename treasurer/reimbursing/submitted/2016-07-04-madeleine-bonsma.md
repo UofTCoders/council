@@ -17,3 +17,8 @@
     - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-05-26-food-Metro.pdf)
     
 **[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/22)**
+
+## Approval (seen in PR as well)
+
+- @lwjohnst86
+- @QuLogic (only commented)
