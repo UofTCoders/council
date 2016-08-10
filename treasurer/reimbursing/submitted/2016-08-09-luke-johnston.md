@@ -23,7 +23,7 @@
     - Description: Snacks (clementines)
     - Purpose: Snacks
     - Cost ($): 4.99
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-08-04-drinks-GSUPub-LWJ.pdf)
+    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-07-21-food-BloorstreetMarket.pdf)
     
 **Total**: 78.44 - 13.35 (remaining from my personal account) = $65.09
 
