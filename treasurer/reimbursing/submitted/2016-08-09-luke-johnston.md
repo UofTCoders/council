@@ -1,14 +1,11 @@
 
 # Reimbursement form
 
-- Purpose of expense: Drinks for pub night
+- Purpose of expense: Drinks for pub night (plus snacks)
 - Name: Luke W. Johnston
 
 ## Receipt(s) list
 
-<!-- Replace the below example, following the format provided, and adding items as needed -->
-
-<!-- Example -->
 - Item 1:
     - Date of purchase: 2016-08-04
     - Description: Social night beer jugs
@@ -21,8 +18,14 @@
     - Purpose: Social
     - Cost ($): 5.25 + 1 (tip) = 6.25
     - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-08-04-drinks-GSUPub-LWJ.pdf)
+- Item 3:
+    - Date of purchase: 2016-07-21
+    - Description: Snacks (clementines)
+    - Purpose: Snacks
+    - Cost ($): 4.99
+    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-08-04-drinks-GSUPub-LWJ.pdf)
     
-**Total**: 73.45 - 13.35 (remaining from my personal account) = $60.10
+**Total**: 78.44 - 13.35 (remaining from my personal account) = $65.09
 
 **[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/28)**
 
