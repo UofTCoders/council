@@ -24,6 +24,6 @@
 
 **Total**: $375
     
-**[Link to Reimbursement Pull Request](https link to your PR)**
+**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/33)**
 
 ## Approval (seen in PR as well)
