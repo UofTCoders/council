@@ -35,3 +35,13 @@ submit them with your pull request.
 5. **(Required)** give the receipts to the treasurer.
 6. Either meet up with the treasurer to get your cheque or whenever next you see
 the treasurer (or who ever has the cheque).
+
+# FAQ
+
+1. How do I deal with tips when using cash for drinks?
+
+    As briefly discussed in
+    PR[#28](https://github.com/UofTCoders/council/pull/28), the best way to deal
+    with this is to not pay with cash. This isn't always possible, so if cash is
+    the only option, make sure to write down on the receipt how much the tip was
+    *right away*.
