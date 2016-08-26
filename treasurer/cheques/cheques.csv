@@ -1,8 +1,13 @@
-Number,Date,Recipient,Amount,Purpose,SignOff,Note
-'001',2016-05-06,The Innis Cafe,381.38,"Coffee, tea, and snacks for the April 25 SWC workshop",Luke and Madeleine,
-'002',2016-05-19,The Innis Cafe,282.5,Coffee and tea for the May 09 SWC workshops,Luke and Madeleine,
-'003',2016-06-01,The Innis Cafe,197.75,Coffee and tea for the May 26 SWC workshops,Luke and Madeleine,
-'004',2016-06-02,Dawn Walker,122.71,Drinks from GSU Pub for Social night,Luke and Madeleine,
-'005',2016-06-06,Madeleine Bonsma,27.5,Drinks from GSU Pub for Social night,Luke and Madeleine,Approval from Lina
-'006',2016-06-06,Luke Johnston,45.04,Snacks for Coder sessions,Luke and Madeleine,Approval from Lina
-'007',2016-07-07,Madeleine Bonsma,51.63,Snacks for May 26 SWC workshops,Luke and Madeleine,
+Number,Date,Recipient,Amount,Purpose,SignOff,Note,PR
+'001',2016-05-06,The Innis Cafe,381.38,"Coffee, tea, and snacks for the April 25 SWC workshop",Luke and Madeleine,,
+'002',2016-05-19,The Innis Cafe,282.5,Coffee and tea for the May 09 SWC workshops,Luke and Madeleine,,14
+'003',2016-06-01,The Innis Cafe,197.75,Coffee and tea for the May 26 SWC workshops,Luke and Madeleine,,18
+'004',2016-06-02,Dawn Walker,122.71,Drinks from GSU Pub for Social night,Luke and Madeleine,,19
+'005',2016-06-06,Madeleine Bonsma,27.5,Drinks from GSU Pub for Social night,Luke and Madeleine,Approval from Lina,20
+'006',2016-06-06,Luke Johnston,45.04,Snacks for Coder sessions,Luke and Madeleine,Approval from Lina,15
+'007',2016-07-07,Madeleine Bonsma,51.63,Snacks for May 26 SWC workshops,Luke and Madeleine,,22
+'008',2016-08-11,Ricardo Harripaul,125,Honorarium for CUPE workshops,Luke and Lina,,33
+'009',2016-08-11,Samar Sabie,125,Honorarium for CUPE workshops,Luke and Lina,,33
+'010',2016-08-11,Jeff Wintersinger,125,Honorarium for CUPE workshops,Luke and Lina,,33
+'011',2016-08-11,Luke Johnston,65.09,Social night drinks and snacks,Luke and Lina,,28
+'012',2016-08-11,Madeleine Bonsma,54.95,Social night drinks,Luke and Lina,,30
