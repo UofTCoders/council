@@ -20,10 +20,10 @@
     - Description: Pub drinks
     - Purpose: Social
     - Cost ($): 50
-    - [Link to receipts](github link to receipt)
+    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/{{ ADD RECEIPT FILE HERE }})
 
 **Total**: 
     
-**[Link to Reimbursement Pull Request](https link to your PR)**
+**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/{{ ADD NUMBER HERE }})**
 
 ## Approval (seen in PR as well)
