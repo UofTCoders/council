@@ -41,9 +41,9 @@ finances %>%
 
 | Type                | Amount      |
 |:--------------------|:------------|
-| Income              | $2,464.40   |
-| Expense             | ($1,352.76) |
-| **Total remaining** | $1,111.64   |
+| Income              | $2,914.40   |
+| Expense             | ($1,468.68) |
+| **Total remaining** | $1,445.72   |
 
 ``` r
 perWeekExpense <- finances %>% 
@@ -53,10 +53,12 @@ perWeekExpense <- finances %>%
     }
 ```
 
-**Per session (weekly) expense**: $7.02
+**Per session (weekly) expense**: $8.12
 
 Projected income and expenses
 -----------------------------
+
+Values surrounded by brackets `()` denote negative values, as is often standard in accounting.
 
 ``` r
 numWeeksLeftFiscalYear <- as.numeric(difftime('2017-03-31', Sys.Date(), units = 'weeks'))
@@ -75,5 +77,5 @@ pander(estimatedBudget, emphasize.strong.rows = nrow(estimatedBudget),
 
 | Item         |         Amount|
 |:-------------|--------------:|
-| CodersSnacks |      ($199.87)|
-| **Total**    |  **($199.87)**|
+| CodersSnacks |      ($204.39)|
+| **Total**    |  **($204.39)**|

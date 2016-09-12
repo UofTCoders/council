@@ -57,6 +57,9 @@ perWeekExpense <- finances %>%
 
 ## Projected income and expenses
 
+Values surrounded by brackets `()` denote negative values, as is often standard
+in accounting.
+
 ```{r}
 numWeeksLeftFiscalYear <- as.numeric(difftime('2017-03-31', Sys.Date(), units = 'weeks'))
 estimatedBudget <- 
