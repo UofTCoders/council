@@ -14,7 +14,7 @@
     - Description: Bulk barn food
     - Purpose: Snacks
     - Cost ($): 23
-    - [Link to receipts](github link to receipt)
+    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/{{ ADD RECEIPT FILE HERE }})
 - Item 2:
     - Date of purchase: 2016-04-10
     - Description: Pub drinks
