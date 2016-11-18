@@ -1,0 +1,26 @@
+UofT Coders Meeting 
+2016-07-21
+Present: Madeleine, Lindsay, Elliott, Luke, Lina
+
+- Attendance of an exec member at each session:
+	- Using Github's assign function to assign yourself to a session
+	- this person is also responsible for checking to make sure the door will be unlocked 
+	- Lina will check Monday's to see if anyone has assigned themselves
+	
+- Adaptor for laptops:
+	- keep with the snacks
+	- Luke will purchase a VGA -> HDMI adaptor
+	
+- New material for lessons previously taught, how to organize on website:
+	- Have the authors listed and date they presented, will hyperlink to content
+	- just edit the lesson.md template
+	
+- Curate lessons? 
+	- potentially only the commonly taught ones (intro R, intro Python)
+	
+- Event: Hack UofT Coders (update the website)
+	- make a doodle poll using uoftcoders gmail (Lina)
+	- Potentially Dec 6,7,8
+	- people can drop in and help out during the chosen hours
+
+- Start planning SWC for next semester, next meeting
