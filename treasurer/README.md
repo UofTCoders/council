@@ -14,46 +14,44 @@ Accounting overview
 ``` r
 # Load the packages and data.
 library(dplyr)
-library(tidyr)
-library(pander)
 library(lubridate)
 library(scales)
 cad <- dollar_format(negative_parens = TRUE)
 finances <- read.csv('accounting.csv') %>% 
-    mutate(Date = ymd(Date))
+    mutate(TransactionDate = ymd(TransactionDate))
 ```
 
 Actual income and expenses
 --------------------------
 
 ``` r
-finances %>%
-    mutate(Type = ifelse(Transaction < 0, 'Expense', 'Income')) %>%
-    group_by(Type) %>%
-    summarise(Amount = cad(sum(Transaction))) %>%
-    ungroup() %>%
-    arrange(desc(Type)) %>%
-    bind_rows(summarize(finances,
-                        Type = '**Total remaining**',
-                        Amount = cad(sum(Transaction)))) %>%
+income <- sum(finances$Income, na.rm = TRUE)
+expense <- sum(finances$Expense, na.rm = TRUE)
+
+library(tidyr)
+data_frame(
+    Income = cad(income),
+    Expense = cad(expense),
+    `**Total**` = cad(income - expense)
+    ) %>%
+    gather(Type, Amount) %>%
     knitr::kable()
 ```
 
-| Type                | Amount      |
-|:--------------------|:------------|
-| Income              | $2,914.40   |
-| Expense             | ($1,468.68) |
-| **Total remaining** | $1,445.72   |
+| Type      | Amount    |
+|:----------|:----------|
+| Income    | $3,442.20 |
+| Expense   | $2,004.70 |
+| **Total** | $1,437.50 |
 
 ``` r
-perWeekExpense <- finances %>% 
-    filter(Transaction < 0, grepl('Snacks', Reason)) %>% {
-        NumberWeeks <- as.numeric(difftime(Sys.Date(), min(.$Date), units = 'weeks'))
-        abs(sum(.$Transaction) / NumberWeeks)
-    }
+snacks <- filter(finances, grepl('Snacks', Reason)) 
+weeks <- difftime(Sys.Date(), min(snacks$TransactionDate), units = 'weeks')
+weeks <- as.numeric(weeks)
+per_week <- abs(sum(snacks$Expense) / weeks)
 ```
 
-**Per session (weekly) expense**: $8.12
+**Per session (weekly) expense for snacks**: $6.50
 
 Projected income and expenses
 -----------------------------
@@ -61,21 +59,24 @@ Projected income and expenses
 Values surrounded by brackets `()` denote negative values, as is often standard in accounting.
 
 ``` r
-numWeeksLeftFiscalYear <- as.numeric(difftime('2017-03-31', Sys.Date(), units = 'weeks'))
-estimatedBudget <- 
-    data.frame(
-        ## Not all weeks will there be a meet up (e.g. Christmas, random weeks).
-        CodersSnacks = -perWeekExpense * (numWeeksLeftFiscalYear - 3 - 2)
-    ) %>%
+# This needs date needs to be changed each year.
+fiscal_year_end <- difftime('2017-03-31', Sys.Date(), units = 'weeks')
+fiscal_year_end <- as.numeric(fiscal_year_end)
+
+budget_estimate <- data_frame(
+    ## Not all weeks will there be a meet up (e.g. Christmas, random weeks).
+    Snacks = -per_week * (fiscal_year_end - 3 - 2)
+    ) %>% 
     mutate(Total = rowSums(.)) %>%
     mutate_each(funs(cad)) %>% 
     gather(Item, Amount)
 
-pander(estimatedBudget, emphasize.strong.rows = nrow(estimatedBudget), 
+library(pander)
+pander(budget_estimate, emphasize.strong.rows = nrow(budget_estimate), 
        style = 'rmarkdown', justify = c('left', 'right'))
 ```
 
-| Item         |         Amount|
-|:-------------|--------------:|
-| CodersSnacks |      ($204.39)|
-| **Total**    |  **($204.39)**|
+| Item      |        Amount|
+|:----------|-------------:|
+| Snacks    |      ($66.10)|
+| **Total** |  **($66.10)**|
