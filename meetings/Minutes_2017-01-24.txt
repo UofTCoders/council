@@ -1,0 +1,22 @@
+UofT Coders Executive Meeting
+January 24, 2017
+Attending: Madeleine, Luke, Lina, Elliott, Lindsay
+
+Sessions for Spring
+- Lightning Demo: Data Visualization
+- Lightning Demo: Academic/Research Workflows
+- Intro SQL
+- Collaborative Coding with Github
+- Careers Outside Academia Panel
+- Working with Very Large Datasets Demo
+- ggplot2 in R
+- Code Review Session
+- Opening Up Your Data
+- Intermediate R Topics
+- Intermediate Python Topics
+
+Reproducible Research Course
+- course next year (graduate/undergraduate?)
+- find a sponsoring department
+- # of co-instructors allowed
+
