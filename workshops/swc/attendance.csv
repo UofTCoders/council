@@ -1,4 +1,5 @@
-Date,ProgrammingType,Registered,Attendance
-2016-04-25,R,36,29
-2016-05-09,Python,48,39
-2016-05-26,R,42,30
+Date,ProgrammingType,Registered,Attendance,Female,Male
+2016-04-25,R,36,29,,
+2016-05-09,Python,48,39,,
+2016-05-26,R,42,30,,
+2017-02-03,Python,47,36,16,20
