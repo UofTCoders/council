@@ -1,7 +1,7 @@
 
 # Reimbursement form
 
-- Purpose of expense: Coffee and Tea for SWC workshop on Feb 2-3, 2017
+- Purpose of expense: Coffee and Tea for SWC workshop on Feb 3-4, 2017
 - Name: Innis Cafe (catering company), filled out by Luke Johnston (@lwjohnst86)
 
 ## Receipt(s) list
