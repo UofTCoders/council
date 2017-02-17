@@ -1,0 +1,43 @@
+
+# Departments and courses available
+
+ Physical and Environmental Sciences
+    - [EES1137H Quantitative Applications for Data Analysis](https://www.utsc.utoronto.ca/gradpes/ees1137h-quantitative-applications-data-analysis)
+- Biochemistry
+    - BCH441H - Bioinformatics
+- IBBME
+- Chemistry
+- Chemical engineering (Grad only)
+- Cells and systems biology
+    - CSB1472H/S, LEC 0101 – Computational Genomics and Bioinformatics
+    - CSB 352H1S – Bioinformatic Methods
+- Biotechnology (Grad only)
+- Ecology and evolutionary biology
+    - EEB225H1 - Biostatistics for Biological Sciences
+- Electrical Engineering
+- Health Informatics
+- Immunology
+- Math
+- Mechanical & Industrial Engineering
+    - MIE1624H Introduction to Data Science and Analytics
+- Materials science and engineering
+- Medical biophysics
+- Medical Science
+- Molecular genetics
+    - A Practical Course in Programming for Biologists
+- Nutrional sciences
+- Pharmacology
+- Physics
+- Physiology
+- Psychology
+- Public health
+    - A bunch of biostat courses geared towards epidemiologists that together probably covers much of what is in our course.
+- Statistics
+    - STA1007H Statistics for Life and Social Scientists
+    - STA1001H - Methods of Data Analysis 1
+- SciNet
+    - [Introduction to the Linux Shell SCMP101](https://support.scinet.utoronto.ca/education/go.php/309/index.php/ib/1//p_course/309)
+    - [Intro to Scientific Computing with Python SCMP112](https://support.scinet.utoronto.ca/education/go.php/264/index.php/ib/1//p_course/264)
+    - [Scientific Computing for Physicists PHY1610](https://support.scinet.utoronto.ca/education/go.php/276/index.php/ib/1//p_course/276)
+- [Math and Statistics Learning Centre](https://www.utsc.utoronto.ca/mslc/welcome-math-statistics-learning-centre) (UTSC)
+    - [Basic/Intermediate R: Statistics for Graduate Students (GPS)](https://ctl.utsc.utoronto.ca/booking/graduate/register.php?sessionID=442&type=graduate&utm_source=Grad+Events&utm_campaign=5f0a80cde9-Sept_309_28_2015&utm_medium=email&utm_term=0_b73cbc8c0d-5f0a80cde9-269168805&mc_cid=5f0a80cde9&mc_eid=6b1938fb9b).
