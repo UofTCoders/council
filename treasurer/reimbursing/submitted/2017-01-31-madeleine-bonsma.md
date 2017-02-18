@@ -1,14 +1,11 @@
 
 # Reimbursement form
 
-- Purpose of expense:
-- Name:
+- Purpose of expense: supplies for Software Carpentry
+- Name: Madeleine Bonsma
 
 ## Receipt(s) list
 
-<!-- Replace the below example, following the format provided, and adding items as needed -->
-
-<!-- Example -->
 - Item 1:
     - Date of purchase: 2017-01-31
     - Description: Sticky notes, whiteboard marker, permanent markers
