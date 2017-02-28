@@ -23,6 +23,9 @@ Would you be interested in talking further about the possibility of hosting this
 Best regards,
 
 (name) on behalf of the UofT Coders executive team
+
 (department)
+
 (email)
+
 uoftcoders.github.io
