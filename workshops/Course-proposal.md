@@ -13,7 +13,8 @@ In follow-up:
 Dear ,
 
 We are a group of graduate students interested in launching a course in reproducible computational methods.
-The curriculum is based on existing open curriculum developed by Dr. Christie Bahlai at Michigan State University to meet increasing demand for these skills in science. Her instructor guide can be found here: https://cbahlai.github.io/rqm-template/
+The curriculum is based on existing open curriculum developed by Dr. Christie Bahlai at Michigan State University to meet increasing demand for these skills in science. Her instructor guide can be found here: https://cbahlai.github.io/rqm-template/.
+
 We hope to target this course to third- or fourth-year undergraduate students in science who are interested in reproducible and quantitative research methods. 
 Would you be interested in talking further about the possibility of hosting this course in _____ (department)?
 
