@@ -12,7 +12,7 @@
     - CSB1472H/S, LEC 0101 – Computational Genomics and Bioinformatics
     - CSB 352H1S – Bioinformatic Methods
 - Biotechnology (Grad only)
-- Ecology and evolutionary biology
+- [x] Ecology and evolutionary biology
     - EEB225H1 - Biostatistics for Biological Sciences
 - Electrical Engineering
 - Health Informatics
@@ -26,7 +26,7 @@
 - Molecular genetics
     - A Practical Course in Programming for Biologists
 - Nutrional sciences
-- Pharmacology
+- [x] Pharmacology
 - [x] Physics
 - Physiology
 - Psychology
