@@ -23,6 +23,8 @@ When you hear back, move the department under the relevant heading.
     - Grad only
 - [ ] Biotechnology
     - Grad only
+- [ ] Health Informatics
+    - Grad only
 - [ ] SciNet
     - Offers courses through departments at UofT 
 
@@ -31,11 +33,10 @@ When you hear back, move the department under the relevant heading.
 - [ ] Biochemistry
 - [ ] Chemistry
 - [ ] Chemical engineering
-- [ ] Cells and systems biology
+- [x] Cells and systems biology
 - [x] Computer Science
-- [ ] Electrical Engineering
-- [ ] Health Informatics
-- [ ] Immunology
+- [x] Electrical Engineering
+- [x] Immunology
 - [ ] Math
 - [x] Mechanical & Industrial Engineering
 - [x] Materials science and engineering
@@ -44,8 +45,8 @@ When you hear back, move the department under the relevant heading.
 - [x] Molecular genetics
 - [ ] Nutrional sciences
 - [x] Pharmacology
-- [ ] Physiology
-- [ ] Psychology
+- [x] Physiology
+- [x] Psychology
 - [ ] Statistics
     
 # Potenially similar courses
