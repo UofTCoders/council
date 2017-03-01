@@ -10,6 +10,8 @@ When you hear back, move the department under the relevant heading.
     - Potentially, Lindsay will speak to them further.
 
 # Not interested
+- [x] Human Biology
+    - Recommends reaching out to stats department instead.
 
 
 # Not applicable
@@ -47,6 +49,7 @@ When you hear back, move the department under the relevant heading.
     
 # Potenially similar courses
 - Statistics
+    - STA288H1: Statistics and Scientific Inquiry in the Life Sciences
     - STA1007H Statistics for Life and Social Scientists
     - STA1001H - Methods of Data Analysis 1
 - Public Health
