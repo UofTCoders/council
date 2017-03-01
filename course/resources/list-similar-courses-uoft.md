@@ -8,6 +8,8 @@ When you hear back, move the department under the relevant heading.
     - Meeting on Friday
 - [x] Psychology
     - Potentially, Lindsay will speak to them further.
+- [x] Physics
+    - Meeting Monday
 
 # Not interested
 - [x] Human Biology
@@ -42,7 +44,6 @@ When you hear back, move the department under the relevant heading.
 - [x] Molecular genetics
 - [ ] Nutrional sciences
 - [x] Pharmacology
-- [x] Physics
 - [ ] Physiology
 - [ ] Psychology
 - [ ] Statistics
