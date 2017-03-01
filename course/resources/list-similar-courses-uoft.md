@@ -3,39 +3,39 @@
 
  Physical and Environmental Sciences
     - [EES1137H Quantitative Applications for Data Analysis](https://www.utsc.utoronto.ca/gradpes/ees1137h-quantitative-applications-data-analysis)
-- Biochemistry
+- [ ] Biochemistry
     - BCH441H - Bioinformatics
-- IBBME
-- Chemistry
-- Chemical engineering (Grad only)
-- Cells and systems biology
+- [ ] IBBME
+- [ ] Chemistry
+- [ ] Chemical engineering (Grad only)
+- [ ] Cells and systems biology
     - CSB1472H/S, LEC 0101 – Computational Genomics and Bioinformatics
     - CSB 352H1S – Bioinformatic Methods
-- Biotechnology (Grad only)
+- [ ] Biotechnology (Grad only)
 - [x] Ecology and evolutionary biology
     - EEB225H1 - Biostatistics for Biological Sciences
-- Electrical Engineering
-- Health Informatics
-- Immunology
-- Math
-- Mechanical & Industrial Engineering
+- [ ] Electrical Engineering
+- [ ] Health Informatics
+- [ ] Immunology
+- [ ] Math
+- [ ] Mechanical & Industrial Engineering
     - MIE1624H Introduction to Data Science and Analytics
-- Materials science and engineering
-- Medical biophysics
-- Medical Science
-- Molecular genetics
+- [ ] Materials science and engineering
+- [ ] Medical biophysics
+- [ ] Medical Science
+- [ ] Molecular genetics
     - A Practical Course in Programming for Biologists
-- Nutrional sciences
+- [ ] Nutrional sciences
 - [x] Pharmacology
 - [x] Physics
-- Physiology
-- Psychology
-- Public health
+- [ ] Physiology
+- [ ] Psychology
+- [ ] Public health
     - A bunch of biostat courses geared towards epidemiologists that together probably covers much of what is in our course.
-- Statistics
+- [ ] Statistics
     - STA1007H Statistics for Life and Social Scientists
     - STA1001H - Methods of Data Analysis 1
-- SciNet
+- [ ] SciNet
     - [Introduction to the Linux Shell SCMP101](https://support.scinet.utoronto.ca/education/go.php/309/index.php/ib/1//p_course/309)
     - [Intro to Scientific Computing with Python SCMP112](https://support.scinet.utoronto.ca/education/go.php/264/index.php/ib/1//p_course/264)
     - [Scientific Computing for Physicists PHY1610](https://support.scinet.utoronto.ca/education/go.php/276/index.php/ib/1//p_course/276)
