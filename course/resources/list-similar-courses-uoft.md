@@ -27,7 +27,7 @@
     - A Practical Course in Programming for Biologists
 - Nutrional sciences
 - Pharmacology
-- Physics
+- [x] Physics
 - Physiology
 - Psychology
 - Public health
