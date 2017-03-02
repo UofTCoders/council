@@ -12,9 +12,14 @@ When you hear back, move the department under the relevant heading.
     - Meeting Monday
 
 # Not interested
-- [x] Human Biology
-    - Recommends reaching out to stats department instead.
-
+- [x] Human Biology 
+    - Recommends reaching out to stats department instead, see Statistics.
+- [x] Statistics
+    - already co-offering a course with Human Biology starting fall 2017.
+        - STA288H1: Statistics and Scientific Inquiry in the Life Sciences
+        - Introduction to statistics and its connection to all stages of the scientific inquiry process. Issues around data collection, analysis and interpretation are emphasized to inform study design and critical assessment of published research. Statistical software is used to conduct descriptive and inferential statistics to address basic life sciences research questions.
+        - Prerequisites: BIO230H1/BIO255H1
+        - Exclusions: STA220H1, PSY201H1, GGR270H1, ECO220Y1, ECO227Y1, SOC202H1, EEB225H1, HMB325H1, STA248H1, STA261H1, PCL376H1
 
 # Not applicable
 - [ ] IBBME
