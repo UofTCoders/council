@@ -7,7 +7,7 @@
     - Indicate whether you have passed your qualifying exam to become a PhD Candidate.
 - Read the summary below and modify at will.
 
-### Madeline
+### Madeleine
 - Check with Ahmed if his prof is co-appointed with EEB and interested in being the appointed faculty for the seminar course.
 - Send CVs to Asher, and mentioned Ahmed's prof in case he is interested.
 
