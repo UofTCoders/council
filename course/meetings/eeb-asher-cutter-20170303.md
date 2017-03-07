@@ -1,20 +1,25 @@
-# Meeting with Asher Cutter, Ecology and Evolutionary Biology, 20170303
+---
+Contact: Asher Cutter
+Department: Ecology and Evolutinoary Biology
+Uoftcoders: Madeleine, Luke, Lina, Joel
+Date: 20170303
+---
 
-## Action items
+# Action items
 
-### Everyone
+## Everyone
 - Send your CV to Madeleine, who will forward all at once to Asher.
     - Indicate whether you have passed your qualifying exam to become a PhD Candidate.
 - Read the summary below and modify at will.
 
-### Madeleine
+## Madeleine
 - Check with Ahmed if his prof is co-appointed with EEB and interested in being the appointed faculty for the seminar course.
 - Send CVs to Asher, and mentioned Ahmed's prof in case he is interested.
 
-### Luke and Lina
+## Luke and Lina
 - Unofficial workshops might be the easiest way to reach grad students. Luke and Lina are on two of the grad unions, look into possibility to host something further down the road.
 
-## Summary
+# Summary
 - EEB is interested in approaching the university for starting a track in quantitative biology for undergrads. The RQM course slots in perfectly.
 - Too late to institute a new course for next year (should apply one year in advance), but it could be possible to launch a session within their seminar courses. We would be able to either teach the full RQM course or most of it coupled with some readings etc.
     - It is unlikely that we will be the instructors on paper. Potentially one of us co-instructors or all of us TAs. It will be easier practically to just have a prof or Asher down on the paper.
