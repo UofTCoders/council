@@ -1,8 +1,8 @@
 ---
-Contact: Asher Cutter
-Department: Ecology and Evolutinoary Biology
-Uoftcoders: Madeleine, Luke, Lina, Joel
-Date: 20170303
+contact: Asher Cutter
+department: Ecology and Evolutinoary Biology
+uoftcoders: Madeleine, Luke, Lina, Joel
+date: 2017-03-03
 ---
 
 # Action items

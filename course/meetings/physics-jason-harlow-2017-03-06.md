@@ -1,8 +1,8 @@
 ---
-Contact: Jason Harlow
-Department: Physics
-Uoftcoders: Madeleine, Luke, Joel
-Date: 20170306
+contact: Jason Harlow
+department: Physics
+uoftcoders: Madeleine, Luke, Joel
+date: 2017-03-06
 ---
 
 # Summary
