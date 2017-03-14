@@ -11,17 +11,16 @@
 
 ### Treasurer
 
-1.  Act as UofT Coders financial officer, and together with the President, ensure the groups financial stability;
+1.  Act as UofT Coders financial officer, and together with the President, ensure the group's financial stability;
 2. Oversee the group bank account;
 3. Keep receipts for all financial transactions, and record on the [council repository](https://github.com/UofTCoders/council/tree/master/treasurer) all debits, credits, and cheques released, as well as the dates and remaining bank balance for maintaining and organizing bank records, and for conducting annual audits (if applicable) in accordance with policies established by Student Affairs, University of Toronto;
 4. Apply for funding and sponsorship for the group, as applicable;
 5. Prepare an annual budget at the start of fiscal year;
-6. Present current statements of accounts versus budget, and cash flow positions at Executive Council meetings;
-7. Prepare of an annual financial report at the end of the fiscal year.
+6. Present current statements of accounts versus budget, and cash flow positions at Executive Council meetings.
 
 ### Technical Admin
 
-1. Responsible for the maintenance and upkeep of the [website](uoftcoders.github.io/studyGroup/).
+1. Responsible for the maintenance and upkeep of the [website](https://uoftcoders.github.io/studyGroup/);
 2. Oversee the activity of the [studyGroup repository](https://github.com/UofTCoders/studyGroup) in terms of pull requests for new features or weekly lesson material. 
 
 ### Admin
