@@ -41,5 +41,5 @@
     
 ### RQM Course Coordinator
 
-1. Responsible for coordinating and organizing the Reproducible Quantitative Methods (RQM) course (based on [the course by Christie Bahlai](https://cbahlai.github.io/rqm-template/)) at the University of Toronto with the help of the other UofT Coders executive council members,
+1. Responsible for coordinating and organizing the Reproducible Quantitative Methods (RQM) course (based on [the course by Christie Bahlai](https://cbahlai.github.io/rqm-template/)) at the University of Toronto with the help of the other UofT Coders executive council members;
 2. Act as the main liaison between UofT Coders and RQM host department, and/or any other groups at the University of Toronto related to the RQM course implementation.
