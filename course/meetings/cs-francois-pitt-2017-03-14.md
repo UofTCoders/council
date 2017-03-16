@@ -13,13 +13,13 @@ date: 2017-03-14
 - 12 week schedule
 - Need a prof to take ownership of the course, especially for pushing it through formal approval with the department.
     - The course could then be taught by grad students, but it is unheard of that this would happen already the first semester.
-- Very positive to co-hosting cross-department withing arts and sciences.
+- Very positive to co-hosting cross-department within arts and sciences.
     - And the fact that we are from different departments already.
     - It would be more difficult to host across faculties.
 - They currently have more course to teach than teaching capacity and already hire large number of stipend instructors.
     - Co-hosting could then be beneficial for them.
     - Never mentioned the increased cost of their undergrad program that EEB was afraid might be a hindrance from co-hosting with CS.
-    - If CS puts in the resources, it would need to prioritize CS sutdents.
+    - If CS puts in the resources, it would need to prioritize CS students.
 - Potential streams of interest:
     - Scientific computing
     - Human Computer Interaction
