@@ -1,5 +1,5 @@
 ---
-attendees: Madeleine, Luke, Lina, Joel, Lindsay, Elliot
+attendees: Madeleine, Luke, Lina, Joel, Lindsay, Elliott
 date: 2017-03-03
 ---
 
@@ -18,7 +18,7 @@ date: 2017-03-03
 - Create a private Gitter room for the council under the current UofTCoders Gitter account.
 - Merge your minutes with my pull request here https://github.com/UofTCoders/council/pull/102.
 
-## Elliot
+## Elliott
 - Give Joel write access where appropriate.
     - Let me know what you need from me for this.
 
@@ -75,24 +75,3 @@ We discussed the points Asher raised, and conceived of this initial outline of t
 - Before the course drop date, students will be assessed based on discussion participation, progress reports, and reflections reports. 
 - **Questions**
     1. Will there be restrictions on what percentages of students that can receive a certain grade, or can we grade them solely based on merit?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
