@@ -45,7 +45,7 @@ We discussed the points Asher raised, and conceived of this initial outline of t
 - Each person will teach 2-3 segments, and help out on 2-3 tutorials.
 - Before teaching their first segment, the instructor will be present as a helper on the previous section, so that the students are already familiar with this person as part of the class's teaching staff.
 - For the tutorials, each student group will be coupled with a pair of UofT Coders instructors. One of these instructors will be present at each tutorial, so that there is continuity between which group is being helped by which instructors throughout the semester.
-- We aim to divide student into 3-4 groups of 4-6 students in each group (depending on total enrollment number).
+- We aim to divide students into 3-4 groups of 4-6 students in each group (depending on total enrollment number).
     - Student will be surveyed for their background knowledge and divided into groups so that their skills complement their groups members. 
 - Together with the professor, we will provide several ecology data sets for the students to choose from.
 - **Questions:**
@@ -69,7 +69,8 @@ We discussed the points Asher raised, and conceived of this initial outline of t
     - Progress reports - Short, frequent blog updates on the project. Similar to a shared lab notebook. Teaches students how to document their work and keep their colleagues up to date with their progress.
     - Reflection reports - Longer blog posts traversing topics that have been brought up in class.
     - Final science product - For example a poster, or manuscript presenting the group's results.
-    - Peer review - Provide feedback on one of the scientific products from another group.
+    - Peer review - Provide feedback on one of the scientific products from another group. 
+        - Weighted component of the final science product mark, along with our marking of the product.
     - Collaborator assessment - Assess the contributions of their peers within the same group.
 - Before the course drop date, students will be assessed based on discussion participation, progress reports, and reflections reports. 
 - **Questions**
