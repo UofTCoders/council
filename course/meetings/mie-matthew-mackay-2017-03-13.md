@@ -7,19 +7,20 @@ date: 2017-03-13
 ---
 
 # Summary
-- His ideal course would be somewhat engineering specific and attractive to both mechanical and industrial engineers. He seemed more interesting in uniting these two engineering streams than bridging gaps to other departments.
+- His ideal course would be somewhat engineering specific and attractive to both mechanical and industrial engineers. He seemed more interested in uniting these two engineering streams than bridging gaps to other departments.
     - If there was a course that bridged the interests of the Mechanical and Industrial streams, that would be very attractive to the department.
 - Want more programming in general for his undergrads.
     - Currently a big gap between taking a few courses in first year and then basically nothing until fourth year.
         - At least for Mechanical engineers where programming is a hard sell, the industrial stream has decent programming experience.
     - Currently mostly dependent on student electives.
-- The RQM could potentially replace and update their numerical methods course.
+- The RQM could potentially replace and update their [third year numerical methods course, MIE334](http://coursefinder.utoronto.ca/course-search/search/courseInquiry?methodToCall=start&viewId=CourseDetails-InquiryView&courseId=MIE334H1S20171).
 - RQM course would be closer to industrial engineering where they do more research.
     - There is also financial engineering that could be interesting
     - Environmental engineering could be a match with EEB?
 - Grad students are allowed to teach, but they mostly get professional engineers.
 - Will put us in contact with some of their teaching grad students for tips.
 - There might be some resistance from higher levels that tend to like the status quo.
+- Suggested to contact [Bruno Korst](https://www.ece.utoronto.ca/undergraduates/hardware-computer-labs/communications-lab/) in ECE - he's a lab manager with clout, might be interested in the course.
 
 # Complete (provided as is)
 - Want more programming in general for his students.
@@ -36,7 +37,7 @@ date: 2017-03-13
 - Replace and update numerical methods course. That is more of an intro to programming course.
  RQM is closer to the IND side since they do more research already.  There is also a financial engineering that fits in.
 - Mech side still has data collection and data gathering. Students might not be interested in research methods, since they don't know they need it until 3 rd year research project. Might have to make something more targeting to a specific project. Prof diller is a potential contact.
-- Lots of faculty that like the status quo, we need to 
+- Lots of faculty that like the status quo.
 - Maybe good as IND tech elective.
 - This would be a big change to their curriculum, so 18/19.
 - Next year is their snapshot so no chance then.
