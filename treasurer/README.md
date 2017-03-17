@@ -40,9 +40,9 @@ data_frame(
 
 | Type      | Amount    |
 |:----------|:----------|
-| Income    | $3,442.20 |
-| Expense   | $2,004.70 |
-| **Total** | $1,437.50 |
+| Income    | $3,525.65 |
+| Expense   | $2,090.65 |
+| **Total** | $1,435    |
 
 ``` r
 snacks <- filter(finances, grepl('Snacks', Reason)) 
@@ -51,16 +51,18 @@ weeks <- as.numeric(weeks)
 per_week <- abs(sum(snacks$Expense) / weeks)
 ```
 
-**Per session (weekly) expense for snacks**: $6.50
+**Per session (weekly) expense for snacks**: $7.05
 
 Projected income and expenses
 -----------------------------
 
-Values surrounded by brackets `()` denote negative values, as is often standard in accounting.
+Values surrounded by brackets `()` denote negative values, as is often standard in accounting. Projected values are until end of *fiscal year*. Fiscal year starts from the month we first started using the BMO bank account (May):
+
+Fiscal year: *May 1st-April 30th.*
 
 ``` r
 # This needs date needs to be changed each year.
-fiscal_year_end <- difftime('2017-03-31', Sys.Date(), units = 'weeks')
+fiscal_year_end <- difftime('2017-05-01', Sys.Date(), units = 'weeks')
 fiscal_year_end <- as.numeric(fiscal_year_end)
 
 budget_estimate <- data_frame(
@@ -78,5 +80,5 @@ pander(budget_estimate, emphasize.strong.rows = nrow(budget_estimate),
 
 | Item      |        Amount|
 |:----------|-------------:|
-| Snacks    |      ($66.10)|
-| **Total** |  **($66.10)**|
+| Snacks    |      ($59.58)|
+| **Total** |  **($59.58)**|

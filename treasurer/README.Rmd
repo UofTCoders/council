@@ -56,11 +56,14 @@ per_week <- abs(sum(snacks$Expense) / weeks)
 ## Projected income and expenses
 
 Values surrounded by brackets `()` denote negative values, as is often standard
-in accounting.
+in accounting. Projected values are until end of *fiscal year*. Fiscal year
+starts from the month we first started using the BMO bank account (May): 
+
+Fiscal year: *May 1st-April 30th.*
 
 ```{r}
 # This needs date needs to be changed each year.
-fiscal_year_end <- difftime('2017-03-31', Sys.Date(), units = 'weeks')
+fiscal_year_end <- difftime('2017-05-01', Sys.Date(), units = 'weeks')
 fiscal_year_end <- as.numeric(fiscal_year_end)
 
 budget_estimate <- data_frame(
