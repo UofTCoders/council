@@ -40,9 +40,9 @@ data_frame(
 
 | Type      | Amount    |
 |:----------|:----------|
-| Income    | $3,525.65 |
-| Expense   | $2,090.65 |
-| **Total** | $1,435    |
+| Income    | $4,279.40 |
+| Expense   | $2,752.85 |
+| **Total** | $1,526.55 |
 
 ``` r
 snacks <- filter(finances, grepl('Snacks', Reason)) 
@@ -51,7 +51,7 @@ weeks <- as.numeric(weeks)
 per_week <- abs(sum(snacks$Expense) / weeks)
 ```
 
-**Per session (weekly) expense for snacks**: $7.05
+**Per session (weekly) expense for snacks**: $6.21
 
 Projected income and expenses
 -----------------------------
@@ -65,9 +65,17 @@ Fiscal year: *May 1st-April 30th.*
 fiscal_year_end <- difftime('2017-05-01', Sys.Date(), units = 'weeks')
 fiscal_year_end <- as.numeric(fiscal_year_end)
 
+workshop_income <- finances %>% 
+    filter(Tag == "SWC", !is.na(Income), !grepl("walk-in", Reason))
+
+estimated_per_workshop_income <- workshop_income %>% 
+    summarize(EstimatedIncome = sum(Income) / length(Income))
+estimated_workshops_per_year <- 3
+
 budget_estimate <- data_frame(
     ## Not all weeks will there be a meet up (e.g. Christmas, random weeks).
-    Snacks = -per_week * (fiscal_year_end - 3 - 2)
+    Snacks = -per_week * (fiscal_year_end - 3 - 2),
+    Workshops = estimated_per_workshop_income[[1]] * estimated_workshops_per_year
     ) %>% 
     mutate(Total = rowSums(.)) %>%
     mutate_each(funs(cad)) %>% 
@@ -78,7 +86,8 @@ pander(budget_estimate, emphasize.strong.rows = nrow(budget_estimate),
        style = 'rmarkdown', justify = c('left', 'right'))
 ```
 
-| Item      |        Amount|
-|:----------|-------------:|
-| Snacks    |      ($59.58)|
-| **Total** |  **($59.58)**|
+| Item      |         Amount|
+|:----------|--------------:|
+| Snacks    |        ($4.58)|
+| Workshops |      $2,183.64|
+| **Total** |  **$2,179.06**|
