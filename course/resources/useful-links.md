@@ -3,3 +3,5 @@
     - Github https://github.com/BIDS/repro-case-studies
 - http://www.openaccessweek.org/ Might launch an activity woth mentioning in the course
 - http://vita.had.co.nz/papers/tidy-data.html Tidy data
+- https://github.com/datacarpentry/ecology-workshop Data carpentry R ecology workshop
+- http://www.datacarpentry.org/R-ecology-lesson/ Data carpentry R ecology lesson
