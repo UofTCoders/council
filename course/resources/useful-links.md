@@ -2,3 +2,4 @@
     - Via this blog post https://www.software.ac.uk/blog/2017-03-23-practice-reproducible-research
     - Github https://github.com/BIDS/repro-case-studies
 - http://www.openaccessweek.org/ Might launch an activity woth mentioning in the course
+- http://vita.had.co.nz/papers/tidy-data.html Tidy data
