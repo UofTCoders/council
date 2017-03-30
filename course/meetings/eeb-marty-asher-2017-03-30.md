@@ -1,7 +1,7 @@
 ---
 contact: Asher Cutter, Martin Krkosek
-department: Ecology and Evolutinoary Biology
-uoftcoders: Madeleine, Luke, Lina, Joel, Lindsay, Elliot
+department: Ecology and Evolutionary Biology
+uoftcoders: Madeleine, Luke, Lina, Joel, Lindsay, Elliott
 date: 2017-03-30
 ---
 
