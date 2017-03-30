@@ -17,7 +17,7 @@ date: 2017-03-30
 - Should we clarify regarding the 2 and 3 h blocks? Do we want the second block of the week to be 3 hours if possible? This would be because the second block is likely to be the most tutorial and project work heavy of the two weekly sessions.
 
 # Summary
-- Martin will be the course's faculty
+- Martin will be the course's faculty owner.
     - Not involved in the teaching other than possibly "guest lectures" (or help recruiting for that, his grad students?).
     - Will help design the course syllabus.
     - Might contribute data sets, but we can also bring ours and discuss with him.
