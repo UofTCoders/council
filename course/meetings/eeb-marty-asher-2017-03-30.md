@@ -12,9 +12,9 @@ date: 2017-03-30
     - Schedule UofTCoders next meeting.
         - Martin only available in person for another 2 weeks.
         - Lindsay will be leaving soon also, so schedule meeting as soon as possible.
-        - We should probably meet next week if we want to talk to Martin again in person before he heads out. Can also communicate via email if this is too tight.
+        - We should probably meet next week if we want to talk to Martin again in person before he heads out (given that he gets back to us in the next few days). Can also communicate via email if this is too tight.
 - Asher will look into computer rooms.
-- Should we clarify that regarding the 2 and 3 h blocks? Do we want the second block of the week to be 3 hours if possible? This would be because the second block is likely to be the most tutorial and project work heavy of the two weekly sessions.
+- Should we clarify regarding the 2 and 3 h blocks? Do we want the second block of the week to be 3 hours if possible? This would be because the second block is likely to be the most tutorial and project work heavy of the two weekly sessions.
 
 # Summary
 - Martin will be the course's faculty
