@@ -30,9 +30,9 @@ date: 2017-03-30
     - Will this replace some of the "openness" parts of the course?
 - Asher urges us to pick assignments that are not time consuming to grade.
 - There will be one 3h and one 2h block per week, hopefully both in computer room.
-- They are somewhat worries around the many TAs, want there to be continuity in the group projects for sure, and probably everyone should be there for the first session also. Potentially, 3 people teaching first half, and 3 people the second half.
+- They are somewhat worried around the many TAs, want there to be continuity in the group projects for sure, and probably everyone should be there for the first session also. Potentially, 3 people teaching first half, and 3 people the second half.
 - For the summer, they have some money available to make lab assignments for class.
-    - One of us paired with a student in EBB, to trouble and trial the assignments.
+    - One of us paired with a student in EEB, to trouble and trial the assignments.
         - Would be good if we could get two of us to join for this maybe?
 - Married to syllabus once it goes out. Don't be overly meticulous about non-essential aspects.
     - To be completed in august.
