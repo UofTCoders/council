@@ -18,7 +18,7 @@
     * [Discussions](#discussions)
     * [Exercises](#exercises)
 
-## General comments on the necessary changes to the RQM syllabus
+## On the necessary changes to the RQM syllabus
 - To tailor the course for ecology students, we need to remove some of the existing material.
 - Most of the topics in Christie's course involve both practical and theoretical aspects. For example, all of the R-coding would fall under reproducibility, but there are also discussions dedicated to reproducibility.
 - I classified all the lectures and tutorials into the overarching themes of the RQM course, and quantified the number of classes dedicated to a theme in the original and proposed schedules (original -> proposed). This can serve as a rough overview for how the course direction is changing:
