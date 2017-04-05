@@ -1,6 +1,6 @@
 # RQM, ecologized
 
-* [General comments on the necessary changes to the RQM syllabus](#general-comments-on-the-necessary-changes-to-the-rqm-syllabus)
+* [On the necessary changes to the RQM syllabus](#general-comments-on-the-necessary-changes-to-the-rqm-syllabus)
 * [Draft of proposed schedule](#draft-of-proposed-schedule)
     * [Week 1](#week-1)
     * [Week 2](#week-2)
