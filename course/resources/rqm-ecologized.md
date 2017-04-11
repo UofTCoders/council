@@ -30,13 +30,13 @@
 ## On the necessary changes to the RQM syllabus
 - To tailor the course for ecology students, we need to remove some of the existing material.
 - I have tried to summarize the differences between the original schedule and the schedule I propose further down. I did this by classifying all the lectures and tutorials into the overarching themes of the RQM course, and quantified the number of classes dedicated to a theme in the original and proposed schedules (original -> proposed). This can serve as a rough overview for how the course direction is changing:
-    - 13 -> 13 Reproducibility (includes all R classes)
-    - 6 -> 1 Openness in data and science
-    - 5 -> 1 Authorship and publishing
+    - 13 -> 8.5 Reproducibility (includes all R classes)
+    - 5 -> 1.5 Authorship, collaboration and publishing
+    - 6 -> 0 Openness in data and science
     - 5 -> 8 Project work
-    - 0 -> 6 Ecology
+    - 0 -> 6 Theoretical ecology
 - Most of the topics in Christie's course involve both practical and theoretical aspects. For example, all of the R-coding would fall under reproducibility, but there are also discussions dedicated to reproducibility.
-- Note that there are 2 or 3 of these topics per week in the original RQM schedule. Time-wise, this means that a topic approximately equals one class (lecture or tutorial). There are 29 topics here and will be 24 classes taught, so we will need to include three per week in some cases or reduce this to from 29 to 24.
+- Note that there are 2 or 3 of these topics per week in the original RQM schedule. Time-wise, this means that a topic approximately equals one class (lecture or tutorial). There were 29 topics in the original RQM course, which we have reduced to 24 topics to fit our course. The total lecture time is still the same, just that each topic gets more attention.
 
 ## Draft of proposed schedule
 - An immediate conflict to solve is how to ensure that the students get started with their project early, but also have the necessary knowledge about data analyses, R, and the ecology models that Martin wants to incorporate.
