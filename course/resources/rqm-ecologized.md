@@ -110,7 +110,7 @@ I have put a checkmark on the lessons that seems relevant for the couple of labs
 - [x] Population growth
 - [x] Limitation and regulation of populations
 - [ ] Logistic growth
-- [ ] Allee effects 
+- [ ] Allele effects 
 - [x] Alternate stable states
 - [ ] Environmental stochasticity
 - [ ] Demographic stochasticity
