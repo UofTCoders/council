@@ -10,7 +10,12 @@
     * [Week 5](#week-5)
     * [Week 6](#week-6)
     * [Week 7](#week-7)
-    * [Week 8-12](#week-8-12)
+    * [Week 8](#week-8)
+    * [Week 9](#week-9)
+    * [Week 10](#week-10)
+    * [Week 11](#week-11)
+    * [Week 12](#week-12)
+    * [Possible additional ideas](#possible-additional-ideas)
 * [Labs and lectures from Martin](#labs-and-lectures-from-martin)
     * [Structured population dynamics](#structured-population-dynamics)
     * [Predator prey population dynamics](#predator-prey-population-dynamics)
@@ -35,59 +40,84 @@
 
 ## Draft of proposed schedule
 - An immediate conflict to solve is how to ensure that the students get started with their project early, but also have the necessary knowledge about data analyses, R, and the ecology models that Martin wants to incorporate.
-- As we are now incorporating some ecology classes into this schedule, I think it is important to make sure enough time is dedicated to teaching sound principles around the data analyse pipeline, as this is still the main focus of the course imo.
-- Another point of consideration is whether we should teach all the R stuff with a common data set, so that we can streamline it for teaching the principles, and then hand out student data sets after a few weeks.
-    - I am leaning towards a common data set for the first weeks, since this would make it faster and force students to go through these procedures at least twice, once with the common data set and once with their own, which is advantageous or knowledge retention. I fear classes would become choppy if every group has their own data set specific problems come up, that's better dealt with in tutorials with the group specific TAs.
+- As we are now incorporating some ecology classes into this schedule, I think it is important to make sure enough time is dedicated to teaching sound principles around the data analyse pipeline, as this is still the main focus of the course in my opinion.
+- We will teach the introduction with a common data, since this will make it faster, clearer and force students to go through these procedures at least twice, once with the common data set and once with their own, which is advantageous or knowledge retention.
 - I originally split these topics into lecture and tutorial, but I will just call it 1 and 2 instead, since both of them will hopefully be in a computer lab. The third item under each week is for suggested homework.
-- Do we want simple quizzes at the start of each lecture, for the first ~5 weeks? This could serve as an easy to grade item and make sure that the students put effort in at home. It will make it easier for the students to know where they are at the drop date, and we can then reduce the quiz frequency as the course moves into the project based phase.
+- Quizzes will be done using the automated blackboard setup to as large extent as possible. This will likely work very well for the initial programming multiple choice type exercises, together with some coding puzzles that would be manually graded.
+    - This will give students a fair estimate on where they stand before the course drop rate.
+- If possible we would like to record the classes, at least the slides and speaker voice through Google Hangouts as during our UofTCoders event.
 
 ### Week 1
 1. Introduction to the course, intro to the ecology part, motivation behind more reproducible workflows, talk briefly about spreadsheet and get straight into how to use R.
     - Since Martin mentioned we should expect no programming experience from these students, I want to introduce programming at the first lecture already, at least conceptually.
-    - We can do this based on a [jupyter notebook I wrote previously](https://github.com/joelostblom/resources/blob/master/from-spreadsheets-to-pandas/from-spreadsheets-to-pandas.ipynb) with analogies between spreadsheet software and programming languages. It's in Python, but if you think this is a good idea, we can adopt it for R. If not, we can do something else.
+    - We can do this borrowing concepts from a [jupyter notebook I wrote previously](https://github.com/joelostblom/resources/blob/master/from-spreadsheets-to-pandas/from-spreadsheets-to-pandas.ipynb) with analogies between spreadsheet software and programming languages. It's in Python, but if you think this is a good idea, we can adopt it for R. If not, we can do something else.
 2. Basic R programming, vectors, data frames, loops, conditions, etc.
-3. Before 2nd class: Everyone have Rstudio up and running. Maybe we can also link them to some R intro course and ask them to complete 1 or 2 lectures there per week, which will serve as the underlying material for the quiz? This one is good imo http://tryr.codeschool.com/. Watch Christie's talk https://www.youtube.com/watch?v=TthxI9mlvGE?
+    - All coding will be taught in class, but we will provide references for those who want to practice for the quizzes on their own.
+        - Interactive introductory exercises, [codeschool](http://tryr.codeschool.com/) and [swirl](http://swirlstats.com/).
+        - Reference for data analyses in R, [R for data science](r4ds.had.co.nz).
+3. Before 2nd class: Everyone should have Rstudio up and running, and have watched [Christie's talk](https://www.youtube.com/watch?v=TthxI9mlvGE?). Quizzes on portal to complete until next week.
 
 ### Week 2
 1. Basic R-programming, repetition and continued, scripting.
 2. dplyr intro, finalize R-prep by teaching outstanding items required to use R for the following ecology classes.
-3. Again, link online lectures?
+3. Quizzes on portal.
 
 ### Week 3
 1. Ecology background knowledge for lab 1
 2. Ecology lab 1 (or similar)
-3. Lab report? Aka send in their code.
+3. Lab report (send in their code)? Or more portal quizzes?
 
 ### Week 4
 1. Ecology background knowledge for lab 2
 2. Ecology lab 2 (or similar)
-3. Lab report? Aka send in their code.
+3. Lab report (send in their code)? Or more portal quizzes?
 
 ### Week 5
 1. Introduce data sets, divide intro groups, think about interesting questions to ask, formulate hypothesis/plan of action.
     - Potentially do this already the week before and have them take a survey with the data they want to work on and their background experience.
-2. Project work, getting started with their own data in R, tidy data principles, how to clean data, setting up a collaborative git environment with Rstudio (how much do we want to get into git?).
-3. Reflections blog post of what they have learnt so far?
+2. Project work, getting started with their own data in R, tidy data principles, how to clean data, setting up a collaborative git environment through Rprojects and [prodigenr](https://github.com/lwjohnst86/prodigenr) in Rstudio.
+3. Quizzes on portal. Create a github account after the first class this week. Maybe write a data README?
 
 ### Week 6
-1. Data visualization in general and in R, ggplot, interactive (since plotly is just one additional line)?
+1. Data visualization in general and in R, ggplot and interactive in plotly (one extra line of code).
 2. Data visualization continued, project specific.
-3. Online tutorial about plotting.
+3. Quizzes on portal.
 
 ### Week 7
-1. Stuff important for reproducible workflow, metadata, Rmarkdown, Roxygen?
-2. Project work,
-3. Write a data README?
+1. Tools important for reproducible workflow, metadata and Rmarkdown.
+2. Project work.
+3. Quizzes on portal.
 
-### Week 8-12
-I have left these open for now, since I expect there will be many things that will be reorganized anyways. Ideally one lecture per week from now on would be project work only. Potential ideas:
-    - A couple of additional ecology lessons?
-    - More info about working together on online collaborative platforms? Both for code and writing.
-    - More about data openness?
-    - Guest lectures?
-    - Preparing a scientific item for academic publishing
-    - Licensing and authorship
-- Let me know your overall thoughts on the draft so far. Maybe it is too compressed, I think it is hard to estimate exactly how long we need to spend on certain topics, and I might have been a bit optimistic.
+### Week 8
+1. Ecology topic.
+2. Project work.
+3. Project progress report.
+
+### Week 9
+1. Scientific collaboration. Dive deeper into Git and GitHub.
+    - This will include a discussion item from the original RQM course, and serve as a checkup for how the collaboration in the project is going.
+2. Project work.
+3. Project progress report.
+
+### Week 10
+1. Preparing a scientific item for academic publishing.
+2. Project work.
+3. Project progress report.
+
+### Week 11
+1. Ecology topic.
+2. Project work.
+3. Project progress report.
+
+### Week 12
+1. All TAs available to help finishing project this week.
+2. All TAs available to help finishing project this week.
+3. Final scientific report.
+
+### Possible additional ideas
+- Guest lectures
+- More about data openness
+- Licensing and authorship
 
 ## Labs and lectures from Martin
 These are the topics from what Martin sent us on Dropbox.
