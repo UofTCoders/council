@@ -6,7 +6,7 @@
 2. Organize and preside over monthly council meetings;
 3. Ensure that UofT Coders affairs are conducted in a fiscally responsible manner;
 4. Marketing:
-  * Send out recruitment emails to various avenues to increase awareness
+    * Send out recruitment emails to various avenues to increase awareness
 5. Make final decisions in the event where decisions are split;
 
 ### Treasurer
