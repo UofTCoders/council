@@ -41,13 +41,19 @@ TransactionDate,Income,Expense,Tag,Reason,Notes,ChequeNumber,ChequeCashed
 2017-02-13,,409.63,SWC,Coffee and tea for SWC workshop (Feb 3),For Innis Cafe,ch018,Yes
 2017-02-07,,25.06,Snacks,Snacks,For Luke,ch017,Yes
 2017-03-17,,128.5,Misc,Laptop stickers,For Lina,ch020,Yes
-2017-03-17,,6.76,Snacks,Snacks (with PR 106 for $48.56),For Luke,ch022,No
-2017-03-17,,41.8,Misc,Adapter for HDMI/VGA (with PR 106 for $48.56),For Luke,ch022,No
+2017-03-24,,6.76,Snacks,Snacks (with PR 106 for $48.56),For Luke,ch022,Yes
+2017-03-24,,41.8,Misc,Adapter for HDMI/VGA (with PR 106 for $48.56),For Luke,ch022,Yes
 2016-12-30,,2.5,BankFee,BMO Maintanence fee,,,
 2017-01-31,,2.5,BankFee,BMO Maintanence fee,,,
 2017-02-28,,2.5,BankFee,BMO Maintanence fee,,,
 2017-02-10,837.2,,SWC,"SWC workshop, Feb. 2-3, 2017",Registration fees,,
 2017-03-22,,15.5,Misc,Drinks for Hack day,For Lina,ch023,No
-2017-03-22,,9,Misc,Snacks for Hack day,For Maddy,ch024,No
-2017-01-09,,58.95,Misc,Drinks and snacks for Hack day,For Luke,ch016,No
-2017-03-22,,31.97,Snacks,Snacks for sessions,For Luke,ch025,No
+2017-04-06,,9,Misc,Snacks for Hack day,For Maddy,ch024,Yes
+2017-03-24,,58.95,Misc,Drinks and snacks for Hack day,For Luke,ch016,Yes
+2017-03-24,,31.97,Snacks,Snacks for sessions,For Luke,ch025,Yes
+2017-04-19,,32.06,Snacks,Snacks for sessions,For Luke,ch026,No
+2017-04-19,,5.98,Snacks,Tea for sessions,For Luke,ch026,No
+2017-04-19,,33.89,Misc,Kettle for heating up water,For Luke,ch026,No
+2017-04-11,,76.44,SWC,Snacks for SWC (Feb 2017),For Lindsay,ch021,Yes
+2017-03-31,,2.5,BankFee,BMO Maintanence fee,,,
+2017-03-31,83.45,,Misc,From Maddy for Hack Day,,,
