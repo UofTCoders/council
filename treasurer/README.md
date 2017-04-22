@@ -40,9 +40,9 @@ data_frame(
 
 | Type      | Amount    |
 |:----------|:----------|
-| Income    | $4,279.40 |
-| Expense   | $2,752.85 |
-| **Total** | $1,526.55 |
+| Income    | $4,362.85 |
+| Expense   | $2,903.72 |
+| **Total** | $1,459.13 |
 
 ``` r
 snacks <- filter(finances, grepl('Snacks', Reason)) 
@@ -51,7 +51,7 @@ weeks <- as.numeric(weeks)
 per_week <- abs(sum(snacks$Expense) / weeks)
 ```
 
-**Per session (weekly) expense for snacks**: $6.21
+**Per session (weekly) expense for snacks**: $7.50
 
 Projected income and expenses
 -----------------------------
@@ -73,12 +73,12 @@ estimated_per_workshop_income <- workshop_income %>%
 estimated_workshops_per_year <- 3
 
 budget_estimate <- data_frame(
-    ## Not all weeks will there be a meet up (e.g. Christmas, random weeks).
-    Snacks = -per_week * (fiscal_year_end - 3 - 2),
+    Snacks = -per_week * (fiscal_year_end),
+    Misc = -200, # such as stickers, equipment, etc
     Workshops = estimated_per_workshop_income[[1]] * estimated_workshops_per_year
-    ) %>% 
+    ) %>%
     mutate(Total = rowSums(.)) %>%
-    mutate_each(funs(cad)) %>% 
+    mutate_all(funs(cad)) %>%
     gather(Item, Amount)
 
 library(pander)
@@ -88,6 +88,7 @@ pander(budget_estimate, emphasize.strong.rows = nrow(budget_estimate),
 
 | Item      |         Amount|
 |:----------|--------------:|
-| Snacks    |        ($4.58)|
+| Snacks    |       ($10.90)|
+| Misc      |         ($200)|
 | Workshops |      $2,183.64|
-| **Total** |  **$2,179.06**|
+| **Total** |  **$1,972.74**|
