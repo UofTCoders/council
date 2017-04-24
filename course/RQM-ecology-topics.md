@@ -37,6 +37,7 @@ Topics:
 	- finding fixed points analytically
 	- finding null clines analytically
 	- stability analysis - this one is tricky and we might not get to it - probably better to do just graphically and computationally
+	- Examples: spruce-bugworm model and different types of functional response
 
 ### Lesson 4. Modeling in R
 
@@ -47,6 +48,7 @@ Topics:
 	- calculating trajectories using forward finite difference 
 	- plotting phase portraits in R
 	- plotting null clines and fixed points - possibly solving in R as well?
+	- Examples: use models previously analyzed on the board
 
 ### Lesson 5. Fitting models to data
 
