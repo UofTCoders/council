@@ -47,7 +47,7 @@
     - This will give students a fair estimate on where they stand before the course drop rate.
 - If possible we would like to record the classes, at least the slides and speaker voice through Google Hangouts as during our UofTCoders event.
 
-### Week 1
+### Week 1 (Joel)
 1. Introduction to the course, intro to the ecology part, motivation behind more reproducible workflows, talk briefly about spreadsheet and get straight into how to use R.
     - Since Martin mentioned we should expect no programming experience from these students, I want to introduce programming at the first lecture already, at least conceptually.
     - We can do this borrowing concepts from a [jupyter notebook I wrote previously](https://github.com/joelostblom/resources/blob/master/from-spreadsheets-to-pandas/from-spreadsheets-to-pandas.ipynb) with analogies between spreadsheet software and programming languages. It's in Python, but if you think this is a good idea, we can adopt it for R. If not, we can do something else.
@@ -57,59 +57,67 @@
         - Reference for data analyses in R, [R for data science](r4ds.had.co.nz).
 3. Before 2nd class: Everyone should have Rstudio up and running, and have watched [Christie's talk](https://www.youtube.com/watch?v=TthxI9mlvGE?). Quizzes on portal to complete until next week.
 
-### Week 2
+### Week 2 (Joel)
 1. Basic R-programming, repetition and continued, scripting.
 2. dplyr intro, finalize R-prep by teaching outstanding items required to use R for the following ecology classes.
 3. Quizzes on portal.
 
-### Week 3
-1. Ecology background knowledge for lab 1
-2. Ecology lab 1 (or similar)
-3. Lab report (send in their code)? Or more portal quizzes?
+### Week 3 (Madeleine)
+1. Qualitative review of population models
+    - Main idea: - modeling a population with a differential equation - gaining insight about a system in several ways without necessarily solving the equation
+    - Topics: - phase portraits in 1 dimension - careful, it's not technically a phase portrait if one of the axes isn't a variable - draw the actual 1D phase portrait as well - finding fixed points qualitatively - stability as the direction of a derivative - "stable", "unstable" - Examples: logistic equation and Allee effect
+2. Qualitative population models in 2 dimensions
+    - Main idea: - modeling interactions between multiple populations with a system of coupled differential equations
+    - Topics: - introduce 2 dimensional phase portraits with both variables as axes - introduce null clines qualitatively - Examples: Lotka-Volterra predator-prey model and competition model
+3. ???
 
-### Week 4
-1. Ecology background knowledge for lab 2
-2. Ecology lab 2 (or similar)
-3. Lab report (send in their code)? Or more portal quizzes?
+### Week 4 (Madeleine)
+1. Fixed points, null clines, and stability
+    - Main idea: - can use math to find fixed points and null clines found by "luck" in previous lesson - can use math to find out if a fixed point is stable or unstable
+    - Topics: - finding fixed points analytically - finding null clines analytically - stability analysis - this one is tricky and we might not get to it - probably better to do just graphically and computationally - Examples: spruce-bugworm model and different types of functional response
+2. Modeling in R
+    - Main idea: - using R to plot, analyze, and solve population models
+    - Topics: - calculating trajectories using forward finite difference - plotting phase portraits in R - plotting null clines and fixed points - possibly solving in R as well? - Examples: use models previously analyzed on the board
+3. ???
 
-### Week 5
+### Week 5 (Madeline & Luke)
+1. Fitting models to data
+2. Linear regression population dynamics models?
+3. ???
+
+### Week 6 (Luke)
 1. Introduce data sets, divide intro groups, think about interesting questions to ask, formulate hypothesis/plan of action.
     - Potentially do this already the week before and have them take a survey with the data they want to work on and their background experience.
 2. Project work, getting started with their own data in R, tidy data principles, how to clean data, setting up a collaborative git environment through Rprojects and [prodigenr](https://github.com/lwjohnst86/prodigenr) in Rstudio.
 3. Quizzes on portal. Create a github account after the first class this week. Maybe write a data README?
 
-### Week 6
+### Week 7 (Lindsay)
 1. Data visualization in general and in R, ggplot and interactive in plotly (one extra line of code).
 2. Data visualization continued, project specific.
 3. Quizzes on portal.
 
-### Week 7
+### Week 8 (Lina or Elliot)
 1. Tools important for reproducible workflow, metadata and Rmarkdown.
 2. Project work.
 3. Quizzes on portal.
 
-### Week 8
-1. Ecology topic.
-2. Project work.
-3. Project progress report.
-
-### Week 9
+### Week 9 (Elliott)
 1. Scientific collaboration. Dive deeper into Git and GitHub.
     - This will include a discussion item from the original RQM course, and serve as a checkup for how the collaboration in the project is going.
 2. Project work.
 3. Project progress report.
 
-### Week 10
+### Week 10 (Lina)
 1. Preparing a scientific item for academic publishing.
 2. Project work.
 3. Project progress report.
 
-### Week 11
-1. Ecology topic.
+### Week 11 (Everyone???)
+1. Project work???
 2. Project work.
 3. Project progress report.
 
-### Week 12
+### Week 12 (Everyone)
 1. All TAs available to help finishing project this week.
 2. All TAs available to help finishing project this week.
 3. Final scientific report.
@@ -140,7 +148,7 @@ I have put a checkmark on the lessons that seems relevant for the couple of labs
 - [x] Population growth
 - [x] Limitation and regulation of populations
 - [ ] Logistic growth
-- [ ] Allele effects 
+- [ ] Allee effects 
 - [x] Alternate stable states
 - [ ] Environmental stochasticity
 - [ ] Demographic stochasticity
