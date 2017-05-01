@@ -2,7 +2,7 @@
 # Reimbursement form
 
 - Purpose of expense: Drinks and snacks for social night
-- Name: Elliott Sale de Andrade (@QuLogic; via Luke Johnston @lwjohnst86)
+- Name: Elliott Sales de Andrade (@QuLogic; via Luke Johnston @lwjohnst86)
 
 ## Receipt(s) list
 
