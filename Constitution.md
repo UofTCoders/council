@@ -10,7 +10,7 @@
 The purpose, objectives, mission and/or mandate of organization is outlined here:
 
 * To share and learn about coding techniques and best practices for computing and analysis
-*  To improve the collective competence and skills of researchers-in-training at the University of Toronto
+* To improve the collective competence and skills of researchers-in-training at the University of Toronto
 * To build a community of like-minded individuals interested in teaching and learning about coding/programming in the context of scientific research
 * To increase the awareness and need to learn proper programming and coding principals in order to improve the research that uses these techniques
 
@@ -26,17 +26,17 @@ The executive committee shall be comprised of six (6) elected officers. These in
 
 #### The President shall:
 
-*	Oversee the operations, management and success of the group
-*	Be the spokesperson for the group
-*	Hold signing officer authority along with the Treasurer for financial purposes
-*	Preside over executive meetings as well as general meetings
-*	Ensure transition of office to the future Executives
+* Oversee the operations, management and success of the group
+* Be the spokesperson for the group
+* Hold signing officer authority along with the Treasurer for financial purposes
+* Preside over executive meetings as well as general meetings
+* Ensure transition of office to the future Executives
 * Marketing
   * Send out recruitment emails to various avenues to increase awareness
 
 #### The Treasurer shall:
 
-*  Act as UofT Coders financial officer, and together with the
+* Act as UofT Coders financial officer, and together with the
 President, ensure the groups financial stability;
 * Oversee the group bank account;
 * Keep receipts for all financial transactions, and record on the 
@@ -62,7 +62,7 @@ group, as up-to-date as possible.
 * Oversee the activity of the [studyGroup repository](https://github.com/UofTCoders/studyGroup) in terms of pull requests
 for new features or weekly lesson material. 
 
-#### Admin
+#### The Admin shall:
 
 * Responsible for internal communications of the council and its members
 * Inform members of UofT Coders events via email, create event postings for the website and contact instructors to create the event issue; 
@@ -70,14 +70,14 @@ for new features or weekly lesson material.
 * Inform and remind council members of items discussed in the meetings via email;
 * Maintain the master email list for uoftcoders@gmail.com.
 
-#### Special Events Coordinator
+#### The Special Events Coordinator shall:
 
 * Responsible for coordinating and organizing:
     - Software Carpentry workshops throughout the year (at least one per term)
     - Workshops with various organizations (e.g. CUPE)
     - Any other coding type events that come up (e.g. hackathons, code sprints)
 
-#### RQM Course Coordinator
+#### The RQM Course Coordinator shall:
 
 * Responsible for coordinating and organizing the Reproducible Quantitative Methods (RQM) course (based on [the course by Christie Bahlai](https://cbahlai.github.io/rqm-template/)) at the University of Toronto with the help of the other UofT Coders executive council members;
 * Act as the main liaison between UofT Coders and RQM host department, and/or any other groups at the University of Toronto related to the RQM course implementation.
