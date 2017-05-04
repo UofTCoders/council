@@ -122,7 +122,7 @@ The group's executive or members may not engage in activities that are essential
 
 However, the group will not have as a major activity a function that makes it an on-campus part of a commercial organization, will not provide services and goods at a profit when that profit is used for purposes other than those of the organization, and will not pay salaries to some or all of its officers.
 
-A majority of the executive council will take part in a twice-yearly internal review and audit of the finances and accounting. The goal of such review will be to maintain tidy and organized documentation surrounding the finances, to ensure integrity and accuracy of the financial condition of the organization, and to keep the executive members aware of the financial health of the organization.
+A majority of the executive council will take part in a twice-yearly internal review and audit of the finances and accounting. The goal of such review will be to maintain tidy and organized documentation surrounding the finances, to ensure integrity and accuracy of the financial condition of the organization, and to keep the executive members aware of the financial health of the organization. Audit's shall take place every March and October of every year.
 
 ###	Meetings
 
