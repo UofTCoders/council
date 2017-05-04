@@ -1,6 +1,7 @@
 # **Constitution of “University of Toronto Coders”**
 
 ### Name
+
 * The official name of this recognized campus group is “University of Toronto Coders”
 * The short name of this group is:  UofT Coders.
 
@@ -24,6 +25,7 @@ U of T members are permitted to run, nominate, and vote in elections and constit
 The executive committee shall be comprised of six (6) elected officers. These include a President, Technical Admin, Admin, Treasurer, Special Events Coordinator, and RQM Course Coordinator.
 
 #### The President shall:
+
 *	Oversee the operations, management and success of the group
 *	Be the spokesperson for the group
 *	Hold signing officer authority along with the Treasurer for financial purposes
@@ -49,8 +51,10 @@ Toronto;
 * Prepare an annual budget at the start of fiscal year;
 * Present current statements of accounts versus budget,
 and cash flow positions at Executive Council meetings;
-* Prepare of an annual financial report at the end of the
+* Prepare an annual financial report at the end of the
 fiscal year.
+* Maintain the treasurer README with a summary of the financial status of the
+group, as up-to-date as possible.
 
 #### The Technical Admin shall:
 
@@ -88,7 +92,6 @@ The member will be removed from the club’s membership and will lose any privil
 
 Executive members are subject to the same termination or impeachment process and, as determined by the vote, may lose their executive position along with their membership to the group.
 
-
 ###	Elections
 
 The executive committee shall strike the Elections Committee and appoint one (1) Chief Returning Officer (CRO) from general members on the committee to conduct and hold elections in April. 
@@ -113,10 +116,13 @@ Term of executive positions shall be from May 1st to April 30th of the following
 
 ###	Finances
 
-The Treasurer shall keep records of all income and expenses. The Treasurer shall present the group’s financial health at the annual general meetings. 
+The Treasurer shall keep records of all income and expenses. The Treasurer shall present the group's financial health when requested and at a minimum once a year. 
 
-The group’s executive or members may not engage in activities that are essentially commercial in nature. This is not intended to preclude the collection of membership fees to cover the expenses of the group, or of charges for specific activities, programs or events, or to prohibit groups from engaging in legitimate fundraising. 
+The group's executive or members may not engage in activities that are essentially commercial in nature. This is not intended to preclude the collection of membership fees to cover the expenses of the group, or of charges for specific activities, programs or events, or to prohibit groups from engaging in legitimate fundraising. 
+
 However, the group will not have as a major activity a function that makes it an on-campus part of a commercial organization, will not provide services and goods at a profit when that profit is used for purposes other than those of the organization, and will not pay salaries to some or all of its officers.
+
+A majority of the executive council will take part in a twice-yearly internal review and audit of the finances and accounting. The goal of such review will be to maintain tidy and organized documentation surrounding the finances, to ensure integrity and accuracy of the financial condition of the organization, and to keep the executive members aware of the financial health of the organization.
 
 ###	Meetings
 
