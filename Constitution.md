@@ -1,6 +1,7 @@
 # **Constitution of “University of Toronto Coders”**
 
 ### Name
+
 * The official name of this recognized campus group is “University of Toronto Coders”
 * The short name of this group is:  UofT Coders.
 
@@ -9,7 +10,7 @@
 The purpose, objectives, mission and/or mandate of organization is outlined here:
 
 * To share and learn about coding techniques and best practices for computing and analysis
-*  To improve the collective competence and skills of researchers-in-training at the University of Toronto
+* To improve the collective competence and skills of researchers-in-training at the University of Toronto
 * To build a community of like-minded individuals interested in teaching and learning about coding/programming in the context of scientific research
 * To increase the awareness and need to learn proper programming and coding principals in order to improve the research that uses these techniques
 
@@ -24,17 +25,18 @@ U of T members are permitted to run, nominate, and vote in elections and constit
 The executive committee shall be comprised of six (6) elected officers. These include a President, Technical Admin, Admin, Treasurer, Special Events Coordinator, and RQM Course Coordinator.
 
 #### The President shall:
-*	Oversee the operations, management and success of the group
-*	Be the spokesperson for the group
-*	Hold signing officer authority along with the Treasurer for financial purposes
-*	Preside over executive meetings as well as general meetings
-*	Ensure transition of office to the future Executives
+
+* Oversee the operations, management and success of the group
+* Be the spokesperson for the group
+* Hold signing officer authority along with the Treasurer for financial purposes
+* Preside over executive meetings as well as general meetings
+* Ensure transition of office to the future Executives
 * Marketing
   * Send out recruitment emails to various avenues to increase awareness
 
 #### The Treasurer shall:
 
-*  Act as UofT Coders financial officer, and together with the
+* Act as UofT Coders financial officer, and together with the
 President, ensure the groups financial stability;
 * Oversee the group bank account;
 * Keep receipts for all financial transactions, and record on the 
@@ -49,8 +51,10 @@ Toronto;
 * Prepare an annual budget at the start of fiscal year;
 * Present current statements of accounts versus budget,
 and cash flow positions at Executive Council meetings;
-* Prepare of an annual financial report at the end of the
+* Prepare an annual financial report at the end of the
 fiscal year.
+* Maintain the treasurer README with a summary of the financial status of the
+group, as up-to-date as possible.
 
 #### The Technical Admin shall:
 
@@ -58,24 +62,24 @@ fiscal year.
 * Oversee the activity of the [studyGroup repository](https://github.com/UofTCoders/studyGroup) in terms of pull requests
 for new features or weekly lesson material. 
 
-#### Admin
+#### The Admin shall:
 
-* Responsible for internal communications of the council and its members
+* Be responsible for internal communications of the council and its members
 * Inform members of UofT Coders events via email, create event postings for the website and contact instructors to create the event issue; 
 * Record the minutes of the Executive Council meetings;
 * Inform and remind council members of items discussed in the meetings via email;
 * Maintain the master email list for uoftcoders@gmail.com.
 
-#### Special Events Coordinator
+#### The Special Events Coordinator shall:
 
-* Responsible for coordinating and organizing:
+* Be responsible for coordinating and organizing:
     - Software Carpentry workshops throughout the year (at least one per term)
     - Workshops with various organizations (e.g. CUPE)
     - Any other coding type events that come up (e.g. hackathons, code sprints)
 
-#### RQM Course Coordinator
+#### The RQM Course Coordinator shall:
 
-* Responsible for coordinating and organizing the Reproducible Quantitative Methods (RQM) course (based on [the course by Christie Bahlai](https://cbahlai.github.io/rqm-template/)) at the University of Toronto with the help of the other UofT Coders executive council members;
+* Be responsible for coordinating and organizing the Reproducible Quantitative Methods (RQM) course (based on [the course by Christie Bahlai](https://cbahlai.github.io/rqm-template/)) at the University of Toronto with the help of the other UofT Coders executive council members;
 * Act as the main liaison between UofT Coders and RQM host department, and/or any other groups at the University of Toronto related to the RQM course implementation.
 
 ### Termination of Executives or General Members:
@@ -87,7 +91,6 @@ A vote will be held at an executive meeting, and a two-thirds majority vote of t
 The member will be removed from the club’s membership and will lose any privileges associated with being a member of the club.
 
 Executive members are subject to the same termination or impeachment process and, as determined by the vote, may lose their executive position along with their membership to the group.
-
 
 ###	Elections
 
@@ -113,10 +116,13 @@ Term of executive positions shall be from May 1st to April 30th of the following
 
 ###	Finances
 
-The Treasurer shall keep records of all income and expenses. The Treasurer shall present the group’s financial health at the annual general meetings. 
+The Treasurer shall keep records of all income and expenses. The Treasurer shall present the group's financial health when requested and at a minimum once a year. 
 
-The group’s executive or members may not engage in activities that are essentially commercial in nature. This is not intended to preclude the collection of membership fees to cover the expenses of the group, or of charges for specific activities, programs or events, or to prohibit groups from engaging in legitimate fundraising. 
+The group's executive or members may not engage in activities that are essentially commercial in nature. This is not intended to preclude the collection of membership fees to cover the expenses of the group, or of charges for specific activities, programs or events, or to prohibit groups from engaging in legitimate fundraising. 
+
 However, the group will not have as a major activity a function that makes it an on-campus part of a commercial organization, will not provide services and goods at a profit when that profit is used for purposes other than those of the organization, and will not pay salaries to some or all of its officers.
+
+A majority of the executive council will take part in a twice-yearly internal review and audit of the finances and accounting. The goal of such review will be to maintain tidy and organized documentation surrounding the finances, to ensure integrity and accuracy of the financial condition of the organization, and to keep the executive members aware of the financial health of the organization. Audits shall take place every March and October of every year.
 
 ###	Meetings
 
