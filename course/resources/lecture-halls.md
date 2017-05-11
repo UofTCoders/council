@@ -4,11 +4,6 @@
 - Did they fix NetSupport mass login support?
 - Is NetSupport now available in Ramsay Wright 109?
 - Did they install the packages or do we have to install every time?
-- Luke name of R notebook pacakges
-- Temperature
-- New Rstudio
-- Did they fix NetSupport mass login support?
-- Did they install the packages or do we have to install every time?
 - We should visit and test things out maybe a week or so before the semester starts. Especially if we want to do in class surveys.
  
 # Shared info for both lecture halls
@@ -21,7 +16,7 @@
 - Usually, they only install programs, and leaves packages up to the instructors, but they will try to make an exception for us and install the packages we need for the semester.
 - NetSupport is a program for interacting with all the students computers from the lecturers computer.
     - Can send our screen to the student computers, view their work, black/white list webpages and software, log in all computers via a dummy account and install R-packages.
-    - Bultin survey system that pops up questions on the students' computers. However, she recommended [PollEverywhere](https://www.polleverywhere.com/) instead.
+    - Builtin survey system that pops up questions on the students' computers. However, she recommended [PollEverywhere](https://www.polleverywhere.com/) instead.
     - Currently only installed in Carr Hall, but should be added to Ramsay Wright before the fall semester.
 
 # Ramsay Wright 109
