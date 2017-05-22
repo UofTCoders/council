@@ -6,6 +6,8 @@
 - http://vita.had.co.nz/papers/tidy-data.html Tidy data
 - https://github.com/datacarpentry/ecology-workshop Data carpentry R ecology workshop
 - http://www.datacarpentry.org/R-ecology-lesson/ Data carpentry R ecology lesson
+- http://www.data-retriever.org/ Data retriever (package manager for data)
+    - https://retriever.readthedocs.io/en/latest/datasets.html Ecology (and other) data sets
 
 # From [issue #66](https://github.com/UofTCoders/council/issues/66)
 - A [long guide about course expectations](http://www.artsci.utoronto.ca/faculty-staff/teacher-info/AcademicHandbookUpdatedDec2016.pdf) (once it's accepted, at least.)
