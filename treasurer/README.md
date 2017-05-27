@@ -41,8 +41,8 @@ data_frame(
 | Type      | Amount    |
 |:----------|:----------|
 | Income    | $4,362.85 |
-| Expense   | $2,903.72 |
-| **Total** | $1,459.13 |
+| Expense   | $2,977.22 |
+| **Total** | $1,385.63 |
 
 ``` r
 snacks <- filter(finances, grepl('Snacks', Reason)) 
@@ -51,7 +51,7 @@ weeks <- as.numeric(weeks)
 per_week <- abs(sum(snacks$Expense) / weeks)
 ```
 
-**Per session (weekly) expense for snacks**: $7.50
+**Per session (weekly) expense for snacks**: $6.95
 
 Projected income and expenses
 -----------------------------
@@ -62,7 +62,7 @@ Fiscal year: *May 1st-April 30th.*
 
 ``` r
 # This needs date needs to be changed each year.
-fiscal_year_end <- difftime('2017-05-01', Sys.Date(), units = 'weeks')
+fiscal_year_end <- difftime('2018-05-01', Sys.Date(), units = 'weeks')
 fiscal_year_end <- as.numeric(fiscal_year_end)
 
 workshop_income <- finances %>% 
@@ -79,7 +79,8 @@ budget_estimate <- data_frame(
     ) %>%
     mutate(Total = rowSums(.)) %>%
     mutate_all(funs(cad)) %>%
-    gather(Item, Amount)
+    gather(Item, Amount) %>% 
+    as.data.frame() # fix error with pander
 
 library(pander)
 pander(budget_estimate, emphasize.strong.rows = nrow(budget_estimate), 
@@ -88,7 +89,7 @@ pander(budget_estimate, emphasize.strong.rows = nrow(budget_estimate),
 
 | Item      |         Amount|
 |:----------|--------------:|
-| Snacks    |       ($10.90)|
+| Snacks    |      ($337.92)|
 | Misc      |         ($200)|
 | Workshops |      $2,183.64|
-| **Total** |  **$1,972.74**|
+| **Total** |  **$1,645.72**|
