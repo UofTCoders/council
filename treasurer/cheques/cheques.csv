@@ -24,4 +24,6 @@ Number,Date,Recipient,Amount,Purpose,SignOff,Note,PR
 '023’,2017-03-22,Lina Tran,15.5,Drinks for Hack day in Dec 2016,Luke and Madeleine,,111
 '024’,2017-03-22,Madeleine Bonsma,9,Snacks for Hack day in Dec 2016,Luke and Lina,,112
 '025’,2017-03-22,Luke Johnston,31.97,Snacks for Coder sessions,Lina and Madeleine,,113
-'026’,2017-04-19,Luke Johnston,71.93,"Snacks, tea, and kettle",Lina and Madeleine,,
+'026’,2017-04-19,Luke Johnston,71.93,"Snacks, tea, and kettle",Lina and Madeleine,Approval from Lina,140
+'027’,2017-05-03,Elliott Sales de Andrade,27,Drinks for Winter term and election social night,Luke and Lina,Approval from Maddy and Elliott (confirmation),146
+'028’,2017-05-03,Joel Ostblom,44,Drinks for Winter term and election social night,Luke and Lina,Approval from Maddy and Joel (confirmation),145
