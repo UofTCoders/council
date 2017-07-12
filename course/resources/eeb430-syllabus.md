@@ -4,13 +4,14 @@ This course focuses on theoretical ecology concepts and reproducible quantitativ
 Prerequisites: MAT 136, BIO220H1, EEB225H1, and two of EEB319H1, EEB321H1,
 EEB322H1, EEB323H1
 
-# Time and location
-Tue and Thu 2-4 pm.
+# Time
+Tue and Thu 2-4 pm.  
 
-Tue, Ramsay Wright (RW 109)
+# Lecture halls
+Tue, Ramsay Wright (RW 109).  
 South west corner of Harbord and St George, 1st floor, enter from St George street.
 
-Thu, Carr Hall (SMC 325)
+Thu, Carr Hall (SMC 325).  
 Corner of Queen's Park East and St. Joseph Street, 3rd floor, St. Michael's College.
 
 ## Computer labs
