@@ -14,8 +14,7 @@ South west corner of Harbord and St George, 1st floor, enter from St George stre
 Thu, Carr Hall (SMC 325).  
 Corner of Queen's Park East and St. Joseph Street, 3rd floor, St. Michael's College.
 
-## Computer labs
-Students will learn theoretical ecology concepts and how to program in R. Both lecture halls have access to individual computers for the students. To use the computer workstations, students can login with their UTORid and password. Installed programs and packages are wiped from the computers daily. Saved files will be accessible from any computer via the student's login. Students can use any of the lecture halls when there are no classes scheduled. See the [online schedules](http://lab.chass.utoronto.ca/carr.php) for available times.
+Both lecture halls have access to individual computers for the students. To use the computer workstations, students can login with their UTORid and password. Installed programs and packages are wiped from the computers daily. Saved files will be accessible from any computer via the student's login. Students can use any of the lecture halls when there are no classes scheduled. See the [online schedules](http://lab.chass.utoronto.ca/carr.php) for available times.
 
 # Contacts
 
