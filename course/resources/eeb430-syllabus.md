@@ -87,32 +87,17 @@ You should be aware of the University of Toronto Code of Behaviour on Academic M
 | 24   | Dec 05 | Project work                                        | Everyone       |
 
 # Assessment schedule 
-| Assesment             | Type              | Due date         | Marks |
-|-----------------------|-------------------|------------------|-------|
-| BasicR                | Individual        | Tue weeks after? | 10    |
-| dplyr                 | Individual        |                  | 10    |
-| Population models     | Individual        |                  | 10    |
-| Modeling in R         | Individual        |                  | 10    |
-| Linear regression?    | Individual        |                  | 10    |
-| Setup github          | Group/Individual? |                  | 10    |
-| Data visualization    | Group/Individual? |                  | 10    |
-| Reproducible workflow | Group/Individual? |                  | 10    |
-| Final project work    | Group             |                  | 20    |
+| Assesment             | Type                | Due date   | Marks |
+|-----------------------|---------------------|------------|-------|
+| Getting set up        | Individual          | Sep 11     | 4     |
+| Basic R               | Individual          | Sep 18     | 8     |
+| dplyr                 | Individual          | Sep 25     | 8     |
+| Population models     | Individual          | Oct 02     | 8     |
+| Modeling in R         | Individual          | Oct 09     | 8     |
+| Linear regression?    | Individual          | Oct 16     | 8     |
+| Setup github          | Project, Individual | Oct 23     | 8     |
+| Data visualization    | Project, Individual | Oct 30     | 8     |
+| Reproducible workflow | Project, Individual | Nov 06     | 8     |
+| Final project work    | Project, Group      | Dec 9 – 20 | 32    |
 
-_There will be a penalty of -5% per day (including week-ends) for any late assignments._
-
-> Joel: Compare the above with the table below from Martin's example syllabus. In the above version 20-50% could be project work. Comments?
-
-| Assessment         | Due Date | Marks |
-|--------------------|----------|-------|
-| Fish lab           |          | 5     |
-| Seed beetle lab    |          | 5     |
-| Grizzly lab        |          | 5     |
-| Whale lab          |          | 5     |
-| Chaos lab          |          | 5     |
-| Harvesting lab     |          | 5     |
-| Metapopulation lab |          | 5     |
-| Disease lab        |          | 5     |
-| Midterm Exam       |          | 30    |
-| Final Exam         |          | 30    |
-
+_There will be a penalty of -5% per day (including week-ends) for late submissions._
