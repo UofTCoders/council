@@ -16,22 +16,20 @@ Corner of Queen's Park East and St. Joseph Street, 3rd floor, St. Michael's Coll
 
 Both lecture halls have access to individual computers for the students. To use the computer workstations, students can login with their UTORid and password. Installed programs and packages are wiped from the computers daily. Saved files will be accessible from any computer via the student's login. Students can use any of the lecture halls when there are no classes scheduled. See the [online schedules](http://lab.chass.utoronto.ca/carr.php) for available times.
 
-# Contacts
+# Contact info
 
-## Instructor:
+## Teaching assistants
+Joel Ostblom (course coordinator), joel.ostblom@mail.utoronto.ca  
+Madeleine Bonsma, m.bonsma@mail.utoronto.ca  
+Luke Johnston, luke.johnston@mail.utoronto.ca  
+Lina Tran, lina.tran@mail.utoronto.ca  
+Elliott Sales de Andrade, esalesde@physics.utoronto.ca  
+Lindsay Coome, lindsay.coome@mail.utoronto.ca  
+
+_Please address all general course-related email communication to joel.ostblom@mail.utoronto.ca, and project specific communication to the respective TA of your group. Prefix the subject matter with "EEB430". If you do not receive a reply within 48 hours (excluding week-ends), please send a reminder. Office hours: Contact us by e-mail to schedule a time._
+
+## Supervising professor
 Prof. Martin Krkosek, martin.krkosek@utoronto.ca, 416-978-3839, RW402
-
-_Please address all general course-related email communication to joel.ostblom@mail.utoronto.ca, and project specific communication to the respective TA of your group. Prefix the subject matter with "EEB430". If you do not receive a reply within 48 hours (excluding week-ends), please send a reminder._
-
-## Teachings assistants: 
-Joel Ostblom (course coordinator), joel.ostblom@mail.utoronto.ca
-Madeleine Bonsma, m.bonsma@mail.utoronto.ca
-Luke Johnston, luke.johnston@mail.utoronto.ca
-Lina Tran, lina.tran@mail.utoronto.ca 
-Elliott Sales de Andrade, esalesde@physics.utoronto.ca
-Lindsay Coome, lindsay.coome@mail.utoronto.ca
-
-_Office hours: Contact us by e-mail to schedule a time._
 
 # Course Web page (on Blackboard)
 All course information will be stored on Blackboard (http://portal.utoronto.ca/). You will have access to the Syllabus, Lecture Schedule & Recommended Readings for each lecture, Lab Schedule, Lab Instructions, Lecture slides (pdf files) and Lab Data sheets. If you have any problem accessing the material, let us know right away so we can fix the problem (e-mail is best).
