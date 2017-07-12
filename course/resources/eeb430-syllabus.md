@@ -1,5 +1,5 @@
 # EEB430H1 Theoretical Ecology [24L, 12P]
-Theoretical ecology uses models to explain biological phenomena such as the maintenance of biodiversity, population growth, competition, eco-evolutionary dynamics, epidemiology, spatial ecology, and species extinction. This course is designed to meet a growing demand for reproducible, openly accessible, analytically thorough, and well documented science. Students will learn to develop ecological population models, analyze data and document their research using the R programming language. No prerequisite programming experience is required.
+This course focuses on theoretical ecology concepts and reproducible quantitative methods using R. Theoretical ecology uses models to explain biological phenomena such as the maintenance of biodiversity, population growth, competition, eco-evolutionary dynamics, epidemiology, spatial ecology, and species extinction. This course is designed to meet a growing demand for reproducible, openly accessible, analytically thorough, and well documented science. Students will learn to develop ecological population models, analyze data, and document their research using the R programming language. No prerequisite programming experience is required.
 
 Prerequisites: MAT 136, BIO220H1, EEB225H1, and two of EEB319H1, EEB321H1,
 EEB322H1, EEB323H1
