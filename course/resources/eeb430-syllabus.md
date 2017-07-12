@@ -59,31 +59,32 @@ You should be aware of the University of Toronto Code of Behaviour on Academic M
 # Lecture schedule
 | Week | Date   | Topic                                               | Instructor     |
 |------|--------|-----------------------------------------------------|----------------|
-| 1    | Sep 12 | Welcome to the course!                              | Joel           |
-| 2    | Sep 14 | Basic R – vectors, data frames                      | Joel           |
-| 3    | Sep 19 | Basic R – scripting                                 | Joel           |
-| 4    | Sep 21 | Intro to dplyr                                      | Joel           |
-| 5    | Sep 26 | Qualitaite review of population models              | Madeleine      |
-| 6    | Sep 28 | Qualitative population models in 2 dimensions       | Madeleine      |
-| 7    | ...    | Fixed points, null clines, and stability            | Madeleine      |
-| 8    |        | Modeling in R                                       | Madeleine      |
-| 9    |        | Fitting models to data                              | Madeleine      |
-| 10   |        | Linear regression population dynamics models?       | Luke           |
-| 11   |        | Introduce data sets, getting started with projects  | Luke           |
-| 12   |        | Project work, prodigenR, tidy data, git via rstudio | Luke           |
-| 13   |        | Data visualization in R                             | Lindsay        |
-| 14   |        | Project work, data visualizations                   | Lindsay        |
-| 15   |        | Reproducible workflow, metadata, Rmarkdown          | Lina or Elliot |
-| 16   |        | Project work                                        | 1 TA/group     |
-| 17   |        | Scientific collaboration, Git and GitHub            | Elliot         |
-| 18   |        | Project work                                        | 1 TA/group     |
-| 19   |        | Preparing a scientific item for academic publishing | Lina           |
-| 20   |        | Project work                                        | 1 TA/group     |
-| 21   |        | Project work                                        | 1 TA/group     |
-| 22   |        | Project work                                        | 1 TA/group     |
-| 23   |        | Project work                                        | Everyone       |
-| 24   |        | Project work                                        | Everyone       |
-| 25   |        | ??? We only included 24 sessions                    |                |
+| 1    | Sep 07 | Welcome to the course! Intro to programming         | Everyone       |
+| 2    | Sep 12 | Basic R – vectors, data frames                      | Joel           |
+| 3    | Sep 14 | Basic R – scripting, conditionals, loops            | Joel           |
+| 4    | Sep 19 | Intro to dplyr                                      | Joel           |
+| 5    | Sep 21 | More dplyr                                          | Joel           |
+| 6    | Sep 26 | Qualitative review of population models             | Madeleine      |
+| 7    | Sep 28 | Qualitative population models in 2 dimensions       | Madeleine      |
+| 8    | Oct 03 | Fixed points, null clines, and stability            | Madeleine      |
+| 9    | Oct 05 | Modeling in R                                       | Madeleine      |
+| 10   | Oct 10 | Fitting models to data                              | Madeleine      |
+| 11   | Oct 12 | Linear regression population dynamics models?       | Luke           |
+| 12   | Oct 17 | Introduce data sets, hypotheses, start projects     | Luke           |
+| 13   | Oct 19 | Project work, prodigenR, tidy data, git via rstudio | Luke           |
+| 14   | Oct 24 | Data visualization in R                             | Lindsay        |
+| 15   | Oct 26 | Project work, data visualizations                   | Lindsay        |
+| 16   | Oct 31 | Reproducible workflow, metadata, Rmarkdown          | Lina           |
+| 17   | Nov 02 | Project work, metadata                              | 1 TA/group     |
+| -    | Nov 07 | Fall break                                          | -              |
+| -    | Nov 09 | Fall break                                          | -              |
+| 18   | Nov 14 | Scientific collaboration, Git and GitHub            | Elliot         |
+| 19   | Nov 16 | Project work                                        | 1 TA/group     |
+| 20   | Nov 21 | Preparing a scientific item for academic publishing | Lina           |
+| 21   | Nov 23 | Project work                                        | 1 TA/group     |
+| 22   | Nov 28 | Project work                                        | 1 TA/group     |
+| 23   | Nov 30 | Project work                                        | Everyone       |
+| 24   | Dec 05 | Project work                                        | Everyone       |
 
 # Assessment schedule 
 | Assesment             | Type              | Due date         | Marks |
