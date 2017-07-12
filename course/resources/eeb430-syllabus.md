@@ -34,16 +34,11 @@ Prof. Martin Krkosek, martin.krkosek@utoronto.ca, 416-978-3839, RW402
 # Course Web page (on Blackboard)
 All course information will be stored on Blackboard (http://portal.utoronto.ca/). You will have access to the Syllabus, Lecture Schedule & Recommended Readings for each lecture, Lab Schedule, Lab Instructions, Lecture slides (pdf files) and Lab Data sheets. If you have any problem accessing the material, let us know right away so we can fix the problem (e-mail is best).
 
-# Recommended Textbooks
-Different authors take different approaches to the material. Take the time to read different textbooks and to find out which one best suits your learning style.
-
-## Introductory
-Begon M., C.R. Townsend and J.L. Harper.  2006.  Ecology: from individuals to ecosystems.  4th ed. Blackwell Publishing, Malden, MA, USA. QH541.B43 2006 
-Krebs, C.J.  2009.  Ecology: the experimental analysis of distribution and abundance. 6th ed.  Benjamin Cummings, San Francisco.  QH541.28 K74 2001  
-Ricklefs, R.E. and G.L. Miller.  2000.  Ecology.  4th ed.  New York: W.H. Freeman & Co. QH541.R53 2000X. 
-
-## Advanced
-Vandermeer, J.H. and Goldberg, D.E. Population Ecology. Princeton University Press., Princeton, NJ, USA. QH352 .V36 2003X
+# Recommended resources
+- [R for Data science](http://r4ds.had.co.nz/), H Wickham, G Grolemund, 2017
+    - Excellent open access resource for R.
+- [Rstudio cheat sheets](https://www.rstudio.com/resources/cheatsheets/), Rstudio, 2017
+    - As good as it sounds, great quick reference.
 
 # Assignments / Course learning outcomes
 The main goals are to:
