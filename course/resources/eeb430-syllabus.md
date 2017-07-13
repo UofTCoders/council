@@ -42,15 +42,12 @@ All course information will be stored on Blackboard (http://portal.utoronto.ca/)
 - [R for ecological data science](http://www.datacarpentry.org/R-ecology-lesson/index.html)
     - An inspiration for our lectures.
 
-# Assignments / Course learning outcomes
-The main goals are to:
-1) integrate and apply concepts and theoretical models learnt in class,
-2) learn how to collect data with real organisms (technical skills), 
-3) learn how to use basic statistics to analyze and interpret data,
-4) realize that data do not always fit theoretical models, but that it is important to interpret data with a larger theoretical framework in mind, 
-5) learn how to work in group. 
-
-The due dates for each lab report are listed on the lab schedule. Hand in a hard copy of your lab reports at the beginning of the lab. 
+# Course learning outcomes
+1. Integrate and apply concepts and theoretical models learnt in class.
+2. Learn how to use basic statistics to analyze and interpret data.
+3. Realize that data do not always fit theoretical models, but that it is important to interpret data with a larger theoretical framework in mind.
+4. Learn how to work in group on a scientific product.
+5. Learn what is required to generate a scientific item ready for publishing.
 
 # Improving your writing skills
 Effective communication is crucial in science. The University of Toronto provides services to help you improve your writing (see specific section on lab reports), from general advices on effective writing to writing centers and writing courses. See http://www.writing.utoronto.ca/. The Faculty of Arts & Science also offers an English Language Learning (ELL) program, which provides free individualized instruction in English skills. Take advantage of these!
