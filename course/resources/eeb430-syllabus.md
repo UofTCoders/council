@@ -99,4 +99,4 @@ You should be aware of the University of Toronto Code of Behaviour on Academic M
 | Reproducible workflow | Project, Individual | Nov 06     | 8     |
 | Final project work    | Project, Group      | Dec 9 – 20 | 32    |
 
-_There will be a penalty of -5% per day (including week-ends) for late submissions._
+_There will be a penalty of 5% per day (including week-ends) for late submissions._
