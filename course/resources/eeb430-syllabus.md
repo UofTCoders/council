@@ -59,10 +59,10 @@ You should be aware of the University of Toronto Code of Behaviour on Academic M
 | Week | Date   | Topic                                               | Instructor     |
 |------|--------|-----------------------------------------------------|----------------|
 | 1    | Sep 07 | Welcome to the course! Intro to programming         | Everyone       |
-| 2    | Sep 12 | Basic R – vectors, data frames                      | Joel           |
-| 3    | Sep 14 | Basic R – scripting, conditionals, loops            | Joel           |
-| 4    | Sep 19 | Intro to dplyr                                      | Joel           |
-| 5    | Sep 21 | More dplyr                                          | Joel           |
+| 2    | Sep 12 | Basic R – Rstudio, Rmarkdown, assignment, vectors   | Joel           |
+| 3    | Sep 14 | Basic R – functions, data frames, indexing          | Joel           |
+| 4    | Sep 19 | Intro to dplyr data wrangling                       | Joel           |
+| 5    | Sep 21 | More dplyr, ggplot intro                            | Joel           |
 | 6    | Sep 26 | Qualitative review of population models             | Madeleine      |
 | 7    | Sep 28 | Qualitative population models in 2 dimensions       | Madeleine      |
 | 8    | Oct 03 | Fixed points, null clines, and stability            | Madeleine      |
