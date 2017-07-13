@@ -39,6 +39,8 @@ All course information will be stored on Blackboard (http://portal.utoronto.ca/)
     - Excellent open access resource for R.
 - [Rstudio cheat sheets](https://www.rstudio.com/resources/cheatsheets/), Rstudio, 2017
     - As good as it sounds, great quick reference.
+- [R for ecological data science](http://www.datacarpentry.org/R-ecology-lesson/index.html)
+    - An inspiration for our lectures.
 
 # Assignments / Course learning outcomes
 The main goals are to:
