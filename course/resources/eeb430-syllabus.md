@@ -5,7 +5,7 @@ Prerequisites: MAT 136, BIO220H1, EEB225H1, and two of EEB319H1, EEB321H1,
 EEB322H1, EEB323H1
 
 # Time
-Tue and Thu 2-4 pm.  
+Tue and Thu 2-4 pm. Office hours are Tue 4-5 pm.  
 
 # Lecture halls
 Tue, Ramsay Wright (RW 109).  
@@ -26,13 +26,13 @@ Lina Tran, lina.tran@mail.utoronto.ca
 Elliott Sales de Andrade, esalesde@physics.utoronto.ca  
 Lindsay Coome, lindsay.coome@mail.utoronto.ca  
 
-_Please address all general course-related email communication to joel.ostblom@mail.utoronto.ca, and project specific communication to the respective TA of your group. Prefix the subject matter with "EEB430". If you do not receive a reply within 48 hours (excluding week-ends), please send a reminder. Office hours: Contact us by e-mail to schedule a time._
+_Please address all general course-related email communication to joel.ostblom@mail.utoronto.ca, and project specific communication to the respective TA of your group. Prefix the subject matter with "EEB430". If you do not receive a reply within 48 hours (excluding week-ends), please send a reminder._
 
 ## Supervising professor
 Prof. Martin Krkosek, martin.krkosek@utoronto.ca, 416-978-3839, RW402
 
 # Course Web page (on Blackboard)
-All course information will be stored on Blackboard (http://portal.utoronto.ca/). You will have access to the Syllabus, Lecture Schedule & Recommended Readings for each lecture, Lab Schedule, Lab Instructions, Lecture slides (pdf files) and Lab Data sheets. If you have any problem accessing the material, let us know right away so we can fix the problem (e-mail is best).
+All course information will be stored on Blackboard (https://portal.utoronto.ca/). You will have access to the Syllabus, Lecture Schedule & Recommended Readings for each lecture, Lab Schedule, Lab Instructions, Lecture slides (pdf files) and Lab Data sheets. If you have any problem accessing the material, let us know right away so we can fix the problem (e-mail is best).
 
 # Recommended resources
 - [R for Data science](http://r4ds.had.co.nz/), H Wickham, G Grolemund, 2017
