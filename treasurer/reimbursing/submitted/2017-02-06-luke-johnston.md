@@ -1,26 +1,19 @@
-
 # Reimbursement form
-
-- Purpose of expense: Snacks for sessions
-- Name: Luke Johnston (@lwjohnst86)
-
-## Receipt(s) list
-
-- Item 1:
-    - Date of purchase: 2017-01-26
-    - Description: Nuts and other snacks
-    - Purpose: Snacks for coding sessions
-    - Cost ($): 20.88
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2017-01-26-Snacks-BloorstreetMarket.pdf)
-- Item 2:
-    - Date of purchase: 2017-01-29
-    - Description: Bulk barn food
-    - Purpose: Snacks
-    - Cost ($): 4.18
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2017-01-29-Snacks-BulkBarn.pdf)
-
-**Total**: 20.88 + 4.18 = $25.06
-    
-**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/78)**
-
-## Approval (seen in PR as well)
+- expense_purpose: Snacks for sessions
+- person:
+    - name: Luke Johnston
+    - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2017-01-26
+        - description: Nuts and other snacks
+        - keyword: Snacks for coding sessions
+        - cost: 20.88
+        - receipt_file: 2017-01-26-Snacks-BloorstreetMarket.pdf
+    - item:
+        - purchase_date: 2017-01-29
+        - description: Bulk barn food
+        - keyword: Snacks
+        - cost: 4.18
+        - receipt_file: 2017-01-29-Snacks-BulkBarn.pdf
+- pr_num: 78

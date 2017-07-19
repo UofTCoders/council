@@ -1,24 +1,22 @@
-
 # Reimbursement form
-
-- Purpose of expense: Snacks for SWC workshop from Feb 3-4., 2017
-- Name: Lindsay Coome (@lcoome; via Luke Johnston @lwjohnst86)
-
-## Receipt(s) list
-
-- Item 1:
-    - Date of purchase: 2017-02-02
-    - Description: Snacks from Dollarama
-    - Purpose: Snacks for SWC Feb 3-4, 2017
-    - Cost ($): 42.55
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2017-02-02-SWC-Snacks-Dollarama.jpg)
-- Item 2:
-    - Date of purchase: 2017-02-02
-    - Description: Snacks from Rabba
-    - Purpose: Snacks for SWC Feb 3-4, 2017
-    - Cost ($): 33.89
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2017-02-02-SWC-Snacks-Rabba.jpg)
-
-**Total**: 42.55 + 33.89 = $76.44
-    
-**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/106)**
+- expense_purpose: Snacks for SWC workshop from Feb 3-4., 2017
+- person:
+    - name: Lindsay Coome
+    - github_user: @lcoome
+    - proxy:
+        - name: Luke Johnston 
+        - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2017-02-02
+        - description: Snacks from Dollarama
+        - keyword: Snacks for SWC Feb 3-4, 2017
+        - cost: 42.55
+        - receipt_file: 2017-02-02-SWC-Snacks-Dollarama.jpg
+    - item:
+        - purchase_date: 2017-02-02
+        - description: Snacks from Rabba
+        - keyword: Snacks for SWC Feb 3-4, 2017
+        - cost: 33.89
+        - receipt_file: 2017-02-02-SWC-Snacks-Rabba.jpg
+- pr_num: 106

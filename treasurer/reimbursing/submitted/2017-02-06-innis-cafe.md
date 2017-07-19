@@ -1,20 +1,15 @@
-
 # Reimbursement form
-
-- Purpose of expense: Coffee and Tea for SWC workshop on Feb 3-4, 2017
-- Name: Innis Cafe (catering company), filled out by Luke Johnston (@lwjohnst86)
-
-## Receipt(s) list
-
-- Item 1:
-    - Date of purchase: 2017-02-03
-    - Description: Coffee and tea catering
-    - Purpose: For SWC participants
-    - Cost ($): 409.63
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2017-02-03-Invoice-InnisCafe.pdf)
-
-**Total**: 409.63
-    
-**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/77)**
-
-## Approval (seen in PR as well)
+- expense_purpose: Coffee and Tea for SWC workshop on Feb 3-4, 2017
+- person:
+    - name: Innis Cafe (catering company)
+    - proxy:
+        - name: Luke Johnston
+        - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2017-02-03
+        - description: Coffee and tea catering
+        - keyword: For SWC participants
+        - cost: 409.63
+        - receipt_file: 2017-02-03-Invoice-InnisCafe.pdf
+- pr_num: 77

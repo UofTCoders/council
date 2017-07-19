@@ -1,24 +1,19 @@
-
 # Reimbursement form
-
-- Purpose of expense: Snacks and HDMI/VGA converter
-- Name: Luke Johnston (@lwjohnst86)
-
-## Receipt(s) list
-
-- Item 1:
-    - Date of purchase: 2017-03-15
-    - Description: Snacks for coding sessions
-    - Purpose: Snacks
-    - Cost ($): 6.76
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2017-03-15-Snacks-Rexall.jpg)
-- Item 2:
-    - Date of purchase: 2017-03-15
-    - Description: HDMI/VGA adapter for those instructors who need it
-    - Purpose: Equipment for instructing
-    - Cost ($): 41.80
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2017-03-15-Adapter-CanadaComputers.jpg)
-
-**Total**: 6.76 + 41.80 = $48.56
-    
-**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/107)**
+- expense_purpose: Snacks and HDMI/VGA converter
+- person:
+    - name: Luke Johnston
+    - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2017-03-15
+        - description: Snacks for coding sessions
+        - keyword: Snacks
+        - cost: 6.76
+        - receipt_file: 2017-03-15-Snacks-Rexall.jpg
+    - item:
+        - purchase_date: 2017-03-15
+        - description: HDMI/VGA adapter for those instructors who need it
+        - keyword: Equipment for instructing
+        - cost: 41.80
+        - receipt_file: 2017-03-15-Adapter-CanadaComputers.jpg
+- pr_num: 107

@@ -1,32 +1,28 @@
-
 # Reimbursement form
-
-- Purpose of expense: Drinks for pub night (plus snacks)
-- Name: Luke W. Johnston
-
-## Receipt(s) list
-
-- Item 1:
-    - Date of purchase: 2016-08-04
-    - Description: Social night beer jugs
-    - Purpose: Beer
-    - Cost ($): 60.20 + 7 (tip) = 67.20
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-08-04-drinks-GSUPub-LWJ.pdf)
-- Item 2:
-    - Date of purchase: 2016-08-04
-    - Description: Social night drink
-    - Purpose: Social
-    - Cost ($): 5.25 + 1 (tip) = 6.25
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-08-04-drinks-GSUPub-LWJ.pdf)
-- Item 3:
-    - Date of purchase: 2016-07-21
-    - Description: Snacks (clementines)
-    - Purpose: Snacks
-    - Cost ($): 4.99
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-07-21-food-BloorstreetMarket.pdf)
-    
-**Total**: 78.44 - 13.35 (remaining from my personal account) = $65.09
-
-**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/28)**
-
-## Approval (seen in PR as well)
+- expense_purpose: Drinks for pub night (plus snacks)
+- person:
+    - name: Luke W. Johnston
+    - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2016-08-04
+        - description: Social night beer jugs
+        - keyword: Beer
+        - cost: 67.20
+        - receipt_file: 2016-08-04-drinks-GSUPub-LWJ.pdf
+        - note: 7 dollar tip
+    - item:
+        - purchase_date: 2016-08-04
+        - description: Social night drink
+        - keyword: Social
+        - cost: 6.25
+        - receipt_file: 2016-08-04-drinks-GSUPub-LWJ.pdf
+        - note: 1 dollar tip
+    - item:
+        - purchase_date: 2016-07-21
+        - description: Snacks (clementines)
+        - keyword: Snacks
+        - cost: 4.99
+        - receipt_file: 2016-07-21-food-BloorstreetMarket.pdf
+- pr_num: 28
+- note: Substracted 13.35 from the total spending as that is what remained of the $150 of Coders funding in my personal account.

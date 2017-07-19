@@ -1,32 +1,25 @@
-
 # Reimbursement form
-
-- Purpose of expense: Bought snacks and drinks for Hacky event.
-- Name: Luke Johnston
-
-## Receipt(s) list
-
-- Item 1:
-    - Date of purchase: 2016-12-06
-    - Description: Bloorstreet Market Snacks
-    - Purpose: Snacks
-    - Cost ($): 20.53
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-12-06-Snacks-BloorstreetMarket.pdf)
-- Item 2:
-    - Date of purchase: 2016-12-07
-    - Description: Bloorstreet Market Chips for Hacky time
-    - Purpose: Social/snacks
-    - Cost ($): 10.17
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-12-07-Snacks-BloorstreetMarket.pdf)
-- Item 3:
-    - Date of purchase: 2016-12-08
-    - Description: Pub drinks for Hacky time.
-    - Purpose: Social
-    - Cost ($): 19 + 3 + 5.25 + 1 = 28.25
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-12-08-Drinks-GSUPub-Luke.pdf)
-
-**Total**: 20.53 + 10.17 + 28.25 = $58.95
-    
-**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/57)**
-
-## Approval (seen in PR as well)
+- expense_purpose: Bought snacks and drinks for Hacky event.
+- person:
+    - name: Luke Johnston
+- receipts:
+    - item:
+        - purchase_date: 2016-12-06
+        - description: Bloorstreet Market Snacks
+        - keyword: Snacks
+        - cost: 20.53
+        - receipt_file: 2016-12-06-Snacks-BloorstreetMarket.pdf
+    - item:
+        - purchase_date: 2016-12-07
+        - description: Bloorstreet Market Chips for Hacky time
+        - keyword: Social/snacks
+        - cost: 10.17
+        - receipt_file: 2016-12-07-Snacks-BloorstreetMarket.pdf
+    - item:
+        - purchase_date: 2016-12-08
+        - description: Pub drinks for Hacky time.
+        - keyword: Social
+        - cost: 28.25
+        - receipt_file: 2016-12-08-Drinks-GSUPub-Luke.pdf
+        - note: Two receipts in one file. 19 + 3 tip, 5.25 + 1 (tip)
+- pr_num: 57

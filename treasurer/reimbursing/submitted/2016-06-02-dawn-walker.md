@@ -1,29 +1,21 @@
-
 # Reimbursement form
-
-- Purpose of expense: Paid for drinks for Social night
-- Name: Dawn Walker (via Luke Johnston @lwjohnst86)
-
-## Receipt(s) list
-
-- Item 1:
-    - Date of purchase: 2016-05-12
-    - Description: Drinks from GSU Pub
-    - Purpose: Drinks for Social
-    - Cost ($): 75.33
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-05-12-drinks-GSUPub.pdf)
-- Item 2:
-    - Date of purchase: 2016-05-12
-    - Description: Drinks from GSU Pub
-    - Purpose: Drinks for Social
-    - Cost ($): 47.38
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-05-12-drinks-GSUPub.pdf)
-    
-**Total:** $122.71
-    
-**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/19)**
-
-## Approval (seen in PR as well)
-
-- @lwjohnst86
-- @mbonsma
+- expense_purpose: Paid for drinks for Social night
+- person:
+    - name: Dawn Walker
+    - proxy:
+        - name: Luke Johnston
+        - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2016-05-12
+        - description: Drinks from GSU Pub
+        - keyword: Drinks for Social
+        - cost: 75.33
+        - receipt_file: 2016-05-12-drinks-GSUPub.pdf
+    - item:
+        - purchase_date: 2016-05-12
+        - description: Drinks from GSU Pub
+        - keyword: Drinks for Social
+        - cost: 47.38
+        - receipt_file: 2016-05-12-drinks-GSUPub.pdf
+- pr_num: 19

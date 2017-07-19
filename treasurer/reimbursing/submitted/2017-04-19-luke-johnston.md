@@ -1,30 +1,25 @@
-
 # Reimbursement form
-
-- Purpose of expense: Snacks, tea, and kettle for sessions
-- Name: Luke Johnston (@lwjohnst86)
-
-## Receipt(s) list
-
-- Item 1:
-    - Date of purchase: 2017-04-18
-    - Description: Snacks from grocery store
-    - Purpose: Snacks for sessions
-    - Cost ($): 32.06
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2017-04-18-Snacks-BloorstreetMarket.jpg)
-- Item 2:
-    - Date of purchase: 2017-04-19
-    - Description: Tea for sessions
-    - Purpose: Tea
-    - Cost ($): 5.98
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2017-04-19-Tea-BloorstreetMarket.jpg)
-- Item 3:
-    - Date of purchase: 2017-04-19
-    - Description: Water kettle for heating up water
-    - Purpose: Kettle for tea
-    - Cost ($): 33.89
-    - [Link to receipts](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2017-04-19-Kettle-KitchenStuffPlus.jpg)
-
-**Total**: 32.06 + 33.89 + 5.98 = $71.93
-    
-**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/140)**
+- expense_purpose: Snacks, tea, and kettle for sessions
+- person:
+    - name: Luke Johnston
+    - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2017-04-18
+        - description: Snacks from grocery store
+        - keyword: Snacks for sessions
+        - cost: 32.06
+        - receipt_file: 2017-04-18-Snacks-BloorstreetMarket.jpg
+    - item:
+        - purchase_date: 2017-04-19
+        - description: Tea for sessions
+        - keyword: Tea
+        - cost: 5.98
+        - receipt_file: 2017-04-19-Tea-BloorstreetMarket.jpg
+    - item:
+        - purchase_date: 2017-04-19
+        - description: Water kettle for heating up water
+        - keyword: Kettle for tea
+        - cost: 33.89
+        - receipt_file: 2017-04-19-Kettle-KitchenStuffPlus.jpg
+- pr_num: 140

@@ -1,22 +1,14 @@
-
 # Reimbursement form
-
-- Purpose of expense: Snacks for sessions
-- Name: Luke W. Johnston (@lwjohnst86)
-
-## Receipt(s) list
-
-- Item 1:
-    - Date of purchase: 2016-08-18
-    - Description: Bulk barn snacks and Loblaws fruits and cookies
-    - Purpose: Snacks
-    - Cost ($): 36.52 + 19.46
-    - [Link to receipt](https://github.com/UofTCoders/council/blob/master/treasurer/receipts/2016-08-18-food-BulkBarn+Loblaws.pdf)
-
-**Total**: $55.98
-    
-**[Link to Reimbursement Pull Request](https://github.com/UofTCoders/council/pull/38)**
-
-## Approval (seen in PR as well)
-
-- @linamnt
+- expense_purpose: Snacks for sessions
+- person:
+    - name: Luke W. Johnston
+    - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2016-08-18
+        - description: Bulk barn snacks and Loblaws fruits and cookies
+        - keyword: Snacks
+        - cost: 55.98
+        - receipt_file: 2016-08-18-food-BulkBarn+Loblaws.pdf
+        - note: Two receipts for 36.52 + 19.46
+- pr_num: 38
