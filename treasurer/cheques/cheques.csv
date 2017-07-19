@@ -27,3 +27,5 @@ Number,Date,Recipient,Amount,Purpose,SignOff,Note,PR
 '026’,2017-04-19,Luke Johnston,71.93,"Snacks, tea, and kettle",Lina and Madeleine,Approval from Lina,140
 '027’,2017-05-03,Elliott Sales de Andrade,27,Drinks for Winter term and election social night,Luke and Lina,Approval from Maddy and Elliott (confirmation),146
 '028’,2017-05-03,Joel Ostblom,44,Drinks for Winter term and election social night,Luke and Lina,Approval from Maddy and Joel (confirmation),145
+'029’,NA,NA,NA,NULL cheque,NA,NA,NA
+'030’,2017-06-19,Luke Johnston,28.3,Snacks for Coder sessions,Luke and Madeleine,,161
