@@ -18,11 +18,15 @@ with R Markdown. Code is included in the output.
 
 # Accounting overview
 
-```{r setup, warning=FALSE, message=FALSE}
+All calculations were performed using R. For the code, please see the README.Rmd
+file.
+
+```{r setup, warning=FALSE, message=FALSE, echo=FALSE}
 # Load the packages and data.
 library(dplyr)
 library(lubridate)
 library(scales)
+knitr::opts_chunk$set(echo = FALSE)
 cad <- dollar_format(negative_parens = TRUE)
 finances <- read.csv('accounting.csv') %>% 
     mutate(TransactionDate = ymd(TransactionDate))
@@ -55,7 +59,7 @@ per_week <- abs(sum(snacks$Expense) / weeks)
 
 ## Projected income and expenses
 
-Values surrounded by brackets `()` denote negative values, as is often standard
+Values surrounded by brackets `()` denote negative values, as is often done
 in accounting. Projected values are until end of *fiscal year*. Fiscal year
 starts from the month we first started using the BMO bank account (May): 
 
@@ -71,7 +75,7 @@ workshop_income <- finances %>%
 
 estimated_per_workshop_income <- workshop_income %>% 
     summarize(EstimatedIncome = sum(Income) / length(Income))
-estimated_workshops_per_year <- 3
+estimated_workshops_per_year <- 2
 
 budget_estimate <- data_frame(
     Snacks = -per_week * (fiscal_year_end),
