@@ -1,0 +1,13 @@
+# Reimbursement form
+- expense_purpose: Snacks for weekly sessions
+- person:
+    - name: Luke Johnston
+    - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2016-05-19
+        - description: Bulk barn food
+        - keyword: Snacks
+        - cost: 45.04
+        - receipt_file: 2016-05-19-food-BulkBarn.pdf
+- pr_num: 15

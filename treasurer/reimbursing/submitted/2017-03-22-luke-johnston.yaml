@@ -1,0 +1,13 @@
+# Reimbursement form
+- expense_purpose: Snacks for coders sessions
+- person:
+    - name: Luke Johnston
+    - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2017-03-22
+        - description: Snacks from Bloorstreet Market for sessions
+        - keyword: Snacks
+        - cost: 11.30 + 20.67 = 31.97
+        - receipt_file: 2017-03-22-Snacks-BloorstreetMarket-Luke.jpg
+- pr_num: 113

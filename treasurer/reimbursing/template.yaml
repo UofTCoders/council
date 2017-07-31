@@ -1,0 +1,29 @@
+# Reimbursement form details
+- expense_purpose:
+- person:
+    - name: first last
+    - github_user: @username
+    # optional
+    - proxy:
+        - name:
+        - github_user:
+# Replace the below example, following the format provided, and adding items as needed
+- receipts:
+    - item:
+        - purchase_date: YYYY-MM-DD
+        - keyword: oneword
+        - description: "more descriptive"
+        - cost: number
+        - receipt_file: filename_in_receipts_folder
+        - note: # optional
+    - item:
+        - purchase_date: YYYY-MM-DD
+        - keyword: oneword
+        - description: "more descriptive"
+        - cost: number
+        - receipt_file: filename_in_receipts_folder
+        - note: # optional
+# Pull request number
+- pr_num: number
+# optional
+- note:

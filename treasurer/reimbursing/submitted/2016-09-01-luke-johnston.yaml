@@ -1,0 +1,14 @@
+# Reimbursement form
+- expense_purpose: Snacks for sessions
+- person:
+    - name: Luke W. Johnston
+    - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2016-08-18
+        - description: Bulk barn snacks and Loblaws fruits and cookies
+        - keyword: Snacks
+        - cost: 55.98
+        - receipt_file: 2016-08-18-food-BulkBarn+Loblaws.pdf
+        - note: Two receipts for 36.52 + 19.46
+- pr_num: 38

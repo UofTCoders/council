@@ -1,0 +1,13 @@
+# Reimbursement form
+- expense_purpose: Snacks for Software Carpentry (May 26-27)
+- person:
+    - name: Madeleine Bonsma
+    - github_user: @mbonsma
+- receipts:
+    - item:
+        - purchase_date: 2016-05-26
+        - description: Crackers, cookies, chips, and fruit from Metro
+        - keyword: Snacks for Software Carpentry
+        - cost: 51.63
+        - receipt_file: 2016-05-26-food-Metro.pdf
+- pr_num: 22

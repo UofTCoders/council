@@ -1,0 +1,28 @@
+# Reimbursement form
+- expense_purpose: Drinks for pub night (plus snacks)
+- person:
+    - name: Luke W. Johnston
+    - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2016-08-04
+        - description: Social night beer jugs
+        - keyword: Beer
+        - cost: 67.20
+        - receipt_file: 2016-08-04-drinks-GSUPub-LWJ.pdf
+        - note: 7 dollar tip
+    - item:
+        - purchase_date: 2016-08-04
+        - description: Social night drink
+        - keyword: Social
+        - cost: 6.25
+        - receipt_file: 2016-08-04-drinks-GSUPub-LWJ.pdf
+        - note: 1 dollar tip
+    - item:
+        - purchase_date: 2016-07-21
+        - description: Snacks (clementines)
+        - keyword: Snacks
+        - cost: 4.99
+        - receipt_file: 2016-07-21-food-BloorstreetMarket.pdf
+- pr_num: 28
+- note: Substracted 13.35 from the total spending as that is what remained of the $150 of Coders funding in my personal account.

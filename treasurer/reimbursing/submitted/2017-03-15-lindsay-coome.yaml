@@ -1,0 +1,22 @@
+# Reimbursement form
+- expense_purpose: Snacks for SWC workshop from Feb 3-4., 2017
+- person:
+    - name: Lindsay Coome
+    - github_user: @lcoome
+    - proxy:
+        - name: Luke Johnston 
+        - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2017-02-02
+        - description: Snacks from Dollarama
+        - keyword: Snacks for SWC Feb 3-4, 2017
+        - cost: 42.55
+        - receipt_file: 2017-02-02-SWC-Snacks-Dollarama.jpg
+    - item:
+        - purchase_date: 2017-02-02
+        - description: Snacks from Rabba
+        - keyword: Snacks for SWC Feb 3-4, 2017
+        - cost: 33.89
+        - receipt_file: 2017-02-02-SWC-Snacks-Rabba.jpg
+- pr_num: 106

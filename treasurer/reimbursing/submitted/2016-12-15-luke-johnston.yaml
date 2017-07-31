@@ -1,0 +1,25 @@
+# Reimbursement form
+- expense_purpose: Bought snacks and drinks for Hacky event.
+- person:
+    - name: Luke Johnston
+- receipts:
+    - item:
+        - purchase_date: 2016-12-06
+        - description: Bloorstreet Market Snacks
+        - keyword: Snacks
+        - cost: 20.53
+        - receipt_file: 2016-12-06-Snacks-BloorstreetMarket.pdf
+    - item:
+        - purchase_date: 2016-12-07
+        - description: Bloorstreet Market Chips for Hacky time
+        - keyword: Social/snacks
+        - cost: 10.17
+        - receipt_file: 2016-12-07-Snacks-BloorstreetMarket.pdf
+    - item:
+        - purchase_date: 2016-12-08
+        - description: Pub drinks for Hacky time.
+        - keyword: Social
+        - cost: 28.25
+        - receipt_file: 2016-12-08-Drinks-GSUPub-Luke.pdf
+        - note: Two receipts in one file. 19 + 3 tip, 5.25 + 1 (tip)
+- pr_num: 57

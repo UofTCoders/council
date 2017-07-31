@@ -1,0 +1,15 @@
+# Reimbursement form
+- expense_purpose: Coffee and Tea for SWC workshop on May 26-27, 2016
+- person:
+    - name: Innis Cafe (catering company)
+    - proxy:
+        - name: Luke Johnston
+        - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2016-05-26
+        - description: Coffee and tea catering
+        - keyword: Snacks
+        - cost: 197.75
+        - receipt_file: 2016-05-26-invoice-InnisCafe-SWC.pdf
+- pr_num: 18

@@ -1,0 +1,21 @@
+# Reimbursement form
+- expense_purpose: Paid for drinks for Social night
+- person:
+    - name: Dawn Walker
+    - proxy:
+        - name: Luke Johnston
+        - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2016-05-12
+        - description: Drinks from GSU Pub
+        - keyword: Drinks for Social
+        - cost: 75.33
+        - receipt_file: 2016-05-12-drinks-GSUPub.pdf
+    - item:
+        - purchase_date: 2016-05-12
+        - description: Drinks from GSU Pub
+        - keyword: Drinks for Social
+        - cost: 47.38
+        - receipt_file: 2016-05-12-drinks-GSUPub.pdf
+- pr_num: 19

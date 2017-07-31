@@ -1,0 +1,16 @@
+# Reimbursement form
+- expense_purpose: Snacks for Hack Day in Dec. 2016
+- person:
+    - name: Madeleine Bonsma
+    - github_user: @mbonsma
+    - proxy:
+        - name: Luke Johnston 
+        - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2016-12-08
+        - description: Chips from GSU Pub for Hack Day
+        - keyword: Snacks
+        - cost: 9.00
+        - receipt_file: 2016-12-08-Snacks-GSUPub-Maddy.pdf
+- pr_num: 112

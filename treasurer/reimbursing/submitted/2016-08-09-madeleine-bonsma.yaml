@@ -1,0 +1,12 @@
+# Reimbursement form
+- expense_purpose: Drinks at UofT Coders (Social Night)
+- person:
+    - name: Madeleine Bonsma (via Luke Johnston)
+- receipts:
+    - item:
+        - purchase_date: 2016-08-04
+        - description: 4 pitchers 
+        - keyword: Social
+        - cost: 54.95
+        - receipt_file: 2016-08-09-drinks-GSUPub-MB.pdf
+- pr_num: 37

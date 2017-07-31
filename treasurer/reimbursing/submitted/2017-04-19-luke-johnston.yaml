@@ -1,0 +1,25 @@
+# Reimbursement form
+- expense_purpose: Snacks, tea, and kettle for sessions
+- person:
+    - name: Luke Johnston
+    - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2017-04-18
+        - description: Snacks from grocery store
+        - keyword: Snacks for sessions
+        - cost: 32.06
+        - receipt_file: 2017-04-18-Snacks-BloorstreetMarket.jpg
+    - item:
+        - purchase_date: 2017-04-19
+        - description: Tea for sessions
+        - keyword: Tea
+        - cost: 5.98
+        - receipt_file: 2017-04-19-Tea-BloorstreetMarket.jpg
+    - item:
+        - purchase_date: 2017-04-19
+        - description: Water kettle for heating up water
+        - keyword: Kettle for tea
+        - cost: 33.89
+        - receipt_file: 2017-04-19-Kettle-KitchenStuffPlus.jpg
+- pr_num: 140

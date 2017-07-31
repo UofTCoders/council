@@ -1,0 +1,16 @@
+# Reimbursement form
+- expense_purpose: Drinks and snacks for social night
+- person:
+    - name: Elliott Sales de Andrade
+    - github_user: @QuLogic
+    - proxy:
+        - name: Luke Johnston 
+        - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2017-04-26
+        - description: Drinks and chips from GSU Pub for social night
+        - keyword: Drinks and chips
+        - cost: 27.60
+        - receipt_file: 2017-04-26-DrinksSnacks-GSUPub-Elliott.jpg
+- pr_num: 146

@@ -1,0 +1,21 @@
+# Reimbursement form
+- expense_purpose: Honorariums for instructors teaching CUPE Python workshops
+- person:
+    - name: Luke Johnston, signing off for instructors
+## Item expense list
+    - item:
+    - Date of event: 2016-07-27
+        - description: Honorarium for Ricardo Harripaul who taught the first CUPE session
+        - keyword: Honorarium for instructing
+        - cost: 125
+    - item:
+    - Date of event: 2016-08-03
+        - description: Honorarium for Samar Sabie who taught the second CUPE session
+        - keyword: Honorarium for instructing
+        - cost: 125
+    - item:
+    - Date of event: 2016-08-10
+        - description: Honorarium for Jeff Wintersinger who taught the third CUPE session
+        - keyword: Honorarium for instructing
+        - cost: 125
+- pr_num: 33

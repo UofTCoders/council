@@ -1,0 +1,16 @@
+# Reimbursement form
+- expense_purpose: Drinks for Social night
+- person:
+    - name: Madeleine Bonsma
+    - github_user: @mbonsma
+    - proxy:
+        -name: Luke Johnston
+        - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2016-05-12
+        - description: GSU Pub Drinks
+        - keyword: Drinks from GSU Pub for Social night
+        - cost: 27.50
+        - receipt_file: 2016-05-12-drinks-GSUPub.pdf
+- pr_num: 20

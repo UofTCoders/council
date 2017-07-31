@@ -1,0 +1,19 @@
+# Reimbursement form
+- expense_purpose: Snacks and HDMI/VGA converter
+- person:
+    - name: Luke Johnston
+    - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2017-03-15
+        - description: Snacks for coding sessions
+        - keyword: Snacks
+        - cost: 6.76
+        - receipt_file: 2017-03-15-Snacks-Rexall.jpg
+    - item:
+        - purchase_date: 2017-03-15
+        - description: HDMI/VGA adapter for those instructors who need it
+        - keyword: Equipment for instructing
+        - cost: 41.80
+        - receipt_file: 2017-03-15-Adapter-CanadaComputers.jpg
+- pr_num: 107

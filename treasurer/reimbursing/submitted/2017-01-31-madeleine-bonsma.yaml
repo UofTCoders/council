@@ -1,0 +1,12 @@
+# Reimbursement form
+- expense_purpose: supplies for Software Carpentry
+- person:
+    - name: Madeleine Bonsma
+- receipts:
+    - item:
+        - purchase_date: 2017-01-31
+        - description: Sticky notes, whiteboard marker, permanent markers
+        - keyword: Software Carpentry supplies
+        - cost: 13.48
+        - receipt_file: 2017-01-31-SWC-Supplies-Maddy.pdf
+- pr_num: 71

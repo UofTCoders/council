@@ -1,0 +1,19 @@
+# Reimbursement form
+- expense_purpose: Snacks for sessions
+- person:
+    - name: Luke Johnston
+    - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2016-09-13
+        - description: Chocolate almonds for snacks
+        - keyword: Snacks
+        - cost: 11.30
+        - receipt_file: 2016-09-13-food-BloorstreetMarket.pdf
+    - item:
+        - purchase_date: 2016-10-05
+        - description: Chocolate almonds, trail mix, and oranges for snacks
+        - keyword: Snacks
+        - cost: 37.62
+        - receipt_file: 2016-10-05-food-BloorstreetMarket.pdf
+- pr_num: 47

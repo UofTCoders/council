@@ -1,0 +1,19 @@
+# Reimbursement form
+- expense_purpose: Snacks for sessions
+- person:
+    - name: Luke Johnston
+    - github_user: @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2017-01-26
+        - description: Nuts and other snacks
+        - keyword: Snacks for coding sessions
+        - cost: 20.88
+        - receipt_file: 2017-01-26-Snacks-BloorstreetMarket.pdf
+    - item:
+        - purchase_date: 2017-01-29
+        - description: Bulk barn food
+        - keyword: Snacks
+        - cost: 4.18
+        - receipt_file: 2017-01-29-Snacks-BulkBarn.pdf
+- pr_num: 78

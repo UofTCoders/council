@@ -1,0 +1,13 @@
+# Reimbursement form
+- expense_purpose: Drinks for hack day in Dec 2016
+- person:
+    - name: Lina Tran
+    - github_user: @linamnt, via Luke Johnston @lwjohnst86
+- receipts:
+    - item:
+        - purchase_date: 2016-12-08
+        - description: Drinks from GSU pub for Hack day in Dec 2017
+        - keyword: Drinks
+        - cost: 13.75 + 1.75 = 15.50
+        - receipt_file: 2016-12-08-Drinks-GSUPub-Lina.pdf
+- pr_num: 111
