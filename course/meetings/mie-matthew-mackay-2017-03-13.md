@@ -1,4 +1,3 @@
-
 ---
 contact: Matthew Mackay
 department: Mechanical and Industrial Engineering
