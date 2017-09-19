@@ -1,5 +1,5 @@
 # Reimbursement form details
-- expense_purpose: Ethernet to connect laptop to projector (for R course)
+- expense_purpose: HDMI cable to connect laptop to projector (for R course)
 - person:
     - name: Joel Ostblom
     - github_user: @joelostblom
@@ -12,7 +12,7 @@
     - item:
         - purchase_date: 2017-09-07
         - keyword: Supply
-        - description: "Ethernet for laptop to projector"
+        - description: "HDMI cable for laptop to projector"
         - cost: 22.59
         - receipt_file: 2017-09-07-Ethernet-CanadaComputers.jpg
         - note: # optional
