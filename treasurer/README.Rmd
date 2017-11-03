@@ -18,7 +18,7 @@ with R Markdown. Code is included in the output.
 
 # Accounting overview
 
-All calculations were performed using R. For the code, please see the README.Rmd
+All calculations were performed using R. For the code, please see the `README.Rmd`
 file.
 
 ```{r setup, warning=FALSE, message=FALSE, echo=FALSE}
@@ -75,7 +75,7 @@ workshop_income <- finances %>%
 
 estimated_per_workshop_income <- workshop_income %>% 
     summarize(EstimatedIncome = sum(Income) / length(Income))
-estimated_workshops_per_year <- 2
+estimated_workshops_per_year <- 1
 
 budget_estimate <- data_frame(
     Snacks = -per_week * (fiscal_year_end),

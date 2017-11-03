@@ -11,7 +11,7 @@ Given that this is a *coders* group, all summaries of the finances are done in R
 Accounting overview
 ===================
 
-All calculations were performed using R. For the code, please see the README.Rmd file.
+All calculations were performed using R. For the code, please see the `README.Rmd` file.
 
 Actual income and expenses
 --------------------------
@@ -19,10 +19,10 @@ Actual income and expenses
 | Type      | Amount    |
 |:----------|:----------|
 | Income    | $4,362.85 |
-| Expense   | $3,235.28 |
-| **Total** | $1,127.57 |
+| Expense   | $3,267.58 |
+| **Total** | $1,095.27 |
 
-**Per session (weekly) expense for snacks**: $6.25
+**Per session (weekly) expense for snacks**: $6.24
 
 Projected income and expenses
 -----------------------------
@@ -31,9 +31,9 @@ Values surrounded by brackets `()` denote negative values, as is often done in a
 
 Fiscal year: *May 1st-April 30th.*
 
-| Item      |         Amount|
-|:----------|--------------:|
-| Snacks    |      ($193.03)|
-| Misc      |         ($200)|
-| Workshops |      $1,455.76|
-| **Total** |  **$1,062.73**|
+| Item      |       Amount|
+|:----------|------------:|
+| Snacks    |    ($159.78)|
+| Misc      |       ($200)|
+| Workshops |      $727.88|
+| **Total** |  **$368.10**|
