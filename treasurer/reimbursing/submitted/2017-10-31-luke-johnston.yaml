@@ -1,0 +1,17 @@
+# Reimbursement form details
+- expense_purpose: Snacks for sessions
+- person:
+    - name: Luke Johnston
+    - github_user: @lwjohnst86
+# Replace the below example, following the format provided, and adding items as needed
+- receipts:
+    - item:
+        - purchase_date: 2017-10-25
+        - keyword: Snacks
+        - description: "Snacks from Bulk Barn for sessions"
+        - cost: 32.30
+        - receipt_file: 2017-10-25-Snacks-BulkBarn.jpg
+# Pull request number
+- pr_num: 203
+# optional
+- note:
