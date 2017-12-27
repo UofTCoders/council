@@ -1,0 +1,15 @@
+# Reimbursement form details
+- expense_purpose: Drinks and snacks for Winter 2017 Hacky Hour
+- person:
+    - name: Luke Johnston
+    - github_user: @lwjohnst86
+# Replace the below example, following the format provided, and adding items as needed
+- receipts:
+    - item:
+        - purchase_date: 2017-12-07
+        - keyword: Drinks
+        - description: "Drinks (and some snacks) for Hacky hour at GSU Pub"
+        - cost: 80.25
+        - receipt_file: 2017-12-07-SnacksDrinks-GSUPub.jpg
+# Pull request number
+- pr_num: 209
