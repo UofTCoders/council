@@ -65,8 +65,12 @@ TransactionDate,Income,Expense,Tag,Reason,Notes,ChequeNumber,ChequeCashed
 2017-07-19,,27.6,Misc,Drinks for Winter term and election social night,For Elliott,ch027,Yes
 2017-07-31,,2.5,BankFee,BMO Maintanence fee,,,
 2017-08-31,,2.5,BankFee,BMO Maintanence fee,,,
-2017-09-18,,22.59,Supplies,Ethernet for laptop to projector connection,For Joel,ch032,No
 2017-09-22,,34.52,Snacks,Snacks for sessions,For Luke,ch031,Yes
 2017-09-22,,162.05,Misc,Drinks and apps for Fall 2017 social,For Luke,ch033,Yes
-2017-10-31,,32.3,Snacks,Snacks for sessions,For Luke,ch034,Yes
-2017-12-07,,80.25,Pub,Drinks and snacks for Winter 2017 Hacky Hour,For Luke,ch035,Yes
+2017-09-29,,2.5,BankFee,BMO Maintanence fee,,,
+2017-10-13,,22.59,Supplies,Ethernet for laptop to projector connection,For Joel,ch032,Yes
+2017-10-31,,2.5,BankFee,BMO Maintanence fee,,,
+2017-11-03,,32.3,Snacks,Snacks for sessions,For Luke,ch034,Yes
+2017-11-30,,2.5,BankFee,BMO Maintanence fee,,,
+2017-12-13,,80.25,Pub,Drinks and snacks for Winter 2017 Hacky Hour,For Luke,ch035,Yes
+2017-12-29,,2.5,BankFee,BMO Maintanence fee,,,
