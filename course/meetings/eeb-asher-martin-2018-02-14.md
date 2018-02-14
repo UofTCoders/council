@@ -5,16 +5,11 @@
     2.  [Teaching setup](#org9e6dffd)
     3.  [Content redesign](#org90ef1d8)
     4.  [Misc](#org01d33cc)
-    5.  [Action items <code>[0/4]</code>](#org93d9402)
-        1.  [Content redesign with focus on the analysis techniques](#org6348e7d)
-        2.  [Get back to Asher with suggested teaching setup](#org00cec9e)
-        3.  [Take down the assignment from last year](#orgba95a66)
-        4.  [Send UofTCoders blurb to Asher for promotion](#org49c1e0a)
-
+    5.  [Action items](#org93d9402)
 
 <a id="org2ac5210"></a>
 
-# TODO Notes from meeting <span class="timestamp-wrapper"><span class="timestamp">[2018-02-14 Wed]</span></span>
+# Notes from meeting <span class="timestamp-wrapper"><span class="timestamp">[2018-02-14 Wed]</span></span>
 
 
 <a id="org55a3d35"></a>
@@ -49,6 +44,8 @@
 -   More updates during the project work, have a set of questions that the student
     answer at the beginning of each class to make sure they share their struggles
     and surceases with the other groups
+-   We are free to reuse any assignments we want, just take them down from the
+    homepage.
 
 
 <a id="org9e6dffd"></a>
@@ -114,30 +111,12 @@
 
 <a id="org93d9402"></a>
 
-## Action items <code>[0/4]</code>
+## Action items
 
-
-<a id="org6348e7d"></a>
-
-### TODO Content redesign with focus on the analysis techniques
-
--   This will include selecting new data sets, or at least deciding on what kind
-    of analysis techniques will be used for the data sets.
-
-
-<a id="org00cec9e"></a>
-
-### TODO Get back to Asher with suggested teaching setup
-
--   Include how payments should be divided.
-
-
-<a id="orgba95a66"></a>
-
-### TODO Take down the assignment from last year
-
-
-<a id="org49c1e0a"></a>
-
-### TODO Send UofTCoders blurb to Asher for promotion
+- [ ] Content redesign with focus on the analysis techniques
+    -   This will include selecting new data sets, or at least deciding on what kind of analysis techniques will be used for the data sets.
+- [ ] Get back to Asher with suggested teaching setup
+    -   Include how payments should be divided.
+- [ ] Take down the assignment from last year
+- [ ] Send UofTCoders blurb to Asher for promotion
 
