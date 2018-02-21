@@ -1,0 +1,22 @@
+# Reimbursement form details
+- expense_purpose:
+- person:
+    - name: Madeleine Bonsma
+    - github_user: @mbonsma
+    # optional
+    - proxy:
+        - name: Madeleine Bonsma
+        - github_user: @mbonsma
+# Replace the below example, following the format provided, and adding items as needed
+- receipts:
+    - item:
+        - purchase_date: 2018-02-20
+        - keyword: Gift
+        - description: "Starbucks Gift Card"
+        - cost: 100.00
+        - receipt_file: 2018-02-20-StarbucksGiftCards-Starbucks2.JPG
+        - note:
+# Pull request number
+- pr_num: 219 # CHANGE LATER
+# optional
+- note:
