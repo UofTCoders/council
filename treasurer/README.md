@@ -21,10 +21,13 @@ Actual income and expenses
 | Type      | Amount    |
 |:----------|:----------|
 | Income    | $4,362.85 |
-| Expense   | $3,357.83 |
-| **Total** | $1,005.02 |
+| Expense   | $3,507.98 |
+| **Total** | $854.87   |
 
-**Per session (weekly) expense for snacks**: $5.65
+    ## Warning in grepl("Snacks", Reason): input string 25 is invalid in this
+    ## locale
+
+**Per session (weekly) expense for snacks**: $5.32
 
 Projected income and expenses
 -----------------------------
@@ -33,9 +36,14 @@ Values surrounded by brackets `()` denote negative values, as is often done in a
 
 Fiscal year: *May 1st-April 30th.*
 
+    ## Warning in grepl("walk-in", Reason): input string 25 is invalid in this
+    ## locale
+
+    ## Warning: package 'pander' was built under R version 3.2.5
+
 | Item      |       Amount|
 |:----------|------------:|
-| Snacks    |     ($90.52)|
+| Snacks    |     ($52.49)|
 | Misc      |       ($200)|
 | Workshops |      $727.88|
-| **Total** |  **$437.36**|
+| **Total** |  **$475.39**|
