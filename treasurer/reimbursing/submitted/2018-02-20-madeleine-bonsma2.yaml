@@ -1,0 +1,22 @@
+# Reimbursement form details
+- expense_purpose:
+- person:
+    - name: Madeleine Bonsma
+    - github_user: @mbonsma
+    # optional
+    - proxy:
+        - name: Madeleine Bonsma
+        - github_user: @mbonsma
+# Replace the below example, following the format provided, and adding items as needed
+- receipts:
+    - item:
+        - purchase_date: 2018-02-20
+        - keyword: SWC
+        - description: "Supplies"
+        - cost: 50.15
+        - receipt_file: 2018-02-20-SuppliesSWC-Shoppers&UofTBookstore.JPG
+        - note:
+# Pull request number
+- pr_num: 219 # CHANGE LATER
+# optional
+- note:
