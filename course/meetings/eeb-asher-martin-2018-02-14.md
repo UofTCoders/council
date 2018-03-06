@@ -56,7 +56,7 @@
 -   We could either be TAs as last year or have a setup where 1-2 of us are course
     (co)-instructors and then 1-2 TAs.
     -   Course instructor positions have to be posted, but are usually written so that
-        it is difficult for not difficultly.
+        it is difficult for an outsider to get the position.
     -   However, Asher prefers someone with past experience to be the course
         instructor, so not Ahmed as we originally though =(
         -   Although, I think if we have two co-instructors, maybe it could be
