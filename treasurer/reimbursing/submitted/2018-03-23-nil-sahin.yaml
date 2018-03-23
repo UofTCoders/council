@@ -1,0 +1,22 @@
+# Reimbursement form details
+- expense_purpose:
+- person:
+    - name: Nil Sahin
+    - github_user: @nsahin
+    # optional
+    - proxy:
+        - name: Nil Sahin
+        - github_user: @nsahin
+# Replace the below example, following the format provided, and adding items as needed
+- receipts:
+    - item:
+        - purchase_date: 2018-03-23
+        - keyword: Snacks
+        - description: "Snacks"
+        - cost: 58.74
+        - receipt_file: 2018-03-23-Snacks-BulkBarn.JPG
+        - note:
+# Pull request number
+- pr_num: 224 # CHANGE LATER
+# optional
+- note:
