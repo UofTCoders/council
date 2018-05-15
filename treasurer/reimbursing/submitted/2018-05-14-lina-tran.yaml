@@ -1,0 +1,16 @@
+# Reimbursement form
+- expense_purpose: Laptop stickers of UofTCoders
+- person:
+    - name: Lina Tran
+    - github_user: @linamnt
+    - proxy:
+        - name: Nil Sahin
+        - github_user: @nsahin
+- receipts:
+    - item:
+        - purchase_date: 2018-05-14
+        - description: Laptop stickers
+        - keyword: Stickers of UofTCoders logo for laptops, as a way to advertise.
+        - cost: 109.00
+        - receipt_file: 2018-05-14-Stickers-StickerMule.pdf
+- pr_num: 237
