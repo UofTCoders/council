@@ -1,0 +1,16 @@
+# Reimbursement form details
+- expense_purpose: Drinks for election night
+- person:
+    - name: Nil Sahin
+    - proxy:
+        - name: Nil Sahin
+        - github_user: @nsahin
+- receipts:
+    - item:
+        - purchase_date: 2018-04-26
+        - keyword: Drinks
+        - description: "Drinks"
+        - cost: 121.11
+        - receipt_file: 2018-04-30-SocialHour-OGradys.JPG
+- pr_num: 236
+
