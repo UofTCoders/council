@@ -63,7 +63,7 @@ data_frame(
 ```
 
 ```{r expensePerWeek}
-snacks <- filter(finances, grepl('Snacks', Reason)) 
+snacks <- filter(finances, grepl('Snacks', Tag)) 
 weeks <- difftime(Sys.Date(), min(snacks$TransactionDate), units = 'weeks')
 weeks <- as.numeric(weeks)
 per_week <- abs(sum(snacks$Expense) / weeks)
@@ -81,7 +81,7 @@ Fiscal year: *May 1st-April 30th.*
 
 ```{r}
 # This needs date needs to be changed each year.
-fiscal_year_end <- difftime('2018-05-01', Sys.Date(), units = 'weeks')
+fiscal_year_end <- difftime('2019-05-01', Sys.Date(), units = 'weeks')
 fiscal_year_end <- as.numeric(fiscal_year_end)
 
 workshop_income <- finances %>% 
