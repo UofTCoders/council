@@ -1,0 +1,17 @@
+# Reimbursement form details
+- expense_purpose: Snacks
+- person:
+    - name: Nil Sahin
+    - github_user: @nsahin
+    - proxy:
+        - name: Nil Sahin
+        - github_user: @nsahin
+- receipts:
+    - item:
+        - purchase_date: 2018-05-17
+        - keyword: Snacks
+        - description: "Snacks"
+        - cost: 48.82
+        - receipt_file: 2018-05-17-Snacks-EvermoreGourmet.JPG
+        - note:
+- pr_num: 240
