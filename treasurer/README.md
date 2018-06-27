@@ -20,11 +20,11 @@ Actual income and expenses
 
 | Type      | Amount    |
 |:----------|:----------|
-| Income    | $4,898.29 |
-| Expense   | $3,996.90 |
-| **Total** | $901.39   |
+| Income    | $5,712.03 |
+| Expense   | $4,151.95 |
+| **Total** | $1,560.08 |
 
-**Per session (weekly) expense for snacks**: $4.57
+**Per session (weekly) expense for snacks**: $4.37
 
 Projected income and expenses
 -----------------------------
@@ -33,9 +33,11 @@ Values surrounded by brackets `()` denote negative values, as is often done in a
 
 Fiscal year: *May 1st-April 30th.*
 
+    ## Warning: package 'pander' was built under R version 3.2.5
+
 | Item      |       Amount|
 |:----------|------------:|
-| Snacks    |    ($226.67)|
+| Snacks    |    ($192.21)|
 | Misc      |       ($200)|
-| Workshops |      $695.81|
-| **Total** |  **$269.14**|
+| Workshops |      $712.65|
+| **Total** |  **$320.44**|
