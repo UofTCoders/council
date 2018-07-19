@@ -1,0 +1,25 @@
+# Reimbursement form
+- expense_purpose: Software Carpentry supplies, Jan 18-19
+- person:
+    - name: Madeleine Bonsma
+    - github_user: @mbonsma
+- receipts:
+    - item:
+        - purchase_date: 2018-01-18	
+        - description: Snacks for day 2 of Software Carpentry, candy, fruit, cookies
+        - keyword: Snacks
+        - cost: 22.62
+        - receipt_file: 2018-01-18-SWCsnacks.jpg
+    - item:
+        - purchase_date: 2018-01-17	
+        - description: Whiteboard markers, sharpies, stickies
+        - keyword: Supplies
+        - cost: 16.07
+        - receipt_file: 2018-01-17-SWCsupplies.jpg
+    - item:
+        - purchase_date: 2017-12-07	
+        - description: Sticky notes for use at workshops and code-alongs
+        - keyword: Supplies
+        - cost: 11.46
+        - receipt_file: 2017-12-07-StickyNotes.jpg
+- pr_num: 220
