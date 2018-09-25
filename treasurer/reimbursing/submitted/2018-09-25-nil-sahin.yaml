@@ -1,0 +1,17 @@
+# Reimbursement form details
+- expense_purpose: Snacks
+- person:
+    - name: Nil Sahin
+    - github_user: @nsahin
+    - proxy:
+        - name: Nil Sahin
+        - github_user: @nsahin
+- receipts:
+    - item:
+        - purchase_date: 2018-09-25
+        - keyword: Posters
+        - description: "Posters"
+        - cost: 45.20
+        - receipt_file: 2018-09-25-Posters-Staples.JPG
+        - note:
+- pr_num: 267
