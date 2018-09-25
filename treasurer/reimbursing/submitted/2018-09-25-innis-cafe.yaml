@@ -1,0 +1,15 @@
+# Reimbursement form
+- expense_purpose: Coffee and Tea for SWC workshop on Sept 10-11, 2018
+- person:
+    - name: Innis Cafe (catering company)
+    - proxy:
+        - name: Nil Sahin
+        - github_user: @nsahin
+- receipts:
+    - item:
+        - purchase_date: 2018-09-25
+        - description: Coffee and tea catering
+        - keyword: For SWC participants
+        - cost: 165.90
+        - receipt_file: 2018-09-25-Invoice-InnisCafe.pdf
+- pr_num: 264
