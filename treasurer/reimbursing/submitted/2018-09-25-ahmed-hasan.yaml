@@ -1,0 +1,15 @@
+# Reimbursement form
+- expense_purpose: Social on Sept 13, 2018
+- person:
+    - name: Ahmed Hasan
+    - proxy:
+        - name: Nil Sahin
+        - github_user: @nsahin
+- receipts:
+    - item:
+        - purchase_date: 2018-09-25
+        - description: Social at GSU pub
+        - keyword: 
+        - cost: 55.75
+        - receipt_file: 2018-09-25-Invoice-InnisCafe.pdf
+- pr_num: 265
