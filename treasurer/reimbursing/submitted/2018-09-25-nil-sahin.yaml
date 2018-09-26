@@ -1,5 +1,5 @@
 # Reimbursement form details
-- expense_purpose: Posters
+- expense_purpose: Posters (100)
 - person:
     - name: Nil Sahin
     - github_user: @nsahin
