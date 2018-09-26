@@ -1,5 +1,5 @@
 # Reimbursement form details
-- expense_purpose: Posters
+- expense_purpose: Snacks
 - person:
     - name: Nil Sahin
     - github_user: @nsahin
@@ -9,9 +9,9 @@
 - receipts:
     - item:
         - purchase_date: 2018-09-25
-        - keyword: Posters
-        - description: "Posters"
-        - cost: 45.20
-        - receipt_file: 2018-09-25-Posters-Staples.JPG
+        - keyword: Snacks
+        - description: "Snacks"
+        - cost: 38.06
+        - receipt_file: 2018-09-25-Snacks-BulkBarn.JPG
         - note:
-- pr_num: 267
+- pr_num: 268
