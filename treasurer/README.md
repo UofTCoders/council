@@ -33,8 +33,6 @@ Values surrounded by brackets `()` denote negative values, as is often done in a
 
 Fiscal year: *May 1st-April 30th.*
 
-    ## Warning: package 'pander' was built under R version 3.2.5
-
 | Item      |       Amount|
 |:----------|------------:|
 | Snacks    |    ($139.53)|
