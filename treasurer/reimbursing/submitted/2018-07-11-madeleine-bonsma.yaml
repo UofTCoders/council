@@ -1,0 +1,13 @@
+# Reimbursement form details
+- expense_purpose: Snacks and supplies for Data Carpentry 2018-07-12
+- person:
+    - name: Madeleine Bonsma-Fisher
+    - github_user: @mbonsma
+- receipts:
+    - item:
+        - purchase_date: 2018-07-11
+        - keyword: Snacks for Data Carpentry
+        - description: "Snacks"
+        - cost: 64.14
+        - receipt_file: 2018-07-11-DC-Snacks.jpg
+- pr_num: 269
