@@ -1,0 +1,16 @@
+# Reimbursement form
+- expense_purpose: Microphone
+- person:
+    - name: Lina Tran
+    - github_user: @linamnt
+    - proxy:
+        - name: Nil Sahin
+        - github_user: @nsahin
+- receipts:
+    - item:
+        - purchase_date: 2018-11-16
+        - description: Microphone
+        - keyword: Microphone
+        - cost: 29.39
+        - receipt_file: 2018-11-16-Microphone-Amazon.pdf
+- pr_num: 278
