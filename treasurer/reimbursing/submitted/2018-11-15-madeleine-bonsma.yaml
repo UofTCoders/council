@@ -1,0 +1,13 @@
+# Reimbursement form details
+- expense_purpose: Tim Hortons gift card for Aaron Xin Situ (teaching thank-you)
+- person:
+    - name: Madeleine Bonsma-Fisher
+    - github_user: @mbonsma
+- receipts:
+    - item:
+        - purchase_date: 2018-11-15
+        - keyword: Tim Hortons gift card
+        - description: "Thank-you gift card"
+        - cost: 10
+        - receipt_file: 2018-11-15-TimHortons.pdf
+- pr_num: 274
