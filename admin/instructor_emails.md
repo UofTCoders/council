@@ -14,8 +14,7 @@ teaching rather than conventional lectures and presentations of code. If you hav
 let us know. 
 2. To ensure our instructors are comfortable with our live-coding, we ask that all instructors do **one of the following**:
     - Attend any of our lessons (i.e. not a co-working) prior to teaching their lesson to get a sense of the format
-    - OR Watch [this video of Ahmed teaching Intro to R](https://www.youtube.com/watch?v=b74V54VFL98) which is a great demonstration of our teaching format
-    .
+    - OR Watch [this video of Ahmed teaching Intro to R](https://www.youtube.com/watch?v=b74V54VFL98) which is a great demonstration of our teaching format.
 3. [Code of Conduct](https://github.com/UofTCoders/studyGroup/blob/gh-pages/codeOfConduct.md). UofT Coders has a code of 
 conduct that ensures that all members that attend feel they are safe and welcome at our meetings. Please read it over 
 and ensure that all lesson material abides by the code. 
@@ -28,7 +27,7 @@ Thanks again for your help. Please let us know if you have any questions prior t
 Hi `Name`,
 
 This is a friendly reminder that you are signed-up to teach `lesson title` on `date of lesson` with UofT Coders. Here
-are some more details to help the lesson go as smoothly as possible.
+are some details to help the lesson go as smoothly as possible.
 
 1. Please arrive 5 min prior to 6pm to give us time to set-up. We have an HDMI adapter for our projector, 
 if you require a special adapter for your device, please let us know.
