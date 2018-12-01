@@ -1,0 +1,16 @@
+# Reimbursement form
+- expense_purpose: Starbucks Gift Cards
+- person:
+    - name: Lina Tran
+    - github_user: @linamnt
+    - proxy:
+        - name: Nil Sahin
+        - github_user: @nsahin
+- receipts:
+    - item:
+        - purchase_date: 2018-11-30
+        - description: Starbucks Gift Cards
+        - keyword: Starbucks Gift Cards for volunteering presenters
+        - cost: 20.00
+        - receipt_file: 2018-11-30-GiftCards-Starbucks.pdf
+- pr_num: 282
