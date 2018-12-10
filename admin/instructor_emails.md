@@ -38,7 +38,7 @@ an account on GitHub etc.)
 to the attendees to follow along during the lesson. We understand if timing makes this difficult, but it really helps
 the classroom learning experience.
 4. Are you comfortable having your voice and screen recorded for our livestream to add to our 
-[Youtube Channel](https://www.youtube.com/channel/UCfGUFz6EG5gBfRt8-du0jaA?
+[Youtube Channel](https://www.youtube.com/channel/UCfGUFz6EG5gBfRt8-du0jaA)?
 
 Thanks again for your help. Please let us know if you have any questions or concerns.
 
