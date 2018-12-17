@@ -1,0 +1,16 @@
+# Reimbursement form
+- expense_purpose: Social Night at Upper Deck
+- person:
+    - name: Lina Tran
+    - github_user: @linamnt
+    - proxy:
+        - name: Nil Sahin
+        - github_user: @nsahin
+- receipts:
+    - item:
+        - purchase_date: 2018-12-13
+        - description: Social
+        - keyword: Social Night at Upper Deck on Dec 13, 2018
+        - cost: 152.04
+        - receipt_file: 2018-12-13-SocialNight-UpperDeck.jpg
+- pr_num: 285
