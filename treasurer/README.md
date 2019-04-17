@@ -21,10 +21,10 @@ Actual income and expenses
 | Type      | Amount    |
 |:----------|:----------|
 | Income    | $7,149.55 |
-| Expense   | $5,056.87 |
-| **Total** | $2,092.68 |
+| Expense   | $5,131.87 |
+| **Total** | $2,017.68 |
 
-**Per session (weekly) expense for snacks**: $4.46
+**Per session (weekly) expense for snacks**: $4.22
 
 Projected income and expenses
 -----------------------------
@@ -35,7 +35,7 @@ Fiscal year: *May 1st-April 30th.*
 
 | Item      |       Amount|
 |:----------|------------:|
-| Snacks    |     ($48.53)|
+| Snacks    |      ($8.55)|
 | Misc      |       ($200)|
 | Workshops |      $714.01|
-| **Total** |  **$465.49**|
+| **Total** |  **$505.46**|
