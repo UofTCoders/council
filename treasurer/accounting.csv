@@ -117,5 +117,6 @@ TransactionDate,Income,Expense,Tag,Reason,Notes,ChequeNumber,ChequeCashed
 2019-03-29,,2.5,BankFee,BMO Maintanence fee,,,
 2019-04-04,,50,Gift,Starbucks Gift Cards,For Lina,ch059,Yes
 2019-03-04,,20,Support,WICTO,For Lina,ch060,Yes
-2019-04-25,,15.81,Misc,Social night drinks,For Nil,ch061,
+2019-04-25,,15.81,Misc,Social night drinks,For Nil,ch061,Yes
 2019-04-30,,2.5,BankFee,BMO Maintanence fee,,,
+2019-05-30,,0,TEST,TEST,,,
