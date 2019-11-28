@@ -1,0 +1,16 @@
+# Reimbursement form
+- expense_purpose: SWC Social Night
+- person:
+    - name: Lina Tran
+    - github_user: @linamnt
+    - proxy:
+        - name: Amin Banihashemi
+        - github_user: @ab2347
+- receipts:
+    - item:
+        - purchase_date: 2019-10-04
+        - description: SWC Social Night
+        - keyword: SWC Social at Pogue Mahone
+        - cost: 153.93
+        - receipt_file: 2019-10-04-SWC-Social.pdf
+- pr_num:
