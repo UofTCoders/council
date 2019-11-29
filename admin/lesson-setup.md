@@ -1,22 +1,29 @@
 ### Before the event
 - Set up the live stream 
-    - Go to [youtube.com/my_live_events](https://www.youtube.com/my_live_events) 
-    - Log in to the UofT Coders account 
-    - Click `Schedule a new event`
+og in with the Coders email and it’ll send a 6 digit login code to the email (which I personally think is annoying but eh) and enter the broadcast studio for the event in question - there should be a share link there. After the guest has joined, set it to fullscreening the guest’s screenshare
+    - Go to [StreamYard](https://streamyard.com/) 
+    - Log in to the UofT Coders email address
+    - A six digit login code will be sent to the email, use it to finish the log in process
+    - Enter the `Broadcasts` tab
+    - Click `Create a Broadcast`
     - Fill in the title and description, referring to the [event issue](https://github.com/UofTCoders/Events/issues)
-    - Change the start time to the right time and date (this doesn't have to be super accurate, as long as you don't leave it at `Now`, which will launch the hangout right away.)
-    - Click `Create event`
+    - Be sure to select `Schedule for later`
+    - Change the start time to the right time and date
+    - Click `Create Broadcast`
+    - To get the Youtube link, click `More` then `View on YouTube`
 - Purchase a $10 thank-you gift card for the instructor
 
 ### At the start of the event 
 - Set up the snacks, stickers, and sign-in sheet
 - Start the live stream
-    - Go to [youtube.com/my_live_events](https://www.youtube.com/my_live_events) 
-    - Click 'Start hangout on air`
-    - Click the icon to add participants and send the link to the instructor
-    - Mute your mike and turn off your camera, make sure the instructor is screen-sharing
-    - (Optional) Click `Present to everyone` under the presenter's icon and `Hide from broadcast` under your icon
-    - Click `Start broadcast` once the event is about to start
+    - Open a session in Chrome
+    - Go to [StreamYard](https://streamyard.com/)
+    - Log in to the UofT Coders email address
+    - A six digit login code will be sent to the email, use it to finish the log in process
+    - Enter the `Broadcasts` tab
+    - For the event in question click `Enter Broadcast Studio`
+    - Send the share link to the guest instructor
+    - After the guest instructor has joined, set it to fullscreen on the guest's screenshare
 - Make the [intro announcements](https://github.com/UofTCoders/council/blob/master/lesson-intro.md) and have everyone introduce themselves
 
 ### During the event
