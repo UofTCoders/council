@@ -1,0 +1,16 @@
+# Reimbursement form
+- expense_purpose: Social Night at GSU Pub
+- person:
+    - name: Ahmed Hasan
+    - github_user: @aays
+        - proxy:
+        - name: Amin Banihashemi
+        - github_user: @ab2347
+- receipts:
+    - item:
+        - purchase_date: 2019-09-19
+        - description: Social Night
+        - keyword: Social Night at GSU Pub
+        - cost: 31.63
+        - receipt_file: 2019-09-19-SocialNight-GSUPub.JPG
+- pr_num: 301
