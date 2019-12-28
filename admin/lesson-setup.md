@@ -6,7 +6,8 @@ og in with the Coders email and it’ll send a 6 digit login code to the email (
     - A six digit login code will be sent to the email, use it to finish the log in process
     - Enter the `Broadcasts` tab
     - Click `Create a Broadcast`
-    - Fill in the title and description, referring to the [event issue](https://github.com/UofTCoders/Events/issues)
+    - Fill in the title and description, referring to the [event issue](https://github.com/UofTCoders/Events/issues),
+    and if applicable, the lesson content (https://uoftcoders.github.io/studyGroup/lessons/)
     - Be sure to select `Schedule for later`
     - Change the start time to the right time and date
     - Click `Create Broadcast`
