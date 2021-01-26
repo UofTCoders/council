@@ -24,7 +24,7 @@ sessions, everyone is welcome etc.)
 2. We have a Code of Conduct that can be found on our website (and [here][conduct] directly)
 3. We usually hold our events at MADLab, who have kindly hosted us, and look forward to holding 
 events there again one day! 
-4. Invite people to join the Gitter (link above) _or_ Discord (https://discord.gg/rAr6sPe) to post 
+4. Invite people to join the Gitter (link above) _or_ Discord (https://discord.gg/ud984rW9vK) to post 
 questions/comments.
 5. If people are not on our email list and would like to be, please PM a helper on Zoom. 
 6. If people would like to instruct, know more, or get involved, they can talk to the Intro Speaker
