@@ -1,10 +1,10 @@
 # Wrap-up notes! 
 
-Event: Software Carpentries (R) 
-Organizer: Frances 
-Date: May 18 & 25, 2021
-Venue: Online 
-Event page: https://franceswong.github.io/2021-05-18-UoftCoders/
+Event: Software Carpentries (R)  
+Organizer: Frances  
+Date: May 18 & 25, 2021 
+Venue: Online  
+Event page: https://franceswong.github.io/2021-05-18-UoftCoders/ 
 
 ## Overall 
 
@@ -23,23 +23,23 @@ Event page: https://franceswong.github.io/2021-05-18-UoftCoders/
 
 May 18
 
-"The Unix Shell" AM
-Instructor - Haidy
-Helpers - Mike
+"The Unix Shell" AM  
+Instructor - Haidy  
+Helpers - Mike  
 
-"Programming with R" (parts 1-8) PM
-Instructor - Johnny
-Helpers - Lise
+"Programming with R" (parts 1-8) PM  
+Instructor - Johnny  
+Helpers - Lise  
 
 May 25th
 
-"Version Control with Git" AM
-Instructor - Frances
-Helpers - Amin
+"Version Control with Git" AM  
+Instructor - Frances  
+Helpers - Amin  
 
-"Programming with R" (parts 9-15) PM
-Instructor - Amin
-Helpers - Haidy
+"Programming with R" (parts 9-15) PM  
+Instructor - Amin  
+Helpers - Haidy  
 
 Ahmed and Frances floating about 
 
