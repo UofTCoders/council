@@ -33,6 +33,18 @@
 5. Maintain the master email list for uoftcoders@gmail.com;
 6. Keep the meeting room key if applicable and coordinate its distribution.
 
+### Marketing Coordinator
+
+1. Prepare advertising materials for UofT Coders as needed (posters for special events, for example);
+2. Tweet about UofT Coders events and promote UofT Coders on social media.
+
+### Co-working Coordinator
+
+1. Plan and run regular co-working events throughout the semester.
+
+
+## Currently unfilled roles
+
 ### Special Events Coordinator
 
 1. Responsible for coordinating and organizing:
@@ -44,11 +56,6 @@
 
 1. Responsible for coordinating and organizing the Reproducible Quantitative Methods (RQM) course (based on [the course by Christie Bahlai](https://cbahlai.github.io/rqm-template/)) at the University of Toronto with the help of the other UofT Coders executive council members;
 2. Act as the main liaison between UofT Coders and RQM host department, and/or any other groups at the University of Toronto related to the RQM course implementation.
-
-### Marketing Coordinator
-
-1. Prepare advertising materials for UofT Coders as needed (posters for special events, for example);
-2. Tweet about UofT Coders events and promote UofT Coders on social media.
 
 ### Peer Mentorship Coordinator
 
