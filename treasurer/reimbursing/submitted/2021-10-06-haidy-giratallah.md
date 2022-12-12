@@ -1,0 +1,16 @@
+# Reimbursement form
+- expense_purpose: 2020 Start of Term Social
+- person:
+    - name: Haidy Giratallah
+    - github_user: @HaidyGiratallah
+    - proxy:
+        - name: Amin Banihashemi
+        - github_user: @ab2347
+- receipts:
+    - item:
+        - purchase_date: 2020-01-30
+        - description: Winter 2020 Social
+        - keyword: Pizza Nova for 2020 Social
+        - cost: 71.35
+        - receipt_file: 2020-01-30-Social.pdf
+- pr_num: 309
