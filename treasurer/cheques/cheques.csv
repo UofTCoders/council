@@ -63,10 +63,10 @@ Number,Date,Recipient,Amount,Purpose,SignOff,Note,PR
 62,2019-09-19,Ahmed Hasan,31.63,Social night drinks,Amin and Lina,,301
 63,2019-10-03,Innis Cafe,169.5,Coffee and tea for the Oct 03 SWC workshops,Amin and Lina,,301
 64,2019-10-04,Lina Tran,153.93,"SWC social, Oct 04 2019",Amin and Ahmed,,301
-65,2024-10-07,Yeshoda Harry-Paul,18.05,Welcome event veggies 2024-10-02,Anhadvir Singh,cheque #67,
-66,2024-10-07,Vicki Zhang, 104.40, welcome event pizza 2024-10-02, Anhadvir Singh,cheque #66,
-67,2024-10-24,Vicki Zhang, 108.75, pizza for workshops 1(R) and 2(python), Anhadvir Singh,cheque #68,
-68,2024-10-24,Yeshoda Harry-Paul,36.14,veggie platters,Anhadvir Singh,cheque #69,
-69,2024-12-04,Yeshoda Harry-Paul,17.40,veggie platter for last event 2024-12-03,Anhadvir Singh,cheque #70,
-70,2024-12-04,Yeshoda Harry-Paul,82.00,5 pizzas for last event 2024-12-03,Anhadvir Singh,cheque #71,
-71,2024-12-04,Vicki Zhang,163.84,3 sets of pizzas ,Anhadvir Singh,cheque #71 pizza for workshop 3(bash) ($52.15) - pizza for workshop 4(git) ($53.89) - 3 additional pizzas for last event (2024-12-03) ($57.80),
+67,2024-10-07,Yeshoda Harry-Paul,18.05,Welcome event veggies 2024-10-02,Anhadvir Singh,,
+66,2024-10-07,Vicki Zhang, 104.40, welcome event pizza 2024-10-02, Anhadvir Singh,,
+68,2024-10-24,Vicki Zhang, 108.75, pizza for workshops 1(R) and 2(python), Anhadvir Singh,,
+69,2024-10-24,Yeshoda Harry-Paul,36.14,veggie platters,Anhadvir Singh,,
+70,2024-12-04,Yeshoda Harry-Paul,17.40,veggie platter for last event 2024-12-03,Anhadvir Singh,,
+71,2024-12-04,Yeshoda Harry-Paul,82.00,5 pizzas for last event 2024-12-03,Anhadvir Singh,,
+72,2024-12-04,Vicki Zhang,163.84,3 sets of pizzas ,Anhadvir Singh,pizza for workshop 3(bash) ($52.15) - pizza for workshop 4(git) ($53.89) - 3 additional pizzas for last event (2024-12-03) ($57.80),
