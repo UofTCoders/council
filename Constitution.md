@@ -18,7 +18,7 @@ The purpose, objectives, mission and/or mandate of organization is outlined here
 
 Membership to the group is open to all the University of Toronto members (students, staff, faculty and alumni). 
 
-U of T members are permitted to run, nominate, and vote in elections and constitutional amendments. The group is open to non-U of T members. However, these members do not hold the aforementioned rights. Members must register with a designated executive by submitting their full name and a valid email address.
+U of T members are permitted to run, nominate, and vote in elections and constitutional amendments. The group is open to non-U of T members. However, these members do not hold the aforementioned rights. Members must register *[or have attended an event?]* with a designated executive by submitting their full name and a valid email address.
 
 ### Executive List and Duties
 
@@ -94,7 +94,7 @@ Executive members are subject to the same termination or impeachment process and
 
 ###	Elections
 
-The executive committee shall strike the Elections Committee and appoint one (1) Chief Returning Officer (CRO) from general members on the committee to conduct and hold elections in April. 
+The executive committee shall strike the Elections Committee and appoint one (1) Chief Returning Officer (CRO) from general members on the committee to conduct and hold elections in April *[in September?]*. 
 All members of the Elections Committee shall be non-biased in the results of the election and shall be required to disclose any and all conflicts of interest in the election.
 
 The CRO Returning Officer shall accept nominations only from group members that are also registered U of T members (staff, faculty, students and alumni) for candidacy of executive positions from the general membership before the elections in April. 
@@ -102,7 +102,7 @@ Candidates have to be members in good standing and be part of the group for at l
 
 The CRO shall select an election date allowing a month for the voting period. These dates will be announced in a minimum of two (2) weeks prior to elections dates and must fall on weekdays.
 
-The CRO shall provide each U of T member with a paper ballot on the voting date and ask the member to place their ballot in an enclosed box. 
+The CRO shall provide each U of T member with a paper ballot on the voting date and ask the member to place their ballot in an enclosed box. *[We vote on Discord now lol.]*
 
 In preparation for a tie, the CRO shall select an executive from amongst the executive committee, to cast their ballot and seal it in an envelope. In the event of a tie for an executive position, the CRO shall break the seal and count the ballot in order to break the tie.
 
@@ -110,9 +110,9 @@ After the election is over, the CRO shall count the ballots. The candidate with 
 
 Registered U of T members may not vote by proxy. Non-U of T members may not nominate or vote in elections. 
 
-Only U of T members have been a member in good standing for 30 days prior to election dates are eligible for voting.
+Only U of T members *[who]* have been a member in good standing for 30 days prior to election dates are eligible for voting.
 
-Term of executive positions shall be from May 1st to April 30th of the following year.
+Term of executive positions shall be from May 1st to April 30th *[September to August? if we're running summer events, which we never do, but might in the future?]* of the following year.
 
 ###	Finances
 
