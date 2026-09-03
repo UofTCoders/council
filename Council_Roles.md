@@ -5,19 +5,16 @@
 1. Oversee all UofT Coders activities and be responsible for the internal actions of the council;
 2. Organize and preside over monthly council meetings;
 3. Ensure that UofT Coders affairs are conducted in a fiscally responsible manner;
-4. Marketing:
-    * Send out recruitment emails to various avenues to increase awareness
-5. Make final decisions in the event where decisions are split;
-6. Ensure adequate executive / organizer presence at UofT Coders events.
+4. Make final decisions in the event where decisions are split;
+5. Ensure adequate executive / organizer presence at UofT Coders events.
 
 ### Treasurer
 
 1. Act as UofT Coders financial officer, and together with the President, ensure the group's financial stability;
 2. Oversee the group bank account;
-3. Keep receipts for all financial transactions, and record on the [council repository](https://github.com/UofTCoders/council/tree/master/treasurer) all debits, credits, and cheques released, as well as the dates and remaining bank balance for maintaining and organizing bank records, and for conducting annual audits (if applicable) in accordance with policies established by Student Affairs, University of Toronto;
-4. Apply for funding and sponsorship for the group, as applicable;
-5. Prepare an annual budget at the start of fiscal year;
-6. Present current statements of accounts versus budget, and cash flow positions at Executive Council meetings.
+3. Keep receipts for all financial transactions and record on the [council repository](https://github.com/UofTCoders/council/tree/master/treasurer) all debits, credits, and cheques released, as well as the dates and remaining bank balance for maintaining and organizing bank records, and for conducting annual audits (if applicable) in accordance with policies established by Student Affairs, University of Toronto;
+4. Apply for funding and sponsorship for the group (as applicable) along with the Admin;
+5. Maintain UofT Coders’ fiscal reports (preparing an annual budget, preparing statement summaries for Executive Council meetings, and a final cash flow summary at the end of the fiscal year).
 
 ### Technical Admin
 
@@ -26,24 +23,32 @@
 
 ### Admin
 
-1. Responsible for internal communications of the council and its members
-2. Inform members of UofT Coders events via email, create event postings for the website and contact instructors to create the event issue;
-3. Record the minutes of the Executive Council meetings;
+1. Be responsible for internal communications of the council and its members;
+2. Record the minutes of the Executive Council meetings;
+3. Create issues for UofT Coders events on GitHub and coordinate with instructors and helpers;
 4. Inform and remind council members of items discussed in the meetings via email;
-5. Maintain the master email list for uoftcoders@gmail.com;
-6. Keep the meeting room key if applicable and coordinate its distribution.
+5. Keep the meeting room key if applicable and coordinate its distribution;
+6. Assist the Treasurer in managing receipts and applying for funding.
 
 ### Marketing Coordinator
 
-1. Prepare advertising materials for UofT Coders as needed (posters for special events, for example);
-2. Tweet about UofT Coders events and promote UofT Coders on social media.
+1. Prepare advertising materials with executive team approval to post and/or distribute for UofT Coders as needed (posters for special events, for example);
+2. Maintain the master email list (i.e., the members list) for uoftcoders@gmail.com;
+3. Inform the members of UofT Coders of upcoming events via email and any social media platforms that UofT Coders actively maintains (Discord, Instagram, etc.);
+4. Be responsible for coordinating and organizing marketing for:
+   - Software Carpentry workshops throughout the year (at least once per year, when applicable);
+   - Workshops with various organizations (e.g. CUPE, RGASC, UofT Libraries);
+   - Any other coding-type events that come up (e.g. hackathons, code sprints).
 
-### Co-working Coordinator
+### Liaison Officer
 
-1. Plan and run regular co-working events throughout the semester.
+1. Assist the UofT Coders executive team with planning, organizing, and facilitating group events;
+2. Coordinate with non-UofT Coders personnel (if applicable) in collaboration with the Marketing Coordinator;
+3. Assist in the purchasing of supplies and refreshments for UofT Coders events, in assistance with the Treasurer and the President;
+4. Be present to provide in-person assistance as the need arises during UofT Coders events.
 
 
-## Currently unfilled roles
+## Deprecated Roles (not in current rotation, but have existed in previous years and can be brought back)
 
 ### Special Events Coordinator
 
